@@ -1,0 +1,7742 @@
+[
+    {
+        "word": "agree",
+        "meaning": "[自] ①賛成する ②（主語の中で）意見が一致する ③（with ～）（気候，食べ物が）（～に）合う"
+    },
+    {
+        "word": "oppose",
+        "meaning": "[他] ～に反対する"
+    },
+    {
+        "word": "advise",
+        "meaning": "[他] ～に忠告する"
+    },
+    {
+        "word": "tip",
+        "meaning": "[名] ①助言，ヒント ②チップ ③（足や山などの）先，先端（いずれも〈可算〉）"
+    },
+    {
+        "word": "discuss",
+        "meaning": "[他] ①～について話し合う，議論する ②～を話題に出す"
+    },
+    {
+        "word": "blame",
+        "meaning": "[他] ～に責任があるとする"
+    },
+    {
+        "word": "argue",
+        "meaning": "[他] ①（that S V）～と主張する [自] ②（with ～）（～と）言い争う"
+    },
+    {
+        "word": "claim",
+        "meaning": "[他] ①（that S V）～と主張する ②～を要求する，主張する [名] ③主張，要求"
+    },
+    {
+        "word": "complain",
+        "meaning": "[自] ①文句を言う，苦情を言う ②（of ～）（病気などを）訴える"
+    },
+    {
+        "word": "offer",
+        "meaning": "[他] ①～を申し出る [名] ②申し出 ③値引き"
+    },
+    {
+        "word": "suggest",
+        "meaning": "[他] ①～を示唆する ②～を提案する"
+    },
+    {
+        "word": "recommend",
+        "meaning": "[他] ～を推薦する，勧める"
+    },
+    {
+        "word": "grateful",
+        "meaning": "[形] 感謝している"
+    },
+    {
+        "word": "apologize",
+        "meaning": "[自] （to ～）（～に）謝る"
+    },
+    {
+        "word": "excuse",
+        "meaning": "[名] ①言い訳 [他] ②～を許す ③（A from B）（B からA）を免除する"
+    },
+    {
+        "word": "celebrate",
+        "meaning": "[他] ①～を祝う ②（儀式など）を挙行する，執り行なう"
+    },
+    {
+        "word": "admire",
+        "meaning": "[他] ～に感心する，称賛する"
+    },
+    {
+        "word": "impress",
+        "meaning": "[他] ～に感銘を与える，～を感心させる"
+    },
+    {
+        "word": "award",
+        "meaning": "[名] ①賞 [他] ②～を授与する"
+    },
+    {
+        "word": "describe",
+        "meaning": "[他] ～を説明する"
+    },
+    {
+        "word": "explain",
+        "meaning": "[他] ～を説明する"
+    },
+    {
+        "word": "communicate",
+        "meaning": "[自] ①（with ～）（～と）意思の疎通をはかる [他] ②～を伝える"
+    },
+    {
+        "word": "express",
+        "meaning": "[他] ①（意見，気持ち）を表現する [名] ②急行（列車，バス）"
+    },
+    {
+        "word": "promise",
+        "meaning": "[名] ①約束 [他] ②～を約束する"
+    },
+    {
+        "word": "information",
+        "meaning": "[名] 情報〈不可算〉"
+    },
+    {
+        "word": "technology",
+        "meaning": "[名] （科学）技術"
+    },
+    {
+        "word": "research",
+        "meaning": "[名] ①（学術）研究 [他] ②～を研究する"
+    },
+    {
+        "word": "material",
+        "meaning": "[名] ①材料，生地 ②資料，教材 [形] ③物質的な ④重大な"
+    },
+    {
+        "word": "artificial",
+        "meaning": "[形] 人工的な"
+    },
+    {
+        "word": "electric",
+        "meaning": "[形] 電気の，電動の"
+    },
+    {
+        "word": "invent",
+        "meaning": "[他] ①～を発明する ②（話など）をでっち上げる"
+    },
+    {
+        "word": "discover",
+        "meaning": "[他] ①～を発見する ②（that S V）～を知る，～に気がつく ③（知るという意味で）～に出会う"
+    },
+    {
+        "word": "develop",
+        "meaning": "[自] ①発達する [他] ②～を発達させる ③～を開発する ④（話，考え）を発展させる ⑤（病気）にかかる"
+    },
+    {
+        "word": "skill",
+        "meaning": "[名] 技術，力"
+    },
+    {
+        "word": "ability",
+        "meaning": "[名] 能力"
+    },
+    {
+        "word": "talent",
+        "meaning": "[名] 才能"
+    },
+    {
+        "word": "effort",
+        "meaning": "[名] 努力"
+    },
+    {
+        "word": "practice",
+        "meaning": "[名] ①練習 ②実践 ③慣習 [他] ④～を練習する ⑤～を実践する"
+    },
+    {
+        "word": "game",
+        "meaning": "[名] ①試合，ゲーム〈可算〉 ②獲物〈不可算〉"
+    },
+    {
+        "word": "achieve",
+        "meaning": "[他] ～を達成する"
+    },
+    {
+        "word": "manage",
+        "meaning": "[他] ①（to do）何とかして～する ②～を経営する，管理する"
+    },
+    {
+        "word": "improve",
+        "meaning": "[他] ①～を改善する，磨く [自] ②よくなる"
+    },
+    {
+        "word": "produce",
+        "meaning": "[他] ①～を生産する，産出する ②（見せるために）～を取り出す [名] ③農作物〈不可算〉"
+    },
+    {
+        "word": "create",
+        "meaning": "[他] ①～を創造する ②～を引き起こす"
+    },
+    {
+        "word": "establish",
+        "meaning": "[他] ①～を確立する，定着させる ②～を設立する"
+    },
+    {
+        "word": "save",
+        "meaning": "[他] ①（時間，手間）を省く ②～を貯金する ③（命など）を救う [前] ④～を除いて（＝except）"
+    },
+    {
+        "word": "medicine",
+        "meaning": "[名] ①（for ～）（～の）薬 ②医学"
+    },
+    {
+        "word": "patient",
+        "meaning": "[名] ①患者 [形] ②忍耐強い"
+    },
+    {
+        "word": "condition",
+        "meaning": "[名] ①状態，容態 ②（通例 －s）（周囲の）状況，条件"
+    },
+    {
+        "word": "medical",
+        "meaning": "[形] ①医療の ②医学の"
+    },
+    {
+        "word": "stress",
+        "meaning": "[名] ①ストレス ②（on ～）（～に対する）強調 [他] ③～を強調する"
+    },
+    {
+        "word": "suffer",
+        "meaning": "[自] ①（from ～）（病気などで）苦しむ [他] ②（苦痛，損害）を経験する"
+    },
+    {
+        "word": "exercise",
+        "meaning": "[名] ①運動 ②（－s）練習 [自] ③運動する [他] ④～を行使する"
+    },
+    {
+        "word": "breathe",
+        "meaning": "[自] 呼吸する，息をする"
+    },
+    {
+        "word": "thirsty",
+        "meaning": "[形] ①のどが渇いた ②（for ～）（～を）切望して"
+    },
+    {
+        "word": "physical",
+        "meaning": "[形] ①身体的な ②物理的な"
+    },
+    {
+        "word": "fever",
+        "meaning": "[名] ①（体温の）熱 ②熱狂"
+    },
+    {
+        "word": "strength",
+        "meaning": "[名] ①（physical －）体力 ②力"
+    },
+    {
+        "word": "tear",
+        "meaning": "[名] ①（通例 －s）涙〈可算〉 [他] ②（up）～を引き裂く"
+    },
+    {
+        "word": "taste",
+        "meaning": "[自] ①～の味がする [他] ②～の味をみる [名] ③味 ④好み"
+    },
+    {
+        "word": "rule",
+        "meaning": "[名] ①規則 [他] ②～を支配する"
+    },
+    {
+        "word": "role",
+        "meaning": "[名] 役割"
+    },
+    {
+        "word": "habit",
+        "meaning": "[名] 習慣，癖"
+    },
+    {
+        "word": "custom",
+        "meaning": "[名] ①習慣 ②（－s）税関"
+    },
+    {
+        "word": "tradition",
+        "meaning": "[名] 伝統"
+    },
+    {
+        "word": "society",
+        "meaning": "[名] ①社会〈不可算〉 ②（ある具体的な）社会〈可算〉 ③（one's －）～と同席すること ④協会"
+    },
+    {
+        "word": "law",
+        "meaning": "[名] ①（the－）（集合的に）法律，国法 ②（個々の）法律 ③（科学などの）法則"
+    },
+    {
+        "word": "ancestor",
+        "meaning": "[名] 祖先"
+    },
+    {
+        "word": "population",
+        "meaning": "[名] ①人口，個体数 ②（一定の地域に住む）住民"
+    },
+    {
+        "word": "native",
+        "meaning": "[形] ①母国の，その土地の [名] ②（ある土地の）生まれの人"
+    },
+    {
+        "word": "abroad",
+        "meaning": "[副] 海外へ，海外で"
+    },
+    {
+        "word": "local",
+        "meaning": "[形] ①その土地の，地元の ②地方の [名] ③ 地元の人"
+    },
+    {
+        "word": "survey",
+        "meaning": "[名] ①調査〈可算〉 [他] ②～を調査する"
+    },
+    {
+        "word": "evidence",
+        "meaning": "[名] 証拠〈不可算〉"
+    },
+    {
+        "word": "value",
+        "meaning": "[名] ①価値 ②（－s）価値観 ③お買い得品〈不可算〉 [他] ④～を重んじる"
+    },
+    {
+        "word": "treasure",
+        "meaning": "[名] ①財宝，宝 ②大事な物［人］ [他] ③（思い出など）を大事にする"
+    },
+    {
+        "word": "fashion",
+        "meaning": "[名] ①流行 ②流儀，やり方 [他] ③（手などで）～を作る"
+    },
+    {
+        "word": "public",
+        "meaning": "[名] ①（the －）大衆 [形] ②公の，公共の"
+    },
+    {
+        "word": "vote",
+        "meaning": "[名] ①投票（数） [自] ②投票する"
+    },
+    {
+        "word": "government",
+        "meaning": "[名] 政府"
+    },
+    {
+        "word": "nation",
+        "meaning": "[名] ①国家 ②（the －） 国民"
+    },
+    {
+        "word": "capital",
+        "meaning": "[名] ①首都 ②資本 [形] ③重大な，死に値する"
+    },
+    {
+        "word": "state",
+        "meaning": "[名] ①州 ②状態 ③国家 [他] ④（意見，情報）を述べる"
+    },
+    {
+        "word": "political",
+        "meaning": "[形] 政治的な，政治の"
+    },
+    {
+        "word": "price",
+        "meaning": "[名] ①価格 ②（－s）物価 ③代償"
+    },
+    {
+        "word": "cost",
+        "meaning": "[他] ①（費用）を要する，～がかかる ②～を犠牲にする [名] ③費用，犠牲"
+    },
+    {
+        "word": "sum",
+        "meaning": "[名] ①（修飾語を伴って）金額 ②合計 ③（簡単な）計算 [他] ④（up）～を要約する"
+    },
+    {
+        "word": "budget",
+        "meaning": "[名] 予算"
+    },
+    {
+        "word": "fee",
+        "meaning": "[名] ①（会費，遊園地などの）料金 ②（専門職への）謝礼"
+    },
+    {
+        "word": "fare",
+        "meaning": "[名] 運賃"
+    },
+    {
+        "word": "bill",
+        "meaning": "[名] ①勘定 ②請求書 ③〈米〉紙幣 ④法案"
+    },
+    {
+        "word": "trade",
+        "meaning": "[名] ①貿易 ②（the ～ trade）～業 ③商売 [他] ④～を交換する"
+    },
+    {
+        "word": "wealth",
+        "meaning": "[名] ①富，財産〈不可算〉 ②（a － of ～）豊富な～"
+    },
+    {
+        "word": "economy",
+        "meaning": "[名] ①経済 ②節約"
+    },
+    {
+        "word": "company",
+        "meaning": "[名] ①会社 ②（one's －）一緒にいること ③仲間 ④来客"
+    },
+    {
+        "word": "task",
+        "meaning": "[名] 仕事〈可算〉"
+    },
+    {
+        "word": "earn",
+        "meaning": "[他] ①（金）を稼ぐ，もうける ②（評判など）を得る"
+    },
+    {
+        "word": "hurt",
+        "meaning": "[自] ①（身体の部位が）痛む [他] ②（身体，感情）を傷つける"
+    },
+    {
+        "word": "injure",
+        "meaning": "[他] ①～を痛める ②～をけがさせる"
+    },
+    {
+        "word": "damage",
+        "meaning": "[他] ①～に損害を与える [名] ②損害，被害〈不可算〉 ③（－s）賠償金"
+    },
+    {
+        "word": "destroy",
+        "meaning": "[他] ①～を（完全に）破壊する ②～を殺す，全滅させる"
+    },
+    {
+        "word": "ruin",
+        "meaning": "[他] ①～を台無しにする ②～を破滅させる [名] ③（－s）廃墟，荒廃"
+    },
+    {
+        "word": "danger",
+        "meaning": "[名] 危険"
+    },
+    {
+        "word": "neighbor",
+        "meaning": "[名] ①近所の人 ②（a next-door －）隣の人"
+    },
+    {
+        "word": "audience",
+        "meaning": "[名] 聴衆，観客"
+    },
+    {
+        "word": "crowd",
+        "meaning": "[名] 群衆"
+    },
+    {
+        "word": "author",
+        "meaning": "[名] ①著者 ②作家"
+    },
+    {
+        "word": "staff",
+        "meaning": "[名] （集合的に）職員，従業員"
+    },
+    {
+        "word": "clerk",
+        "meaning": "[名] ①〈米〉店員 ②事務員，社員"
+    },
+    {
+        "word": "customer",
+        "meaning": "[名] 客"
+    },
+    {
+        "word": "passenger",
+        "meaning": "[名] 乗客"
+    },
+    {
+        "word": "elderly",
+        "meaning": "[形] ①年配の ②（the －）年配の人々"
+    },
+    {
+        "word": "female",
+        "meaning": "[形] ①女性の ②（動物）雌の [名] ③女性，雌"
+    },
+    {
+        "word": "head",
+        "meaning": "[自] ①向かう [他] ②～を率いる"
+    },
+    {
+        "word": "follow",
+        "meaning": "[他] ①～の後について行く，～に続く ②（忠告，方針など）に従う"
+    },
+    {
+        "word": "wander",
+        "meaning": "[自] 歩き回る，さまよう"
+    },
+    {
+        "word": "travel",
+        "meaning": "[自] ①旅行する，移動する ②（光，音などが）進む"
+    },
+    {
+        "word": "pass",
+        "meaning": "[他] ①～を通り過ぎる ②～を抜く ③（試験）に受かる ④（（人）A）（人）に（A を）渡す [自] ⑤（時が）過ぎる [名] ⑥通行証"
+    },
+    {
+        "word": "likely",
+        "meaning": "[形] ①（to do）～しそうだ，可能性が高い [副] ②おそらく"
+    },
+    {
+        "word": "natural",
+        "meaning": "[形] ①当然の ②自然の ③生まれながらの"
+    },
+    {
+        "word": "certain",
+        "meaning": "[形] ①確かな ②（名詞の前で）ある～"
+    },
+    {
+        "word": "probably",
+        "meaning": "[副] おそらく"
+    },
+    {
+        "word": "face",
+        "meaning": "[他] ①～に直面する ②〈方向〉～向きである [名] ③顔，体面"
+    },
+    {
+        "word": "avoid",
+        "meaning": "[他] ～を避ける"
+    },
+    {
+        "word": "solve",
+        "meaning": "[他] ～を解決する"
+    },
+    {
+        "word": "trouble",
+        "meaning": "[名] ①問題，ごたごた（通例〈不可算〉） [他] ② ～を困らせる"
+    },
+    {
+        "word": "issue",
+        "meaning": "[名] ①問題 ②（雑誌の）号 [他] ③（切手など）を発行する"
+    },
+    {
+        "word": "cheer",
+        "meaning": "[他] ①（on）～に声援を送る ②（up）～を励ます"
+    },
+    {
+        "word": "encourage",
+        "meaning": "[他] ①（A to do）（A）に（～するよう）促す，奨励する ②～を励ます"
+    },
+    {
+        "word": "support",
+        "meaning": "[他] ①～を支持する ②（家族など）を養う ③（理論など）を立証する [名] ④支持，支援"
+    },
+    {
+        "word": "prevent",
+        "meaning": "[他] ①～を妨げる ②～を予防する"
+    },
+    {
+        "word": "deny",
+        "meaning": "[他] ①～を否定する ②〈S V O1 O2〉（O1）に（O2を）与えない"
+    },
+    {
+        "word": "enable",
+        "meaning": "[他] （A to do）（A）に［が］（～することを）可能にする"
+    },
+    {
+        "word": "succeed",
+        "meaning": "[自] ①（in ～）（～に）成功する ②（to ～）（家業などを）継ぐ"
+    },
+    {
+        "word": "miss",
+        "meaning": "[他] ①～を逃す ②～を休む ③～を恋しく思う"
+    },
+    {
+        "word": "fail",
+        "meaning": "[自] ①（in［at］～）（～に）失敗する ②（to do）～できない [他] ③（試験）に落ちる ④（人）に役に立たない"
+    },
+    {
+        "word": "mistake",
+        "meaning": "[名] ①間違い [他] ②（A for B）（A）を（B と）間違える"
+    },
+    {
+        "word": "check",
+        "meaning": "[他] ①～を調べる ②～を阻止する [名] ③小切手 ④勘定書 ⑤検査，点検 ⑥抑制"
+    },
+    {
+        "word": "hide",
+        "meaning": "[他] ①～を隠す [自] ②隠れる"
+    },
+    {
+        "word": "draw",
+        "meaning": "[他] ①（線で絵など）を描く ②（注意）を引く ③ ～を引っ張る，集める"
+    },
+    {
+        "word": "join",
+        "meaning": "[他] ①（クラブ，団体など）に加わる ②～をつなぐ ③（食事などを）～とともにする [自] ④（議論，活動などに）参加する"
+    },
+    {
+        "word": "throw",
+        "meaning": "[他] ①～を投げる ②（away［out］）～を捨てる ③（パーティなど）を催す [名] ④投げること"
+    },
+    {
+        "word": "operate",
+        "meaning": "[他] ①（機械など）を操作する [自] ②手術する ③（機械などが）作動する，（組織が）運営される"
+    },
+    {
+        "word": "repair",
+        "meaning": "[他] ①～を修理する ② ～を修復する [名] ③ 修理，修復"
+    },
+    {
+        "word": "sew",
+        "meaning": "[他] ①～を縫う ②（on）（ボタンなど）を縫いつける"
+    },
+    {
+        "word": "raise",
+        "meaning": "[他]① ～を上げる ②（子ども，作物）を育てる ③（お金，資金）を集める ④（問題）を提起する [名]⑤賃上げ，昇給"
+    },
+    {
+        "word": "serve",
+        "meaning": "[他] ①（飲食物）を出す ②～に役立つ [自] ③ 役立つ"
+    },
+    {
+        "word": "pour",
+        "meaning": "[他] ①～を注ぐ [自] ②降りそそぐ"
+    },
+    {
+        "word": "spill",
+        "meaning": "[他] ①～をこぼす [名] ②（石油などの）流出"
+    },
+    {
+        "word": "pretend",
+        "meaning": "[自] （to do / that S V）（～する/ ～である）ふりをする"
+    },
+    {
+        "word": "behave",
+        "meaning": "[自] ふるまう"
+    },
+    {
+        "word": "bear",
+        "meaning": "[他] ①（can －）～に耐える ②～を持つ ③～を産む"
+    },
+    {
+        "word": "explore",
+        "meaning": "[他] ①～を探検する，（街など）を探索する ②（問題など）を探る"
+    },
+    {
+        "word": "happen",
+        "meaning": "[自] ①（to ～）（～に）起こる ②（to do）偶然～する"
+    },
+    {
+        "word": "appear",
+        "meaning": "[自] ①現れる ②（to be ～）～のように思える"
+    },
+    {
+        "word": "remain",
+        "meaning": "[自] ①～のままでいる ②残る"
+    },
+    {
+        "word": "survive",
+        "meaning": "[自] ①生き残る [他] ②～から生き延びる，～の後も存続する"
+    },
+    {
+        "word": "belong",
+        "meaning": "[自] （to ～）①（～に）所属している ②（～の）所有物である"
+    },
+    {
+        "word": "represent",
+        "meaning": "[他] ①～を代表する ②（記号などが）を表す ③～を表現する"
+    },
+    {
+        "word": "base",
+        "meaning": "[他] ①～の基礎を置く [名] ②基礎（の部分），基盤 ③基地"
+    },
+    {
+        "word": "include",
+        "meaning": "[他] ～を含む"
+    },
+    {
+        "word": "contain",
+        "meaning": "[他] ①～を含む ②～を抑える"
+    },
+    {
+        "word": "own",
+        "meaning": "[形] （所有格の後で）①自分自身の ②（名詞的に）自分自身のもの [他] ③～を所有している"
+    },
+    {
+        "word": "share",
+        "meaning": "[他] ①～を共有する ②（考えなど）を（人に）伝える [名] ③共有 ④分け前"
+    },
+    {
+        "word": "collect",
+        "meaning": "[他] ①（同種の物）を集める ②～を徴収する，回収する"
+    },
+    {
+        "word": "gather",
+        "meaning": "[他] ①～を集める [自] ②集まる"
+    },
+    {
+        "word": "history",
+        "meaning": "[名] ①歴史 ②履歴，前歴，病歴"
+    },
+    {
+        "word": "subject",
+        "meaning": "[名] ①科目 ②話題 ③被験者 [形] ④（be － to ～）～を受けやすい"
+    },
+    {
+        "word": "education",
+        "meaning": "[名] 教育"
+    },
+    {
+        "word": "knowledge",
+        "meaning": "[名] 知識，知っていること"
+    },
+    {
+        "word": "uniform",
+        "meaning": "[名] ①制服 [形] ②同一の，一定の"
+    },
+    {
+        "word": "grade",
+        "meaning": "[名] ①（小，中，高の）学年 ②等級 ③成績"
+    },
+    {
+        "word": "senior",
+        "meaning": "[名] ①（高校，大学の）最上級生 [形] ②高齢者の ③（地位が）上位の"
+    },
+    {
+        "word": "graduate",
+        "meaning": "[自] （from ～）（～を）卒業する"
+    },
+    {
+        "word": "decide",
+        "meaning": "[他] ①（to do）（～すること）を決定する，決心する [自] ②（on ～）（～を）決める"
+    },
+    {
+        "word": "judge",
+        "meaning": "[他] ①～を判断する [名] ②裁判官，審判（員）"
+    },
+    {
+        "word": "quit",
+        "meaning": "[他] ～を（完全に）やめる"
+    },
+    {
+        "word": "retire",
+        "meaning": "[自] （from ～）（～を）引退する，退職する"
+    },
+    {
+        "word": "review",
+        "meaning": "[名] ①再検討 ②（新聞などの）批評 ③復習"
+    },
+    {
+        "word": "choose",
+        "meaning": "[他] ①～を選ぶ [自] ②選ぶ"
+    },
+    {
+        "word": "imagine",
+        "meaning": "[他] ～を想像する"
+    },
+    {
+        "word": "guess",
+        "meaning": "[他] ①～を推測する [名] ②推測"
+    },
+    {
+        "word": "expect",
+        "meaning": "[他] ①～を予期する ②（A of［from］ B）（B にA）を期待する ③（be －ing）（～を）身ごもっている"
+    },
+    {
+        "word": "predict",
+        "meaning": "[他] ～を予測する"
+    },
+    {
+        "word": "remember",
+        "meaning": "[他] ①（doing）（過去にしたこと）を覚えている ②（to do）（～すること）を覚えている ③（me to ～）（～に）よろしく伝える"
+    },
+    {
+        "word": "remind",
+        "meaning": "[他] ①（A of B）（A）に（B のことを）思い出させる ②（（人）to do）（人）に～するように念を押す"
+    },
+    {
+        "word": "realize",
+        "meaning": "[他] ①～を（はっきり）理解する ②（夢，計画など）を実現する"
+    },
+    {
+        "word": "appreciate",
+        "meaning": "[他] ①～を（正しく）理解する ②～のよさがわかる ③～に感謝する"
+    },
+    {
+        "word": "accept",
+        "meaning": "[他] ～を受け入れる"
+    },
+    {
+        "word": "consider",
+        "meaning": "[他] ①～をよく考える，考慮する ②（人の気持ち）を思いやる ③（A （to be） B） （A）を（B と）みなす"
+    },
+    {
+        "word": "mind",
+        "meaning": "[自] ①気にする [名] ②精神，頭脳 ③（才能，知性のある）人"
+    },
+    {
+        "word": "wonder",
+        "meaning": "[他] ①（wh－節 / if S V）～かなと思う [自] ②（at ～）（～に）驚く"
+    },
+    {
+        "word": "seem",
+        "meaning": "[自] ～のように思われる"
+    },
+    {
+        "word": "compare",
+        "meaning": "[他] ①（A with［to, and］ B）（A）を（B と）比較する ②（A to B）（A）を（B に）例える [自] ③（with［to］～）（～に）匹敵する"
+    },
+    {
+        "word": "concentrate",
+        "meaning": "[自] ①（on ～）（～に）集中する [他] ②（A on B）（A）を（B に）集中させる"
+    },
+    {
+        "word": "focus",
+        "meaning": "[自] ①（on ～）（～に）焦点を当てる，力を注ぐ [名] ②焦点"
+    },
+    {
+        "word": "allow",
+        "meaning": "[他] ①（人が）～を許可する ②（物が）～を可能にする"
+    },
+    {
+        "word": "admit",
+        "meaning": "[他] ①～を認める ②～の入場［入学］を許可する"
+    },
+    {
+        "word": "ground",
+        "meaning": "[名] ①地面 ②根拠"
+    },
+    {
+        "word": "pollution",
+        "meaning": "[名] 汚染，公害〈不可算〉"
+    },
+    {
+        "word": "sight",
+        "meaning": "[名] ①光景 ②視力"
+    },
+    {
+        "word": "view",
+        "meaning": "[名] ①眺め，景色〈可算〉 ②見解，見方〈不可算〉 [他] ③（A as B）（A）を（B と）みなす"
+    },
+    {
+        "word": "landscape",
+        "meaning": "[名] ①風景 ②（the －）（政治，社会の）情勢"
+    },
+    {
+        "word": "nature",
+        "meaning": "[名] ①（無冠詞）自然 ②（しばしばthe － of ～） （～の）性質"
+    },
+    {
+        "word": "seed",
+        "meaning": "[名] ①種 ②シード選手"
+    },
+    {
+        "word": "plant",
+        "meaning": "[名] ①植物 ②（大規模な）工場 [他] ③～を植える"
+    },
+    {
+        "word": "bloom",
+        "meaning": "[自] ①（花が）咲く [名] ②開花"
+    },
+    {
+        "word": "harvest",
+        "meaning": "[名] ①収穫 [他] ②～を収穫する ③（臓器，体液など）を摘出する"
+    },
+    {
+        "word": "insect",
+        "meaning": "[名] 昆虫"
+    },
+    {
+        "word": "earthquake",
+        "meaning": "[名] 地震"
+    },
+    {
+        "word": "temperature",
+        "meaning": "[名] ①温度，気温 ②体温"
+    },
+    {
+        "word": "degree",
+        "meaning": "[名] ①（温度などの）度 ②程度 ③ 学位"
+    },
+    {
+        "word": "flood",
+        "meaning": "[名] ①洪水 [他] ②～を水浸しにする"
+    },
+    {
+        "word": "freeze",
+        "meaning": "[自] ①凍る，凍りつく [他] ②～を凍らせる"
+    },
+    {
+        "word": "reflect",
+        "meaning": "[他] ①～を反射する ②～を反映する [自] ③（on ～）（～を）熟考する"
+    },
+    {
+        "word": "polite",
+        "meaning": "[形] （人，言動が）礼儀正しい"
+    },
+    {
+        "word": "rude",
+        "meaning": "[形] 無礼な，不作法な"
+    },
+    {
+        "word": "lonely",
+        "meaning": "[形] 孤独な"
+    },
+    {
+        "word": "lazy",
+        "meaning": "[形] ①（やる気がなく）怠惰な，いい加減な ②（名詞の前で）くつろいだ"
+    },
+    {
+        "word": "strict",
+        "meaning": "[形] 厳しい"
+    },
+    {
+        "word": "ugly",
+        "meaning": "[形] 醜い"
+    },
+    {
+        "word": "intelligent",
+        "meaning": "[形] 知的な，賢い"
+    },
+    {
+        "word": "silly",
+        "meaning": "[形] ばかな"
+    },
+    {
+        "word": "nervous",
+        "meaning": "[形] ①あがって，落ち着かない ②神経質な，臆病な ③（身体の）神経の"
+    },
+    {
+        "word": "awake",
+        "meaning": "[形] 目を覚まして"
+    },
+    {
+        "word": "attitude",
+        "meaning": "[名] 態度，姿勢"
+    },
+    {
+        "word": "character",
+        "meaning": "[名] ①性格，特徴 ②登場人物 ③文字"
+    },
+    {
+        "word": "characteristic",
+        "meaning": "[名] ①特徴〈可算〉 [形] ②特有の，特徴的な"
+    },
+    {
+        "word": "feature",
+        "meaning": "[名] ①特徴 ②特集記事 [他] ③～を特集する"
+    },
+    {
+        "word": "detail",
+        "meaning": "[名] ①詳細 ②（建物などの）細部"
+    },
+    {
+        "word": "advantage",
+        "meaning": "[名] （over ～）（～に対する）利点"
+    },
+    {
+        "word": "fault",
+        "meaning": "[名] ①（ちょっとした）欠点，不具合〈可算〉 ②（one's －）責任〈不可算〉 ③断層"
+    },
+    {
+        "word": "quality",
+        "meaning": "[名] ①質〈不可算〉 ②（通例－s）（人間の）資質"
+    },
+    {
+        "word": "correct",
+        "meaning": "[形] ①正確な，正しい [他] ②～を訂正する，矯正する"
+    },
+    {
+        "word": "ideal",
+        "meaning": "[形] ①理想的な，申し分のない [名] ②理想，理想的な姿"
+    },
+    {
+        "word": "fair",
+        "meaning": "[形] ①公正な，公平な [名] ②品評会，見本市"
+    },
+    {
+        "word": "appropriate",
+        "meaning": "[形] 適切な"
+    },
+    {
+        "word": "famous",
+        "meaning": "[形] ①（for one's ～）（～で）有名な ②（as ～）（～として）有名な"
+    },
+    {
+        "word": "elementary",
+        "meaning": "[形] 初歩的な，基本の"
+    },
+    {
+        "word": "major",
+        "meaning": "[形] ①主要な [自] ②（in ～）（～を）専攻する"
+    },
+    {
+        "word": "matter",
+        "meaning": "[自] ①重要である [名] ②（修飾語を伴い）物質 ③（－s）事態，状況"
+    },
+    {
+        "word": "bright",
+        "meaning": "[形] ①明るい ②（主に子どもや若者が）賢い"
+    },
+    {
+        "word": "brilliant",
+        "meaning": "[形] ①輝いている ②すばらしい"
+    },
+    {
+        "word": "lively",
+        "meaning": "[形] 生き生きとした"
+    },
+    {
+        "word": "comfortable",
+        "meaning": "[形] ①（物が）快適な ②（人が）心地よい"
+    },
+    {
+        "word": "pleasant",
+        "meaning": "[形] （人にとって）楽しい，心地よい"
+    },
+    {
+        "word": "convenient",
+        "meaning": "[形] ①都合がよい ②近くて便利がよい"
+    },
+    {
+        "word": "false",
+        "meaning": "[形] ①誤った ②偽の"
+    },
+    {
+        "word": "terrible",
+        "meaning": "[形] ①ひどい ②苦手で"
+    },
+    {
+        "word": "awful",
+        "meaning": "[形] ひどい，不快な"
+    },
+    {
+        "word": "thin",
+        "meaning": "[形] ①薄い ②（病的に）やせた ③（毛が）薄い"
+    },
+    {
+        "word": "tight",
+        "meaning": "[形] ①引き締まった，きつい ②厳しい"
+    },
+    {
+        "word": "loose",
+        "meaning": "[形] ①ゆるい ②解き放たれた"
+    },
+    {
+        "word": "raw",
+        "meaning": "[形] 生の，加工されていない"
+    },
+    {
+        "word": "empty",
+        "meaning": "[形] ①空の，中身のない [他] ②～を空にする"
+    },
+    {
+        "word": "smooth",
+        "meaning": "[形] ①滑らかな ②順調な [他] ③（服のしわ）をのばす，（髪）をなでつける"
+    },
+    {
+        "word": "direct",
+        "meaning": "[形] ①直接的な [他] ②～を指揮［監督，演出］する ③（注意など）を向ける ④～に道を教える"
+    },
+    {
+        "word": "familiar",
+        "meaning": "[形] ①知られた ②（人が）（よく）知っている"
+    },
+    {
+        "word": "similar",
+        "meaning": "[形] （to ～）（～に）似た"
+    },
+    {
+        "word": "differ",
+        "meaning": "[自] 異なる"
+    },
+    {
+        "word": "vary",
+        "meaning": "[自] さまざまだ，変わる"
+    },
+    {
+        "word": "specific",
+        "meaning": "[形] ①特定の ②明確な，具体的な"
+    },
+    {
+        "word": "common",
+        "meaning": "[形] ①普及した，普通の ②（主に名詞の前で）共通の"
+    },
+    {
+        "word": "unusual",
+        "meaning": "[形] 珍しい"
+    },
+    {
+        "word": "add",
+        "meaning": "[他] ①～を加える [自] ②（to ～）（～を）増やす"
+    },
+    {
+        "word": "increase",
+        "meaning": "[自] ①増える [他] ②～を増やす [名] ③（in ～）（～の）増加"
+    },
+    {
+        "word": "reduce",
+        "meaning": "[他] ①～を減らす ②（A to B） A をB にする"
+    },
+    {
+        "word": "divide",
+        "meaning": "[他] ①～を分割する ②（by ～）（～によって）（数字）を割る"
+    },
+    {
+        "word": "count",
+        "meaning": "[他] ①～を数える [自]②数える ③重要である ④（on ～）（～を）（全面的に）当てにする"
+    },
+    {
+        "word": "weigh",
+        "meaning": "[自] ①～の重さがある [他] ②～の重さを量る ③～を（比較）検討する"
+    },
+    {
+        "word": "quarter",
+        "meaning": "[名] ①4 分の1 ，15分，25セント ②（都市のある特定な）地域"
+    },
+    {
+        "word": "lot",
+        "meaning": "[名] ①（a － of ～）多くの～ ②（副詞的に）（a －）とても ③（one's）（～の）状況，運命 ④（何らかの目的を持つ）土地"
+    },
+    {
+        "word": "pile",
+        "meaning": "[名] ①積み重ね，山 ②多量 [他] ③～を積み重ねる"
+    },
+    {
+        "word": "rate",
+        "meaning": "[名] ①割合，速さ ②（ホテルなどの一定の）料金 [他] ③～を評価する"
+    },
+    {
+        "word": "figure",
+        "meaning": "[名] ①数字 ②人物 ③スタイル，体つき ④図 [自] ⑤目立つ"
+    },
+    {
+        "word": "lack",
+        "meaning": "[名] ①（（a）－ of ～）（～の）不足 [他] ②～を欠いている"
+    },
+    {
+        "word": "extra",
+        "meaning": "[形] ①余分な，追加の，臨時の [名] ②余分な［追加された］もの"
+    },
+    {
+        "word": "ready",
+        "meaning": "[形] ①用意ができている ②（be ～ to do）進んで～する"
+    },
+    {
+        "word": "prepare",
+        "meaning": "[他] ①～の準備をする，用意をする [自] ②準備をする，用意をする [形] ③（be －d to do）（～する）準備ができている"
+    },
+    {
+        "word": "adjust",
+        "meaning": "[自] ①（to ～）（～に）慣れる [他] ②～を調整する"
+    },
+    {
+        "word": "apply",
+        "meaning": "[自] ①（to ～）（～に）当てはまる ②（for ～）（～に）申し込む [他] ③～を当てはめる，応用する ④（薬，口紅など）を塗る"
+    },
+    {
+        "word": "suit",
+        "meaning": "[他] ①（人）に適している，好都合だ ②（服装，色が人）に似合う [名] ③訴訟（＝lawsuit） ④ スーツ"
+    },
+    {
+        "word": "case",
+        "meaning": "[名] ①場合 ②（the －）事実 ③（犯罪）事件 ④症例 ⑤（make a －）主張（する）"
+    },
+    {
+        "word": "scene",
+        "meaning": "[名] ①（劇，小説などの）場面 ②（事故）現場 ③（the ～ scene）～（業）界"
+    },
+    {
+        "word": "chance",
+        "meaning": "[名] ①（to do）（～する）機会 ②（of ～ / that S V）（～の/ ～する）可能性"
+    },
+    {
+        "word": "opportunity",
+        "meaning": "[名] （よい）機会，好機"
+    },
+    {
+        "word": "experience",
+        "meaning": "[名] ①経験 ②（個々の）体験 [他] ③～を経験する"
+    },
+    {
+        "word": "time",
+        "meaning": "[名] ①（漠然とした）時間 ②（ある長さの）時間 ③回数 ④倍 ⑤（－s）情勢，時代 ⑥（接続詞的に（the） next －）次に～するとき"
+    },
+    {
+        "word": "spring",
+        "meaning": "[名] ①春 ②泉，温泉 [自] ③飛び出る，突然出現する"
+    },
+    {
+        "word": "minute",
+        "meaning": "[名] ①（時間の）分 ②（a －）ちょっとの間 ③（－s）議事録 [形] ④とても小さい，細かい [接] ⑤（the －）～するとすぐに"
+    },
+    {
+        "word": "period",
+        "meaning": "[名] ①時代 ②期間 ③（学校の）時限"
+    },
+    {
+        "word": "generation",
+        "meaning": "[名] ①世代 ②生み出すこと ③発電"
+    },
+    {
+        "word": "anniversary",
+        "meaning": "[名] 記念日"
+    },
+    {
+        "word": "recently",
+        "meaning": "[副] 最近，近ごろ"
+    },
+    {
+        "word": "used",
+        "meaning": "[助] ①（to ～）以前は～だった，よく～したものだ [形] ②（be － to doing）（～することに）慣れている ③中古の"
+    },
+    {
+        "word": "early",
+        "meaning": "[副] ①（時間，時期が）早く，初期に ②（予定より）早く [形] ③早い，初期の"
+    },
+    {
+        "word": "first",
+        "meaning": "[形] ①第1 の ②（for the － time）初めて [副] ③ 初めて ④（文頭で）まず第1 に（＝firstly） [名]⑤（at －）最初のうちは"
+    },
+    {
+        "word": "latest",
+        "meaning": "[形] （the －）最新の"
+    },
+    {
+        "word": "modern",
+        "meaning": "[形] ①現代の ②近代的な"
+    },
+    {
+        "word": "latter",
+        "meaning": "[形] ①後半の [名] ②（the －）後者"
+    },
+    {
+        "word": "spend",
+        "meaning": "[他] ①（時間）を費やす ②（お金）を使う"
+    },
+    {
+        "word": "delay",
+        "meaning": "[他] ①～を遅らせる [名] ②遅延，延期"
+    },
+    {
+        "word": "borrow",
+        "meaning": "[他] ～を借りる"
+    },
+    {
+        "word": "lend",
+        "meaning": "[他] ①（無償で）～を貸す ②（銀行が利子をつけて）を貸す"
+    },
+    {
+        "word": "rent",
+        "meaning": "[他] ①～を借りる ②（A to B）（A）を（B に）賃貸しする [名] ③家賃，賃貸料，使用料"
+    },
+    {
+        "word": "provide",
+        "meaning": "[他] ～を供給する，与える"
+    },
+    {
+        "word": "shelf",
+        "meaning": "[名] 棚（の一段）"
+    },
+    {
+        "word": "board",
+        "meaning": "[名] ①（細長い）板 ②（幹部などによる）委員会 [他] ③～に乗る"
+    },
+    {
+        "word": "garbage",
+        "meaning": "[名] ごみ"
+    },
+    {
+        "word": "item",
+        "meaning": "[名] ①品物 ②項目 ③（短い）記事"
+    },
+    {
+        "word": "wheel",
+        "meaning": "[名] ①車輪 ②（the －）ハンドル [他] ③（車輪のついたもの）を動かす"
+    },
+    {
+        "word": "note",
+        "meaning": "[名] ①メモ ②〈英〉紙幣 [他] ③（that S V）（～ということ）を指摘する ④ ～に注意を払う"
+    },
+    {
+        "word": "present",
+        "meaning": "[名] ①プレゼント ②現在 [形] ③現在の ④ 出席して，存在して [他] ⑤～を贈る，提示する"
+    },
+    {
+        "word": "stuff",
+        "meaning": "[名] ①（漠然とした）もの [他] ②～を詰める"
+    },
+    {
+        "word": "string",
+        "meaning": "[名] ①ひも ②（a － of ～）一連の～ ③（ギターなどの）弦"
+    },
+    {
+        "word": "leisure",
+        "meaning": "[名] ①余暇 ②（形容詞的に）余暇の"
+    },
+    {
+        "word": "diet",
+        "meaning": "[名] ①食事 ②規定食 ③（D－） （日本の）国会"
+    },
+    {
+        "word": "furniture",
+        "meaning": "[名] 家具〈不可算〉"
+    },
+    {
+        "word": "refrigerator",
+        "meaning": "[名] 冷蔵庫"
+    },
+    {
+        "word": "traffic",
+        "meaning": "[名] 交通（量）〈不可算〉"
+    },
+    {
+        "word": "jam",
+        "meaning": "[名] ①渋滞 ②ジャム"
+    },
+    {
+        "word": "sell",
+        "meaning": "[他] ①～を売る [自] ②売れる"
+    },
+    {
+        "word": "pay",
+        "meaning": "[他] ①（A for B） （B の代金としてA）を支払う [自] ②（for A） （A の代金を）支払う ③（仕事などが）割に合う [名] ④給料"
+    },
+    {
+        "word": "wear",
+        "meaning": "[他] ①～を身につけている ②～をすり減らす [自] ③すり減る"
+    },
+    {
+        "word": "clothes",
+        "meaning": "[名] 服〈複数扱い〉"
+    },
+    {
+        "word": "marry",
+        "meaning": "[他] ～と結婚する"
+    },
+    {
+        "word": "greet",
+        "meaning": "[他] ～に挨拶する，出迎える"
+    },
+    {
+        "word": "order",
+        "meaning": "[他] ①～を注文する ②（医者や上官などが）～に命令する [名] ③ 注文 ④命令 ⑤順序 ⑥秩序"
+    },
+    {
+        "word": "room",
+        "meaning": "[名] ①部屋 ②余地，空間〈不可算〉"
+    },
+    {
+        "word": "story",
+        "meaning": "[名] 階"
+    },
+    {
+        "word": "site",
+        "meaning": "[名] ①用地 ②現場，場所 ③（史跡などの）跡"
+    },
+    {
+        "word": "yard",
+        "meaning": "[名] ①（主に〈米〉）庭 ②ヤード（＝約0.9 m）"
+    },
+    {
+        "word": "bottom",
+        "meaning": "[名] ①底 ②一番下，最下位 ③ 尻"
+    },
+    {
+        "word": "line",
+        "meaning": "[名] ①列 ②行，線 ③電話回線 ④セリフ [自] ⑤（up）並ぶ"
+    },
+    {
+        "word": "row",
+        "meaning": "[名] ①列 [他] ②（ボート）をこぐ"
+    },
+    {
+        "word": "background",
+        "meaning": "[名] ①背景 ②経歴，生い立ち"
+    },
+    {
+        "word": "direction",
+        "meaning": "[名] ①方向，方角 ②（－s）道順 ③指示"
+    },
+    {
+        "word": "art",
+        "meaning": "[名] ①芸術 ②技術 ③（liberal －s）一般教養"
+    },
+    {
+        "word": "culture",
+        "meaning": "[名] ①文化 ②培養，養殖 ③教養 [他] ④～を耕す，栽培［養殖］する"
+    },
+    {
+        "word": "cartoon",
+        "meaning": "[名] 漫画"
+    },
+    {
+        "word": "novel",
+        "meaning": "[名] ①小説 [形] ②斬新な"
+    },
+    {
+        "word": "instrument",
+        "meaning": "[名] ①楽器 ②器具"
+    },
+    {
+        "word": "tune",
+        "meaning": "[名] ①曲 [自] ②（番組）にチャンネルを合わせる [他] ③～の調子を合わせる"
+    },
+    {
+        "word": "sentence",
+        "meaning": "[名] ①（ 1 つ1 つの）文 ②判決 [他] ③（A to B）（A）を（B）の刑にする"
+    },
+    {
+        "word": "article",
+        "meaning": "[名] ①記事 ②品物 ③冠詞 ④条項"
+    },
+    {
+        "word": "passage",
+        "meaning": "[名] ①（文章などの）一節 ②（時の）経過，移動 ③通路"
+    },
+    {
+        "word": "vocabulary",
+        "meaning": "[名] 語彙"
+    },
+    {
+        "word": "rumor",
+        "meaning": "[名] うわさ"
+    },
+    {
+        "word": "spell",
+        "meaning": "[他] ①～をつづる [名] ②呪文 ③（天気などのある一続きの）期間"
+    },
+    {
+        "word": "pronounce",
+        "meaning": "[他] ①（単語など）を発音する ②（判決など）を宣告する，～と断言する"
+    },
+    {
+        "word": "sign",
+        "meaning": "[名] ①兆候，印 ②標識，看板，掲示 [他] ③ ～を署名する"
+    },
+    {
+        "word": "mean",
+        "meaning": "[他] ①～を意味する ②（to do）～するつもりだ [形] ③意地悪な"
+    },
+    {
+        "word": "publish",
+        "meaning": "[他] ①～を出版する ②（公式に結果など）を発表する"
+    },
+    {
+        "word": "display",
+        "meaning": "[他] ①～を展示する ②（実力など）を発揮する ③～を誇示する [名] ④展示，表現，誇示"
+    },
+    {
+        "word": "trust",
+        "meaning": "[他] ①～を信頼する [名] ②信頼，信用"
+    },
+    {
+        "word": "depend",
+        "meaning": "[自] ①（物，事が主語）（on ～）（～）次第である ②（人が主語）（on ～）（～に）頼っている"
+    },
+    {
+        "word": "rely",
+        "meaning": "[自] （on ～）（～に）頼る"
+    },
+    {
+        "word": "pray",
+        "meaning": "[自] 祈る"
+    },
+    {
+        "word": "beg",
+        "meaning": "[他] ①～を嘆願する [自] ②求める"
+    },
+    {
+        "word": "prefer",
+        "meaning": "[他] （A to B） （B よりA）を好む"
+    },
+    {
+        "word": "weep",
+        "meaning": "[自] しくしく泣く"
+    },
+    {
+        "word": "hate",
+        "meaning": "[他] ～を嫌う"
+    },
+    {
+        "word": "worry",
+        "meaning": "[自] ①心配をする [名] ②心配（事）"
+    },
+    {
+        "word": "anxious",
+        "meaning": "[形] ①（about ～）（～を）心配して ②（to do / for ～）（～を）切望して"
+    },
+    {
+        "word": "satisfy",
+        "meaning": "[他] ①～を満足させる ②（必要性，空腹など）を満たす"
+    },
+    {
+        "word": "annoy",
+        "meaning": "[他] ～をいらだたせる"
+    },
+    {
+        "word": "bother",
+        "meaning": "[他] ①～に面倒をかける ②（to do）わざわざ～する [名] ③面倒なもの"
+    },
+    {
+        "word": "disturb",
+        "meaning": "[他] ①（うるさくして）～に迷惑をかける ②（平和など）を乱す"
+    },
+    {
+        "word": "frighten",
+        "meaning": "[他] ～をおびえさせる"
+    },
+    {
+        "word": "upset",
+        "meaning": "[他] ①～を動揺させる ②（均衡など）を乱す [形] ③動揺して，腹を立てて"
+    },
+    {
+        "word": "regret",
+        "meaning": "[他] ①～を後悔する ②（to do）残念ながら～しないといけない [名] ③後悔"
+    },
+    {
+        "word": "favor",
+        "meaning": "[名] ①親切な行為 ②支持"
+    },
+    {
+        "word": "interest",
+        "meaning": "[名] ①関心 ②（－s）利益 ③（銀行などの）利子"
+    },
+    {
+        "word": "pity",
+        "meaning": "[名] ①残念なこと〈可算〉 ②哀れみ〈不可算〉"
+    },
+    {
+        "word": "due",
+        "meaning": "[形] ①（due to （名詞））（名詞）が原因で ②締め切りの ③到着［出産］予定の"
+    },
+    {
+        "word": "reason",
+        "meaning": "[名] ①理由 ②理性 [他] ③～を推理する [自] ④思考する，判断する"
+    },
+    {
+        "word": "result",
+        "meaning": "[名] ①結果 [自] ②（in ～）結果として（～に）なる ③（from ～）（～の）結果として生じる"
+    },
+    {
+        "word": "effect",
+        "meaning": "[名] 効果，影響，結果"
+    },
+    {
+        "word": "influence",
+        "meaning": "[名] ①影響（力） [他] ②～に影響を与える"
+    },
+    {
+        "word": "cause",
+        "meaning": "[他] ①～を引き起こす [名] ②原因"
+    },
+    {
+        "word": "affect",
+        "meaning": "[他] ～に影響を与える，作用する"
+    },
+    {
+        "word": "way",
+        "meaning": "[名] ①方法 ②（in ～ way）（～の）点（で） ③道 [副] ④はるかに"
+    },
+    {
+        "word": "manner",
+        "meaning": "[名] ①方法 ②流儀，態度 ③（－s）マナー"
+    },
+    {
+        "word": "purpose",
+        "meaning": "[名] 目的"
+    },
+    {
+        "word": "sake",
+        "meaning": "[名] ①（for ～）ため ②日本酒"
+    },
+    {
+        "word": "right",
+        "meaning": "[副] ①（場所や時の副詞（句）を修飾して）ちょうど [形] ②正しい，適切な ③右の [名] ④（to ～）（～の）権利"
+    },
+    {
+        "word": "complete",
+        "meaning": "[形] ①完全な [他] ②～を完成させる"
+    },
+    {
+        "word": "hardly",
+        "meaning": "[副] ①（程度）ほとんど～ない ②（－ ever）めったに～ない"
+    },
+    {
+        "word": "nearly",
+        "meaning": "[副] ①ほとんど ②あやうく～しかける"
+    },
+    {
+        "word": "partly",
+        "meaning": "[副] ある程度，部分的に"
+    },
+    {
+        "word": "actually",
+        "meaning": "[副] ①実は ②実際に"
+    },
+    {
+        "word": "indeed",
+        "meaning": "[副] ①（強調として）実際に，本当に ②（but を伴って）確かに～"
+    },
+    {
+        "word": "even",
+        "meaning": "[副] ①さえも ②（比較級の前で）さらに"
+    },
+    {
+        "word": "exactly",
+        "meaning": "[副] ①正確に ②〈会話で〉そのとおり"
+    },
+    {
+        "word": "gradually",
+        "meaning": "[副] 徐々に"
+    },
+    {
+        "word": "therefore",
+        "meaning": "[副] それゆえに"
+    },
+    {
+        "word": "instead",
+        "meaning": "[副] ①代わりに ②（of ～）（～の）代わりに"
+    },
+    {
+        "word": "until",
+        "meaning": "[前] ①～まで（ずっと） [接] ②～まで（ずっと）"
+    },
+    {
+        "word": "besides",
+        "meaning": "[前] ①～に加えて [副] ②おまけに"
+    },
+    {
+        "word": "except",
+        "meaning": "[前] ①～を除いて ②（for ～）（～を）除いて"
+    },
+    {
+        "word": "debate",
+        "meaning": "[名] ①討論 [他] ②～を討論する"
+    },
+    {
+        "word": "criticize",
+        "meaning": "[他] ～を批判する"
+    },
+    {
+        "word": "accuse",
+        "meaning": "[他] ①～を非難する ②～を告訴する"
+    },
+    {
+        "word": "insist",
+        "meaning": "[自] ①（on ～）（～と）言い張る，（強く）主張する [他] ②～と主張する"
+    },
+    {
+        "word": "object",
+        "meaning": "[自] ①（to ～）（～に感情的に）反対する [名] ②物 ③目的 ④（嘲笑，欲望などの）対象"
+    },
+    {
+        "word": "protest",
+        "meaning": "[自] ①（against ～）（～に対して）抗議する [名] ②抗議"
+    },
+    {
+        "word": "controversial",
+        "meaning": "[形] 論争を招く，物議をかもす"
+    },
+    {
+        "word": "bound",
+        "meaning": "[形] ①（to do）きっと～（する，～する［である］に違いない） ②（for ～）～行きで"
+    },
+    {
+        "word": "bet",
+        "meaning": "[他] ①（that S V）きっと～だと思う ②～を賭ける"
+    },
+    {
+        "word": "congratulate",
+        "meaning": "[他] （人）を祝う，～にお祝いを述べる"
+    },
+    {
+        "word": "praise",
+        "meaning": "[他] ①（A for B）（A）を（B のことで）褒める，称える [名] ②賞賛"
+    },
+    {
+        "word": "honor",
+        "meaning": "[名] ①名誉，栄誉 [他] ②～を敬う"
+    },
+    {
+        "word": "chat",
+        "meaning": "[自] ①おしゃべりする [名] ②おしゃべり"
+    },
+    {
+        "word": "refer",
+        "meaning": "[自] （to ～）①（人が主語）（～に）言及する，参照する ②（物が主語）（～を）示す"
+    },
+    {
+        "word": "mention",
+        "meaning": "[他] ～について述べる，言及する"
+    },
+    {
+        "word": "convey",
+        "meaning": "[他] ①～を伝える ②（乗客，音，病気など）を運ぶ"
+    },
+    {
+        "word": "emphasize",
+        "meaning": "[他] ～を強調する"
+    },
+    {
+        "word": "exaggerate",
+        "meaning": "[他] ①～を誇張する [自] ②誇張する，大げさに言う"
+    },
+    {
+        "word": "reply",
+        "meaning": "[自] ①（to ～）（～に）返事をする，答える [名] ②返事，答え"
+    },
+    {
+        "word": "respond",
+        "meaning": "[自] ①（to ～）（手紙や問いなどに）返答する ②（to ～）（～に）対応する，反応する"
+    },
+    {
+        "word": "whisper",
+        "meaning": "[自] ①ささやく [名] ②ささやき（声）"
+    },
+    {
+        "word": "remark",
+        "meaning": "[名] ①発言 [他] ②～と発言する"
+    },
+    {
+        "word": "observe",
+        "meaning": "[他] ①～を観察する ②（that S V）（気づいたことを）～と述べる ③（規則など）を遵守する ④（記念日など）を祝う"
+    },
+    {
+        "word": "theory",
+        "meaning": "[名] ①理論 ②（学）説"
+    },
+    {
+        "word": "analysis",
+        "meaning": "[名] 分析"
+    },
+    {
+        "word": "experiment",
+        "meaning": "[名] ①実験 [自] ②実験する"
+    },
+    {
+        "word": "device",
+        "meaning": "[名] 装置"
+    },
+    {
+        "word": "phenomenon",
+        "meaning": "[名] ①現象 ②特異なもの，天才"
+    },
+    {
+        "word": "substance",
+        "meaning": "[名] ①物質 ②本質，根拠"
+    },
+    {
+        "word": "chemical",
+        "meaning": "[名] ①（通例 －s）化学物質 [形] ②化学の"
+    },
+    {
+        "word": "fuel",
+        "meaning": "[名] ①燃料 [他] ②（感情など）を大きくする"
+    },
+    {
+        "word": "nuclear",
+        "meaning": "[形] 原子力の，核の"
+    },
+    {
+        "word": "statistics",
+        "meaning": "[名] ①統計（値）〈複数扱い〉 ②統計学〈不可算〉"
+    },
+    {
+        "word": "pursue",
+        "meaning": "[他] ①～を追求する，続ける ②～を追跡する"
+    },
+    {
+        "word": "accomplish",
+        "meaning": "[他] ～をやり遂げる"
+    },
+    {
+        "word": "overcome",
+        "meaning": "[他] ～を克服する"
+    },
+    {
+        "word": "fulfill",
+        "meaning": "[他] ①（義務，願望など）を果たす ②（必要など）を満たす"
+    },
+    {
+        "word": "devote",
+        "meaning": "[他] （A to B） （A）を（B に）ささげる"
+    },
+    {
+        "word": "aim",
+        "meaning": "[自] ①狙う [他] ②（-ed at ～）～向けだ [名] ③狙い，目的"
+    },
+    {
+        "word": "challenge",
+        "meaning": "[名] ①難問，課題 [他] ②～に異議を唱える"
+    },
+    {
+        "word": "trial",
+        "meaning": "[名] ①試み ②裁判 ③試練"
+    },
+    {
+        "word": "dizzy",
+        "meaning": "[形] めまいがして"
+    },
+    {
+        "word": "pale",
+        "meaning": "[形] ①（顔色が）青白い，青ざめた ②（色が）淡い"
+    },
+    {
+        "word": "appetite",
+        "meaning": "[名] 食欲"
+    },
+    {
+        "word": "starve",
+        "meaning": "[自] ①（be －ing）とてもお腹が空いている ②餓死する"
+    },
+    {
+        "word": "mental",
+        "meaning": "[形] ①精神の ②知力の"
+    },
+    {
+        "word": "rest",
+        "meaning": "[名] ①休憩 ②（the －）残り [自] ③（横になったりして）休む ④（on ～）（～）次第だ [他] ⑤～を休ませる"
+    },
+    {
+        "word": "ache",
+        "meaning": "[名] ①痛み [自] ②痛む"
+    },
+    {
+        "word": "surgery",
+        "meaning": "[名] ①手術 ②外科（① ②ともに〈不可算〉)"
+    },
+    {
+        "word": "disease",
+        "meaning": "[名] 病気"
+    },
+    {
+        "word": "symptom",
+        "meaning": "[名] ①（通例 －s）症状 ②兆候"
+    },
+    {
+        "word": "cancer",
+        "meaning": "[名] ①がん ②（C－）カニ座"
+    },
+    {
+        "word": "ambulance",
+        "meaning": "[名] 救急車"
+    },
+    {
+        "word": "recover",
+        "meaning": "[自] ①（from ～）（～から）回復する [他] ②（盗品など）を取り戻す"
+    },
+    {
+        "word": "sore",
+        "meaning": "[形] ①（のどや筋肉が）痛い ②（話題など）触れてほしくない，心が痛む"
+    },
+    {
+        "word": "swell",
+        "meaning": "[自] ①（手足などが）腫れる ②（風船，費用などが）膨らむ"
+    },
+    {
+        "word": "cough",
+        "meaning": "[自] ①咳をする [名] ②咳〈可算〉"
+    },
+    {
+        "word": "bleed",
+        "meaning": "[自] 出血する"
+    },
+    {
+        "word": "faint",
+        "meaning": "[形] ①（色，光などが）かすかな [自] ②気絶する [名] ③気絶"
+    },
+    {
+        "word": "exhaust",
+        "meaning": "[他] ①～を疲れ果てさせる ②～を使い果たす [名] ③排出，排気ガス"
+    },
+    {
+        "word": "cure",
+        "meaning": "[他] ①～を治療する [名] ②治療法"
+    },
+    {
+        "word": "disabled",
+        "meaning": "[形] ①障がいのある [名] ②（the －）（集合的に）障がいのある人"
+    },
+    {
+        "word": "stiff",
+        "meaning": "[形] ①（筋肉などが）凝った，（動かすと）痛い ② 堅い"
+    },
+    {
+        "word": "muscle",
+        "meaning": "[名] 筋肉"
+    },
+    {
+        "word": "tongue",
+        "meaning": "[名] ①舌 ②言語，言葉 ③（have a ～ tongue）話し方"
+    },
+    {
+        "word": "sense",
+        "meaning": "[名] ①感覚 ②分別 ③意味 [他] ④（何となく）～を感じる"
+    },
+    {
+        "word": "sweat",
+        "meaning": "[名] ①汗（通例〈不可算〉） [自] ②汗をかく"
+    },
+    {
+        "word": "nationality",
+        "meaning": "[名] 国籍"
+    },
+    {
+        "word": "citizen",
+        "meaning": "[名] ①市民 ②国民"
+    },
+    {
+        "word": "civil",
+        "meaning": "[形] ①（一般）市民の ②国内の ③礼儀正しい"
+    },
+    {
+        "word": "racial",
+        "meaning": "[形] 人種の，民族の"
+    },
+    {
+        "word": "domestic",
+        "meaning": "[形] ①国内の ②家庭内の"
+    },
+    {
+        "word": "rural",
+        "meaning": "[形] 田舎の"
+    },
+    {
+        "word": "suburb",
+        "meaning": "[名] （通例the －s）郊外"
+    },
+    {
+        "word": "border",
+        "meaning": "[名] ①国境（地帯），境界 [他] ②～を縁取る"
+    },
+    {
+        "word": "burden",
+        "meaning": "[名] 重荷，負担"
+    },
+    {
+        "word": "impact",
+        "meaning": "[名] ①（on ～）（～への）影響 ②（物体間の）衝撃 [自] ③（on ～）（～に）影響を及ぼす"
+    },
+    {
+        "word": "status",
+        "meaning": "[名] ①地位 ②（特定の時点の）状況"
+    },
+    {
+        "word": "equal",
+        "meaning": "[形] ①（to ～）（～に）等しい，平等な [他]②～に等しい"
+    },
+    {
+        "word": "relationship",
+        "meaning": "[名] ①関係 ②親密な関係 （①②ともに〈可算〉）"
+    },
+    {
+        "word": "reputation",
+        "meaning": "[名] （人，物の）評判〈可算〉"
+    },
+    {
+        "word": "trend",
+        "meaning": "[名] ①（世の中の）風潮，傾向 ②流行"
+    },
+    {
+        "word": "service",
+        "meaning": "[名] ①（政府あるいは企業による）事業，制度 ②（電車，バスの）便 ③サービス，接客〈不可算〉"
+    },
+    {
+        "word": "religion",
+        "meaning": "[名] 宗教"
+    },
+    {
+        "word": "moral",
+        "meaning": "[形] ①道徳的な [名] ②（物語の）教訓 ③（－s）道徳"
+    },
+    {
+        "word": "standard",
+        "meaning": "[名] ①基準，水準 [形] ②標準の"
+    },
+    {
+        "word": "prosperity",
+        "meaning": "[名] 繁栄"
+    },
+    {
+        "word": "crisis",
+        "meaning": "[名] 危機"
+    },
+    {
+        "word": "prejudice",
+        "meaning": "[名] ①偏見，先入観 [他] ②～に偏見をもたせる"
+    },
+    {
+        "word": "discrimination",
+        "meaning": "[名] ①差別 ②識別"
+    },
+    {
+        "word": "charity",
+        "meaning": "[名] ①慈善（事業）〈不可算〉 ②慈善団体〈可算〉 ③（形容詞的に）慈善のための"
+    },
+    {
+        "word": "benefit",
+        "meaning": "[名] ①恩恵 ②（－s）手当 [自] ③（from ～）（～から）利益を得る [他] ④～に利益を与える"
+    },
+    {
+        "word": "welfare",
+        "meaning": "[名] ①福祉 ②（健康なども含めた）幸福 ③生活保護"
+    },
+    {
+        "word": "community",
+        "meaning": "[名] （地域）社会，共同体（の人々）"
+    },
+    {
+        "word": "individual",
+        "meaning": "[名] ①個人，個体 [形] ②個人の，個々の"
+    },
+    {
+        "word": "official",
+        "meaning": "[名] ①役人，役員 [形] ②公式の"
+    },
+    {
+        "word": "immigrant",
+        "meaning": "[名] （外国からの）移民"
+    },
+    {
+        "word": "volunteer",
+        "meaning": "[名] ①ボランティア [自] ②（to do）（～することを）進んで引き受ける"
+    },
+    {
+        "word": "contribute",
+        "meaning": "[自] （to ～）①（～に）貢献する ②（～の）一因となる [他] ③（A to B）（A）を（B に）寄付する，提供する"
+    },
+    {
+        "word": "abolish",
+        "meaning": "[他] ～を廃止する"
+    },
+    {
+        "word": "impose",
+        "meaning": "[他] （A on B）（A）を（B に）課す，押しつける"
+    },
+    {
+        "word": "access",
+        "meaning": "[名] ① 利用する権利 ②（場所への）接近方法"
+    },
+    {
+        "word": "duty",
+        "meaning": "[名] ① 義務 ②関税"
+    },
+    {
+        "word": "compulsory",
+        "meaning": "[形] ①義務的な ②規定の"
+    },
+    {
+        "word": "responsible",
+        "meaning": "[形] ①（人が主語）責任がある ②（物が主語）原因となっている"
+    },
+    {
+        "word": "policy",
+        "meaning": "[名] ①政策 ②方針 ③保険契約，約款"
+    },
+    {
+        "word": "elect",
+        "meaning": "[他] ～を（選挙で）選ぶ"
+    },
+    {
+        "word": "industry",
+        "meaning": "[名] ①工業 ②（the ～ industry）産業，業界 ③ 勤勉"
+    },
+    {
+        "word": "income",
+        "meaning": "[名] 収入"
+    },
+    {
+        "word": "profit",
+        "meaning": "[名] 利益，利潤"
+    },
+    {
+        "word": "tax",
+        "meaning": "[名] 税金（〈米〉→〈可算〉 〈英〉→〈不可算〉）"
+    },
+    {
+        "word": "expense",
+        "meaning": "[名] ①費用，経費 ②（at the － of ～）（～を）犠牲（にして）"
+    },
+    {
+        "word": "debt",
+        "meaning": "[名] 借金"
+    },
+    {
+        "word": "deposit",
+        "meaning": "[名] ①預金 ②頭金，保証金 ③埋蔵物 [他] ④ ～を預ける"
+    },
+    {
+        "word": "charge",
+        "meaning": "[名] ①料金 ②責任，管理 ③（against ～）（～に対する）非難，告訴 [他] ④～を請求する ⑤～を告訴する ⑥～を充電する"
+    },
+    {
+        "word": "wage",
+        "meaning": "[名] ①賃金 [他] ②（闘争，運動など）を行う"
+    },
+    {
+        "word": "recession",
+        "meaning": "[名] 不況，不景気"
+    },
+    {
+        "word": "consume",
+        "meaning": "[他] ～を消費する"
+    },
+    {
+        "word": "waste",
+        "meaning": "[他] ①～を浪費する [名] ②浪費，無駄 ③廃棄物〈不可算〉"
+    },
+    {
+        "word": "invest",
+        "meaning": "[他] ①（A in B）（A）を（B に）投資する ②（A with B）（A）に（B を）与える"
+    },
+    {
+        "word": "import",
+        "meaning": "[他] ①～を輸入する [名] ②輸入，輸入品"
+    },
+    {
+        "word": "financial",
+        "meaning": "[形] 財政的な，金銭的な"
+    },
+    {
+        "word": "hire",
+        "meaning": "[他] ①～を（一時的に）雇う ②（金を払って短期間）～を借りる"
+    },
+    {
+        "word": "employ",
+        "meaning": "[他] ①（人）を雇う ②（物，事）を用いる"
+    },
+    {
+        "word": "resign",
+        "meaning": "[自] ①（as ～）（～を）辞職する [他] ②（地位など）を辞める"
+    },
+    {
+        "word": "qualify",
+        "meaning": "[自] ①（for ～）（～の）資格がある ②（as ～）（～としての）資格を得る [他] ③～に資格を与える"
+    },
+    {
+        "word": "assign",
+        "meaning": "[他] ①～を割り当てる ②～を配属する"
+    },
+    {
+        "word": "occupation",
+        "meaning": "[名] ①職業〈可算〉 ②占有，占領〈不可算〉"
+    },
+    {
+        "word": "career",
+        "meaning": "[名] ①職業 ②経歴"
+    },
+    {
+        "word": "profession",
+        "meaning": "[名] ①（専門的な）職業 ②（the －）同業者集団"
+    },
+    {
+        "word": "unemployment",
+        "meaning": "[名] ①失業 ②失業率（＝－rate），失業者数 （① ② ともに〈不可算〉）"
+    },
+    {
+        "word": "document",
+        "meaning": "[名] ①書類，資料 [他] ②～を記録する"
+    },
+    {
+        "word": "department",
+        "meaning": "[名] ①（組織の）部門，課 ②（大学の）学科 ③（米国などの）省"
+    },
+    {
+        "word": "branch",
+        "meaning": "[名] ①支店，支局 ②（学問の）部門 ③枝"
+    },
+    {
+        "word": "retail",
+        "meaning": "[名] ①小売り〈不可算〉 [自] ②小売りされている"
+    },
+    {
+        "word": "system",
+        "meaning": "[名] ①組織，制度 ②体系 （①②ともに〈可算〉）"
+    },
+    {
+        "word": "structure",
+        "meaning": "[名] 構造"
+    },
+    {
+        "word": "architecture",
+        "meaning": "[名] 建築（様式）〈不可算〉"
+    },
+    {
+        "word": "construction",
+        "meaning": "[名] 建設〈不可算〉"
+    },
+    {
+        "word": "function",
+        "meaning": "[名] ①機能 [自] ②機能する"
+    },
+    {
+        "word": "surface",
+        "meaning": "[名] ①表面 [自] ②表面化する"
+    },
+    {
+        "word": "aspect",
+        "meaning": "[名] 側面"
+    },
+    {
+        "word": "edge",
+        "meaning": "[名] ①端 ②（ナイフなどの）刃 ③優位"
+    },
+    {
+        "word": "consist",
+        "meaning": "[自] ①（of ～）（～で）構成されている ②（in ～）（～に）ある"
+    },
+    {
+        "word": "compose",
+        "meaning": "[他] ①～を構成する，組み立てる ②～を作曲［作文］する ③～を落ち着かせる"
+    },
+    {
+        "word": "attach",
+        "meaning": "[他] ①～をくっつける，添付する ②～に愛着を持たせる"
+    },
+    {
+        "word": "connect",
+        "meaning": "[他] ①～をつなげる ②～を関連づける [自] ③つながる"
+    },
+    {
+        "word": "relate",
+        "meaning": "[他] ①（A to B）（A）を（B に）関連づける ②～を（順序立てて）話す [自] ③（to ～）（～の）気持ちがわかる"
+    },
+    {
+        "word": "associate",
+        "meaning": "[他] ①（A with B）（A）を（B と）関連づける，（A）から（B を）連想する [自] ②（with ～） （～と）付き合う [名] ③同僚，共同経営者"
+    },
+    {
+        "word": "stick",
+        "meaning": "[他] ①～を貼り付ける ②（舌や脚）を出す [自] ③（to）（規則などを）守る，固執する"
+    },
+    {
+        "word": "separate",
+        "meaning": "[他] ①～を引き離す [形] ②別々の"
+    },
+    {
+        "word": "thief",
+        "meaning": "[名] 泥棒"
+    },
+    {
+        "word": "crime",
+        "meaning": "[名] 犯罪"
+    },
+    {
+        "word": "motive",
+        "meaning": "[名] 動機"
+    },
+    {
+        "word": "punish",
+        "meaning": "[他] （（人）for ～）（人）を（～の理由で）罰する"
+    },
+    {
+        "word": "violate",
+        "meaning": "[他] ①（法律など）に違反する ②（権利など）を侵害する"
+    },
+    {
+        "word": "legal",
+        "meaning": "[形] ①合法の ②法律の，法的な"
+    },
+    {
+        "word": "enemy",
+        "meaning": "[名] ①敵 ②（形容詞的に）敵の"
+    },
+    {
+        "word": "compete",
+        "meaning": "[自] ①競争する ②（in ～）（競技などに）参加する"
+    },
+    {
+        "word": "defeat",
+        "meaning": "[他] ①（相手）を打ち負かす [名] ②敗北"
+    },
+    {
+        "word": "victim",
+        "meaning": "[名] 犠牲者"
+    },
+    {
+        "word": "obstacle",
+        "meaning": "[名]（to ～）（～に対する）障害〈可算〉"
+    },
+    {
+        "word": "harm",
+        "meaning": "[名] ①害〈不可算〉 [他] ②～に害を与える"
+    },
+    {
+        "word": "invade",
+        "meaning": "[他] ①（プライバシーなど）を侵害する ②（国など）に侵入する，～を侵略する"
+    },
+    {
+        "word": "endanger",
+        "meaning": "[他] ～を危険にさらす"
+    },
+    {
+        "word": "interrupt",
+        "meaning": "[他] ①～を中断する ②～を遮る [自] ③人の話を遮る"
+    },
+    {
+        "word": "spoil",
+        "meaning": "[他] ①～を台無しにする ②（子ども）を甘やかす"
+    },
+    {
+        "word": "spectator",
+        "meaning": "[名] 観客"
+    },
+    {
+        "word": "relative",
+        "meaning": "[名] ①（家族も含めて）親戚 [形] ②相対的な"
+    },
+    {
+        "word": "enter",
+        "meaning": "[他] ①～に入る ②～を入力する [自] ③（into ～）（ある段階などに）入る"
+    },
+    {
+        "word": "accompany",
+        "meaning": "[他] ①（人が主語）～と一緒に行く ②（物が主語）～に伴う"
+    },
+    {
+        "word": "departure",
+        "meaning": "[名] ①出発 ②逸脱"
+    },
+    {
+        "word": "destination",
+        "meaning": "[名] ①目的地 ②（tourist －）旅行先，観光地"
+    },
+    {
+        "word": "transportation",
+        "meaning": "[名] 交通機関〈不可算〉"
+    },
+    {
+        "word": "via",
+        "meaning": "[前] ①～経由で ②～によって"
+    },
+    {
+        "word": "lead",
+        "meaning": "[自] ①（to ～）（～に）至る [他] ②（a ～ life）（～な生活）を送る ③（A to do）A に～させる [名] ④鉛，（シャーペンなどの）芯"
+    },
+    {
+        "word": "rise",
+        "meaning": "[自] ①上がる，昇る [名] ②上昇"
+    },
+    {
+        "word": "lower",
+        "meaning": "[他] ～を下げる"
+    },
+    {
+        "word": "flow",
+        "meaning": "[自] ①流れる [名] ②流れ"
+    },
+    {
+        "word": "burst",
+        "meaning": "[自] ①破裂する，爆発する ②（慣用句で）突然～し始める"
+    },
+    {
+        "word": "crack",
+        "meaning": "[自] ①割れる，砕ける ②（パンと）音を出す [他] ③～を割る，砕く [名] ④割れ目"
+    },
+    {
+        "word": "melt",
+        "meaning": "[自] ①（固体が）溶ける [他] ②～を溶かす"
+    },
+    {
+        "word": "progress",
+        "meaning": "[名] ①進歩，前進 〈不可算〉 [自] ②進歩する，進む"
+    },
+    {
+        "word": "advance",
+        "meaning": "[名] ①進歩，前進 〈可算〉 [自] ②（軍隊などが）前進する，進歩する [形] ③事前の"
+    },
+    {
+        "word": "deal",
+        "meaning": "[自] ①（with～）（～を）扱う [名] ②取り引き"
+    },
+    {
+        "word": "handle",
+        "meaning": "[他] ①～を扱う ②（手で）～を扱う，触れる [名] ③取っ手"
+    },
+    {
+        "word": "cope",
+        "meaning": "[自] （with～）（～に）（うまく）対処する"
+    },
+    {
+        "word": "treat",
+        "meaning": "[他] ①（副詞を伴って）～を扱う ②（病人，病気）を治療する ③（A to B） （A） に（Bを）おごる [名] ④楽しみ"
+    },
+    {
+        "word": "clue",
+        "meaning": "[名] （to ～）（～の）手がかり"
+    },
+    {
+        "word": "restrict",
+        "meaning": "[他] ～を制限する"
+    },
+    {
+        "word": "limit",
+        "meaning": "[他] ①（数量，範囲）を制限する [名] ②制限"
+    },
+    {
+        "word": "forbid",
+        "meaning": "[他] ～を禁じる"
+    },
+    {
+        "word": "ban",
+        "meaning": "[名] ①禁止〈可算〉 [他] ②～を禁止する"
+    },
+    {
+        "word": "refuse",
+        "meaning": "[他] ①～を断る ②（to do）～するのを拒む"
+    },
+    {
+        "word": "reject",
+        "meaning": "[他] ①～を拒絶する ②（人）を除け者にする"
+    },
+    {
+        "word": "persuade",
+        "meaning": "[他] （A to do）（A）を説得して～させる"
+    },
+    {
+        "word": "convince",
+        "meaning": "[他] ①（A of B）（A）に （Bを）確信させる，（A that S V）（A）に（～を） 確信させる ②（A to do）（A）を説得して～させる"
+    },
+    {
+        "word": "inspire",
+        "meaning": "[他] ①～を奮起させる，かき立てる ②（作品）に創作のヒントを与える"
+    },
+    {
+        "word": "discourage",
+        "meaning": "[他] ～のやる気をなくさせる，落胆させる"
+    },
+    {
+        "word": "promote",
+        "meaning": "[他] ①～を促進する ②（be［get］－d to ～）（～に）出世［昇進］する"
+    },
+    {
+        "word": "expand",
+        "meaning": "[自] ①拡大する，膨張する [他] ②～を拡大する，膨張させる"
+    },
+    {
+        "word": "extend",
+        "meaning": "[他] ①～を延長する，広げる [自] ②伸びる，広がる"
+    },
+    {
+        "word": "broaden",
+        "meaning": "[他] ①～を広げる [自] ②広がる"
+    },
+    {
+        "word": "spread",
+        "meaning": "[他] ①～を広げる [自] ②広がる [名] ③広がり"
+    },
+    {
+        "word": "tie",
+        "meaning": "[他] ①（荷物など）を縛る ②（ひも，ネクタイなど）を結ぶ [名] ③ネクタイ （＝necktie） ④（家族などの）きずな"
+    },
+    {
+        "word": "bind",
+        "meaning": "[他] ～を結びつける，縛る"
+    },
+    {
+        "word": "fasten",
+        "meaning": "[他] ①～を固定する ②（ボタンなど）をかける，留める"
+    },
+    {
+        "word": "fix",
+        "meaning": "[他] ①～を固定する ②～を修理する ③（主に 〈米〉）（食事，飲み物）を作る"
+    },
+    {
+        "word": "install",
+        "meaning": "[他] ①（機械など）を設置する ②～をインストールする"
+    },
+    {
+        "word": "resist",
+        "meaning": "[他] ①～を我慢する ②～に抵抗する"
+    },
+    {
+        "word": "obey",
+        "meaning": "[他] ～に従う"
+    },
+    {
+        "word": "engage",
+        "meaning": "[自] ①従事する [他] ②（関心，注意など）を引く"
+    },
+    {
+        "word": "bump",
+        "meaning": "[自] （into～）①（～に）ぶつかる ②（～に）偶然出会う"
+    },
+    {
+        "word": "crash",
+        "meaning": "[自] ①激突する ②（飛行機が）墜落する [名] ③激突，墜落"
+    },
+    {
+        "word": "bend",
+        "meaning": "[自] ①身をかがめる [他] ②～を曲げる [名] ③（道の）カーブ"
+    },
+    {
+        "word": "hug",
+        "meaning": "[他] ①（人）を （愛情こめて）抱きしめる [名] ②抱擁"
+    },
+    {
+        "word": "stare",
+        "meaning": "[自] ①（at ～）（～を）じっと見つめる [名] ②凝視"
+    },
+    {
+        "word": "gaze",
+        "meaning": "[自] ①（at［on］～）（～を）見つめる [名] ②視線，凝視"
+    },
+    {
+        "word": "glance",
+        "meaning": "[自] ①ちらりと見る [名] ②ちらりと見ること"
+    },
+    {
+        "word": "glimpse",
+        "meaning": "[他] ①～がちらりと見える [名] ②ちらりと見えること"
+    },
+    {
+        "word": "stretch",
+        "meaning": "[他] ①（手足や体）を伸ばす，広げる [自] ②伸ばす，広がる [名] ③（ひと続きの）広がり"
+    },
+    {
+        "word": "stumble",
+        "meaning": "[自] ①つまずく ②（across［into］～）（～に）偶然出会う"
+    },
+    {
+        "word": "press",
+        "meaning": "[他] ①～を（強く）押す ②～を押しつける，勧める [名] ③（the －）報道機関，出版"
+    },
+    {
+        "word": "drag",
+        "meaning": "[他] ～を（ずるずると）引きずる"
+    },
+    {
+        "word": "lean",
+        "meaning": "[自] ①（against［on］～）（～に）寄りかかる ②（forward）身を乗り出す [形] ③（健康的に）痩せている"
+    },
+    {
+        "word": "scratch",
+        "meaning": "[他] ①～をひっかく，かく [名] ②ひっかき傷"
+    },
+    {
+        "word": "bow",
+        "meaning": "[自] ①おじぎする [名] ②おじぎ"
+    },
+    {
+        "word": "nod",
+        "meaning": "[自] ①うなずく ②（off）うたた寝する [名] ③うなずき，会釈"
+    },
+    {
+        "word": "sigh",
+        "meaning": "[自] ①ため息をつく [名] ②ため息"
+    },
+    {
+        "word": "yawn",
+        "meaning": "[自] ①あくびをする [名] ②あくび"
+    },
+    {
+        "word": "bury",
+        "meaning": "[他] ①～を埋める ②～を埋葬する"
+    },
+    {
+        "word": "perform",
+        "meaning": "[他] ①～を遂行する ②～を演じる，演奏する [自] ③（副詞を伴い）やる"
+    },
+    {
+        "word": "adopt",
+        "meaning": "[他] ①～を採用する ②～を養子にする"
+    },
+    {
+        "word": "escape",
+        "meaning": "[自] ①（from ～）（～から）逃れる [他] ②～を避ける [名] ③逃亡"
+    },
+    {
+        "word": "scatter",
+        "meaning": "[他] ①～をまき散らす [自] ②（群衆などが）散る"
+    },
+    {
+        "word": "fold",
+        "meaning": "[他] ①～を折る ②（up）～を折りたたむ ③（腕）を組む [自] ④折りたためる"
+    },
+    {
+        "word": "hang",
+        "meaning": "[他] ①～を掛ける ② ～を絞首刑にする [自] ③ぶら下がる"
+    },
+    {
+        "word": "release",
+        "meaning": "[他] ①～を解放する ②（映画など）を発表する，出す ③（ガスなど）を放出する [名] ④解放，発売"
+    },
+    {
+        "word": "strike",
+        "meaning": "[他] ①～を打つ ②（災害が）～を襲う ③（考えが人）に思い浮かぶ ④（A as B）（A）に（B という）印象を与える [名] ⑤ストライキ"
+    },
+    {
+        "word": "beat",
+        "meaning": "[他] ①～を打つ ②～に勝つ"
+    },
+    {
+        "word": "protect",
+        "meaning": "[他] ～を守る，保護する"
+    },
+    {
+        "word": "twist",
+        "meaning": "[他] ①～を（ねじ）曲げる ②（体の一部）をひねる，ねんざする"
+    },
+    {
+        "word": "stir",
+        "meaning": "[他] ①（液体など）を混ぜる ②（up ～）（感情など）を呼び覚ます"
+    },
+    {
+        "word": "shake",
+        "meaning": "[他] ①～を振る ②～を揺さぶる [自] ③（恐怖，寒さで）震える"
+    },
+    {
+        "word": "burn",
+        "meaning": "[自] ①焼ける [他] ②～を燃やす，（CD など）を複製する"
+    },
+    {
+        "word": "skip",
+        "meaning": "[他] ～をサボる，抜かす"
+    },
+    {
+        "word": "expose",
+        "meaning": "[他] ①～をさらす ②（秘密，犯罪など）を暴露する"
+    },
+    {
+        "word": "dip",
+        "meaning": "[他] ①～を（ちょっと）つける，浸す ②～を少し下げる"
+    },
+    {
+        "word": "polish",
+        "meaning": "[他] ～を磨く"
+    },
+    {
+        "word": "cheat",
+        "meaning": "[自] ①ごまかす [他] ②～をだます"
+    },
+    {
+        "word": "attend",
+        "meaning": "[他] ① ～に出席する，通う [自] ②（to ～）（～に）注意を向ける ③（to ～）（～を）世話する"
+    },
+    {
+        "word": "participate",
+        "meaning": "[自] （in ～）（～に）参加する"
+    },
+    {
+        "word": "imitate",
+        "meaning": "[他] ～をまねる"
+    },
+    {
+        "word": "exist",
+        "meaning": "[自] 存在する"
+    },
+    {
+        "word": "arise",
+        "meaning": "[自] 生じる"
+    },
+    {
+        "word": "occur",
+        "meaning": "[自] ①生じる ②（to （人））（考えなどが（人）に）思いつく"
+    },
+    {
+        "word": "generate",
+        "meaning": "[他] （電気，利益など）を生み出す"
+    },
+    {
+        "word": "involve",
+        "meaning": "[他] ①（be －d in ～）（事件などに）巻き込まれる ②（be －d in ～）（子育てなどに）参加する ③～を伴う"
+    },
+    {
+        "word": "require",
+        "meaning": "[他] ～を必要とする"
+    },
+    {
+        "word": "counterpart",
+        "meaning": "[名] （to ～）（～に）対応する［（～と）同等の］人［物，事］"
+    },
+    {
+        "word": "maintain",
+        "meaning": "[他] ①～を維持する ②（that S V）（～）を（強く）主張する"
+    },
+    {
+        "word": "last",
+        "meaning": "[自] ①（時間的に）続く ②（服などが）長持ちする [形] （the last ～）③この前の～，最後の～ ④もっとも～でない [名] ⑤（at －）ついに"
+    },
+    {
+        "word": "persist",
+        "meaning": "[自] ①持続する，残る ②（in［with］～）（～を）貫く，（～に）固執する"
+    },
+    {
+        "word": "gain",
+        "meaning": "[他] ①～を増す ②～を得る [名] ③利益，増加"
+    },
+    {
+        "word": "obtain",
+        "meaning": "[他] （資格，許可，情報など）を得る"
+    },
+    {
+        "word": "acquire",
+        "meaning": "[他] ①～を習得する ②～を獲得する ③～を買収する"
+    },
+    {
+        "word": "examine",
+        "meaning": "[他] ①～を調査する ②～を検査する"
+    },
+    {
+        "word": "search",
+        "meaning": "[他] ①（A for B） （B（物）を求めてA（場所））を捜す [名] ②捜索，調査"
+    },
+    {
+        "word": "reunion",
+        "meaning": "[名] ①同窓会 ②再会"
+    },
+    {
+        "word": "scholarship",
+        "meaning": "[名] ①奨学金〈可算〉 ②（人文科学の）学識〈不可算〉"
+    },
+    {
+        "word": "logic",
+        "meaning": "[名] 論理（学）"
+    },
+    {
+        "word": "instruction",
+        "meaning": "[名] （通例－s）指示"
+    },
+    {
+        "word": "determine",
+        "meaning": "[他] ①～を決める，～に大きく影響する ②（be －d to do）～することを決意している ③（原因など）を特定する"
+    },
+    {
+        "word": "conclude",
+        "meaning": "[他] ①（that S V）～と結論を下す ②～を終わりにする"
+    },
+    {
+        "word": "distinguish",
+        "meaning": "[他] ～を区別する"
+    },
+    {
+        "word": "classify",
+        "meaning": "[他] ～を分類する"
+    },
+    {
+        "word": "estimate",
+        "meaning": "[他] ①～を推定する，見積もる [名] ②（for ～）（～の）見積もり"
+    },
+    {
+        "word": "select",
+        "meaning": "[他] ①（注意深く）～を選ぶ，精選する [形] ②えり抜きの"
+    },
+    {
+        "word": "organize",
+        "meaning": "[他] ①（考えなど）をまとめる ②～を組織化する，取りまとめる"
+    },
+    {
+        "word": "recognize",
+        "meaning": "[他] ①（知り合いなど）が誰だかわかる ②（that S V）～を認識する"
+    },
+    {
+        "word": "suppose",
+        "meaning": "[他] ①（be －d to do）～することになっている ②～と思う，仮定する"
+    },
+    {
+        "word": "assume",
+        "meaning": "[他] ①～と思い込む，決めつける ②～を引き受ける"
+    },
+    {
+        "word": "care",
+        "meaning": "[自] ①（否定文で）気にする ②世話をする [名] ③世話，心配"
+    },
+    {
+        "word": "doubt",
+        "meaning": "[他] ①～を疑う ②（that S V）～とは思わない [名] ③疑い"
+    },
+    {
+        "word": "notice",
+        "meaning": "[他] ①～に気がついている [名] ②通知，掲示，注意"
+    },
+    {
+        "word": "aware",
+        "meaning": "[形] 気づいている"
+    },
+    {
+        "word": "conscious",
+        "meaning": "[形] ①意識している，気づいている ②意識がある"
+    },
+    {
+        "word": "concerned",
+        "meaning": "[形] ①（with［about］～）（～に）関心を持っている，重視している ②（with ～）（～を）扱っている ③（about［for］～）（～を）心配している"
+    },
+    {
+        "word": "regard",
+        "meaning": "[他] ①（A as B）（A）を（B と）みなす ②（副詞を伴い）～を評価する [名] ③（in －）点 ④（－s）よろしくという挨拶"
+    },
+    {
+        "word": "commit",
+        "meaning": "[他] ①（oneself to ～ / be －ed to ～）～に専念する ②（A to B） （A）を（B に）委ねる，充てる ③（犯罪など）を犯す"
+    },
+    {
+        "word": "memorize",
+        "meaning": "[他] ～を暗記する"
+    },
+    {
+        "word": "approve",
+        "meaning": "[自] ①（of ～）（～を）認める，承認する [他] ②～を承認する"
+    },
+    {
+        "word": "forgive",
+        "meaning": "[他] （人，過ち）を許す"
+    },
+    {
+        "word": "grant",
+        "meaning": "[他] ①～を認める ②（権利など）を与える [名] ③交付，補助金"
+    },
+    {
+        "word": "recall",
+        "meaning": "[他] ①～を思い出す ②（商品）を回収する，リコールする"
+    },
+    {
+        "word": "abandon",
+        "meaning": "[他] ～を捨てる，放棄する"
+    },
+    {
+        "word": "rid",
+        "meaning": "[名] （get － of ～）①（不要品）を処分する ②～を取り除く"
+    },
+    {
+        "word": "eliminate",
+        "meaning": "[他] ①（不要な人，物，事）を排除する ②（be －d）敗退する"
+    },
+    {
+        "word": "relieve",
+        "meaning": "[他] ①～を取り除く ②～を安心させる"
+    },
+    {
+        "word": "remove",
+        "meaning": "[他] ①～を取り除く，取り去る ②（衣服）を脱ぐ"
+    },
+    {
+        "word": "resource",
+        "meaning": "[名] ①（－s）（石油などの）資源，（人，国の）財産 ②（－s）（困難に立ち向かう）力量 ③（万一の頼みの）手段"
+    },
+    {
+        "word": "conservation",
+        "meaning": "[名] 保護"
+    },
+    {
+        "word": "preserve",
+        "meaning": "[他] ①（自然など）を保護する ②（景観，平和，食品など）を保つ"
+    },
+    {
+        "word": "disaster",
+        "meaning": "[名] ①災害 ②大失敗"
+    },
+    {
+        "word": "planet",
+        "meaning": "[名] ①惑星 ②（the －）地球"
+    },
+    {
+        "word": "environment",
+        "meaning": "[名] 環境，周囲（の状況）"
+    },
+    {
+        "word": "horizon",
+        "meaning": "[名] ①水平線，地平線 ②（－s）視野"
+    },
+    {
+        "word": "agriculture",
+        "meaning": "[名] 農業〈不可算〉"
+    },
+    {
+        "word": "crop",
+        "meaning": "[名] ①作物 ②収穫（高） [自] ③（up）生じる"
+    },
+    {
+        "word": "soil",
+        "meaning": "[名] 土，土壌"
+    },
+    {
+        "word": "weed",
+        "meaning": "[名] ①雑草，海草 [他] ②～の雑草を抜く"
+    },
+    {
+        "word": "drown",
+        "meaning": "[自] 溺れ死ぬ"
+    },
+    {
+        "word": "leak",
+        "meaning": "[自] ①漏れる [他] ②～を漏らす [名] ③漏れ"
+    },
+    {
+        "word": "climate",
+        "meaning": "[名] ①気候 ②（政治，経済，文化の）状況"
+    },
+    {
+        "word": "atmosphere",
+        "meaning": "[名] ①（the－）大気 ②雰囲気 ③（the（ Earth's）－）大気圏"
+    },
+    {
+        "word": "forecast",
+        "meaning": "[名] ①予報 [他] ②～を予報する"
+    },
+    {
+        "word": "thermometer",
+        "meaning": "[名] ①温度計，寒暖計 ②体温計"
+    },
+    {
+        "word": "humid",
+        "meaning": "[形] 湿気が多い"
+    },
+    {
+        "word": "tropical",
+        "meaning": "[形] 熱帯の"
+    },
+    {
+        "word": "solar",
+        "meaning": "[形] 太陽の"
+    },
+    {
+        "word": "mosquito",
+        "meaning": "[名] 蚊"
+    },
+    {
+        "word": "species",
+        "meaning": "[名] 種〈単複同形〉"
+    },
+    {
+        "word": "extinct",
+        "meaning": "[形] 絶滅した"
+    },
+    {
+        "word": "feed",
+        "meaning": "[他] ①～にえさを与える ②（子どもなど）を養う"
+    },
+    {
+        "word": "energetic",
+        "meaning": "[形] （人，運動などが）活発な"
+    },
+    {
+        "word": "greedy",
+        "meaning": "[形] 貪欲な"
+    },
+    {
+        "word": "brave",
+        "meaning": "[形] 勇敢な"
+    },
+    {
+        "word": "generous",
+        "meaning": "[形] 気前のよい"
+    },
+    {
+        "word": "intellectual",
+        "meaning": "[形] 知的な"
+    },
+    {
+        "word": "curious",
+        "meaning": "[形] ①（人が主語）好奇心が強い ②（物が主語）奇妙な，好奇心をそそる"
+    },
+    {
+        "word": "imaginative",
+        "meaning": "[形] 想像力豊かな"
+    },
+    {
+        "word": "talkative",
+        "meaning": "[形] おしゃべりの"
+    },
+    {
+        "word": "afford",
+        "meaning": "[他] ①（can －）～する余裕がある ②（SVO1O2）（O1に）O2を与える"
+    },
+    {
+        "word": "eager",
+        "meaning": "[形] 熱心な"
+    },
+    {
+        "word": "selfish",
+        "meaning": "[形] 利己的な，自分勝手な"
+    },
+    {
+        "word": "aggressive",
+        "meaning": "[形] ①攻撃的な ②積極的な"
+    },
+    {
+        "word": "cruel",
+        "meaning": "[形] 残酷な"
+    },
+    {
+        "word": "addicted",
+        "meaning": "[形] ～の中毒になっている"
+    },
+    {
+        "word": "stubborn",
+        "meaning": "[形] 頑固な"
+    },
+    {
+        "word": "earnest",
+        "meaning": "[形] ①真面目な [名] ②（in －）真面目（に）"
+    },
+    {
+        "word": "bold",
+        "meaning": "[形] 大胆な"
+    },
+    {
+        "word": "guilty",
+        "meaning": "[形] ①申し訳なく思う，罪の意識がある ②（of ～）（～の）罪を犯した"
+    },
+    {
+        "word": "innocent",
+        "meaning": "[形] ①（of ～）（～に関して）無実の ②無邪気な"
+    },
+    {
+        "word": "sincere",
+        "meaning": "[形] ①（心から）誠実な ②（言動が）心からの，偽りのない"
+    },
+    {
+        "word": "modest",
+        "meaning": "[形] ①（人が）謙虚な ②（物が）大きくない，高くない"
+    },
+    {
+        "word": "stupid",
+        "meaning": "[形] ばかな"
+    },
+    {
+        "word": "indifferent",
+        "meaning": "[形] 無関心で"
+    },
+    {
+        "word": "punctual",
+        "meaning": "[形] （約束などの）時間を守る"
+    },
+    {
+        "word": "coward",
+        "meaning": "[名] 臆病者"
+    },
+    {
+        "word": "precise",
+        "meaning": "[形] 正確な"
+    },
+    {
+        "word": "accurate",
+        "meaning": "[形] 正確な"
+    },
+    {
+        "word": "proper",
+        "meaning": "[形] 適切な"
+    },
+    {
+        "word": "tidy",
+        "meaning": "[形] ①（主に〈英〉）きちんとした，整然とした [他] ②～を整頓する"
+    },
+    {
+        "word": "neat",
+        "meaning": "[形] きちんとした"
+    },
+    {
+        "word": "efficient",
+        "meaning": "[形] ①能率的な，無駄がない ②（人が）有能な"
+    },
+    {
+        "word": "reasonable",
+        "meaning": "[形] ①理にかなった ②（値段が）手ごろな"
+    },
+    {
+        "word": "significant",
+        "meaning": "[形] ①重要な ②（数量，増減，相違などが）かなりの"
+    },
+    {
+        "word": "precious",
+        "meaning": "[形] ①（時間や命などが）貴重な ②（宝石などが）高価な"
+    },
+    {
+        "word": "essential",
+        "meaning": "[形] ①不可欠な [名] ②（－s）不可欠なもの"
+    },
+    {
+        "word": "fundamental",
+        "meaning": "[形] ①根本的な，基本的な [名] ②（－s）基本事項"
+    },
+    {
+        "word": "critical",
+        "meaning": "[形] ①重大な，危機的な状況の ②批判的な"
+    },
+    {
+        "word": "serious",
+        "meaning": "[形] ①深刻な ②（人が）真剣な，本気の"
+    },
+    {
+        "word": "complex",
+        "meaning": "[形] ①複雑な [名] ②複合体（の建物） ③強迫観念"
+    },
+    {
+        "word": "complicated",
+        "meaning": "[形] 複雑な"
+    },
+    {
+        "word": "delicate",
+        "meaning": "[形] ①繊細な，微妙な ②（人が）虚弱な"
+    },
+    {
+        "word": "plain",
+        "meaning": "[形] ①明白な，わかりやすい ②質素な [名] ③平野，原野"
+    },
+    {
+        "word": "obvious",
+        "meaning": "[形] 明白な"
+    },
+    {
+        "word": "remarkable",
+        "meaning": "[形] 注目すべき，すばらしい"
+    },
+    {
+        "word": "outstanding",
+        "meaning": "[形] 傑出した，目立った"
+    },
+    {
+        "word": "various",
+        "meaning": "[形] さまざまな"
+    },
+    {
+        "word": "diverse",
+        "meaning": "[形] 多様な"
+    },
+    {
+        "word": "sort",
+        "meaning": "[名] ①種（類） ②（副詞的に）（－ of）多少 [他] ③～を分類する"
+    },
+    {
+        "word": "fancy",
+        "meaning": "[形] ①高級な [他] ②〈英〉～が欲しい，～したい"
+    },
+    {
+        "word": "marvelous",
+        "meaning": "[形] 驚くべき"
+    },
+    {
+        "word": "fabulous",
+        "meaning": "[形] ①とても素敵な ②莫大な"
+    },
+    {
+        "word": "active",
+        "meaning": "[形] 積極的な，活発な"
+    },
+    {
+        "word": "positive",
+        "meaning": "[形] ①前向きな，積極的な ②確信している"
+    },
+    {
+        "word": "pure",
+        "meaning": "[形] ①純粋な ②（水，空気が）澄んだ"
+    },
+    {
+        "word": "steady",
+        "meaning": "[形] 着実な，一定の"
+    },
+    {
+        "word": "flexible",
+        "meaning": "[形] 柔軟な，融通のきく"
+    },
+    {
+        "word": "ripe",
+        "meaning": "[形] 熟した"
+    },
+    {
+        "word": "mature",
+        "meaning": "[形] ①成熟した，熟成した [自] ②成熟する，熟成する"
+    },
+    {
+        "word": "stable",
+        "meaning": "[形] ①安定した [名] ②馬小屋，きゅう舎"
+    },
+    {
+        "word": "negative",
+        "meaning": "[形] 否定的な，否定の"
+    },
+    {
+        "word": "vague",
+        "meaning": "[形] 曖昧な，漠然とした"
+    },
+    {
+        "word": "weird",
+        "meaning": "[形] 変な"
+    },
+    {
+        "word": "rough",
+        "meaning": "[形] ①（表面が）粗い ②おおざっぱな ③（海，天候などが）荒れている"
+    },
+    {
+        "word": "severe",
+        "meaning": "[形] ①（天候，批判，罰則などが）厳しい ②（けが，問題などが）ひどい"
+    },
+    {
+        "word": "passive",
+        "meaning": "[形] 受動的な，消極的な"
+    },
+    {
+        "word": "vain",
+        "meaning": "[形] ①（in －）無駄に ②（努力などが）無駄な ③うぬぼれの強い"
+    },
+    {
+        "word": "fake",
+        "meaning": "[形] ①偽の，偽造の [名]②偽造品"
+    },
+    {
+        "word": "risky",
+        "meaning": "[形] 危険な，危うい"
+    },
+    {
+        "word": "absurd",
+        "meaning": "[形] ばかげた"
+    },
+    {
+        "word": "odd",
+        "meaning": "[形] ①奇妙な ②奇数の ③半端な，雑多な [名] ④〈英〉（the －s）可能性"
+    },
+    {
+        "word": "contrast",
+        "meaning": "[名] ①対比 [他] ②～を対比する [自]③対照をなす"
+    },
+    {
+        "word": "valid",
+        "meaning": "[形] ①（理由，主張などが）妥当な，正当な ②（切符などが）有効な"
+    },
+    {
+        "word": "available",
+        "meaning": "[形] ①手に入る，利用できる ②（人の予定が）空いている"
+    },
+    {
+        "word": "casual",
+        "meaning": "[形] ①気楽な ②ふとした，何気ない"
+    },
+    {
+        "word": "rare",
+        "meaning": "[形] 珍しい"
+    },
+    {
+        "word": "practical",
+        "meaning": "[形] ①（人，知識が）現実的な，実際の ②（発明，道具などが）実用的な，実践的な"
+    },
+    {
+        "word": "brand-new",
+        "meaning": "[形] 新品の，真新しい"
+    },
+    {
+        "word": "rapid",
+        "meaning": "[形] ①急速な [名] ②（－s）急流"
+    },
+    {
+        "word": "urgent",
+        "meaning": "[形] 緊急の，差し迫った"
+    },
+    {
+        "word": "sharp",
+        "meaning": "[形] ①（変化，方向転換などが）急激な ②（言葉が）きつい ③（刃物，感覚，人などが）鋭い [副] ④（時刻が）きっちりで"
+    },
+    {
+        "word": "calm",
+        "meaning": "[形] ①落ち着いた [自] ②落ち着く [他] ③～を落ち着かせる"
+    },
+    {
+        "word": "shallow",
+        "meaning": "[形] ①浅い ②（人，言動などが）浅はかな"
+    },
+    {
+        "word": "bare",
+        "meaning": "[形] ①むき出しの ②最低限の"
+    },
+    {
+        "word": "naked",
+        "meaning": "[形] （人が）裸の，むき出しの"
+    },
+    {
+        "word": "independent",
+        "meaning": "[形] ①独立した，無所属の [名] ②無所属の人"
+    },
+    {
+        "word": "tense",
+        "meaning": "[形] ①張り詰めた ②（人が）緊張した [名] ③時制"
+    },
+    {
+        "word": "broad",
+        "meaning": "[形] 幅広い"
+    },
+    {
+        "word": "narrow",
+        "meaning": "[形] ①狭い [他] ②～を狭くする，細める"
+    },
+    {
+        "word": "vacant",
+        "meaning": "[形] 空いている，使用されていない"
+    },
+    {
+        "word": "vivid",
+        "meaning": "[形] ①（記憶，描写などが）鮮明な ②（色が）鮮明な"
+    },
+    {
+        "word": "mutual",
+        "meaning": "[形] ①（感情，行為が）相互の ②（友だち，趣味などが）共通の"
+    },
+    {
+        "word": "awkward",
+        "meaning": "[形] ①ぎこちない ②気まずい ③扱いにくい"
+    },
+    {
+        "word": "objective",
+        "meaning": "[形] ①客観的な [名] ②目標"
+    },
+    {
+        "word": "manual",
+        "meaning": "[形] ①手を使う，身体を使う ②手動の [名] ③手引き書"
+    },
+    {
+        "word": "alike",
+        "meaning": "[形] ①似ている [副] ②（A and B －）（A もB も）同様に"
+    },
+    {
+        "word": "tend",
+        "meaning": "[自] （to do）～する傾向にある"
+    },
+    {
+        "word": "deserve",
+        "meaning": "[他] ～に値する"
+    },
+    {
+        "word": "fragment",
+        "meaning": "[名] 破片〈可算〉"
+    },
+    {
+        "word": "ease",
+        "meaning": "[名] ①簡単さ [他] ②（痛み，心配など）を和らげる，楽にする"
+    },
+    {
+        "word": "range",
+        "meaning": "[名] ①範囲 [自] ②（from A to B）（A からB の）範囲に及ぶ"
+    },
+    {
+        "word": "scale",
+        "meaning": "[名] ①規模 ②（－s）体重計 ③うろこ"
+    },
+    {
+        "word": "unique",
+        "meaning": "[形] ①（to ～）（～に）特有の，独自の ②独特の"
+    },
+    {
+        "word": "particular",
+        "meaning": "[形] ①ある特定の，特有の ②（about ～）（～の）好みがうるさい [名] ③（in －）特に（＝particularly）"
+    },
+    {
+        "word": "general",
+        "meaning": "[形] ①一般的な，全体の [名] ②大将，将軍"
+    },
+    {
+        "word": "ordinary",
+        "meaning": "[形] 平凡な，ふつうの"
+    },
+    {
+        "word": "typical",
+        "meaning": "[形] 典型的な"
+    },
+    {
+        "word": "account",
+        "meaning": "[自] （for ～）①（割合を）占める ②（～の原因を）説明する [名] ③説明 ④口座"
+    },
+    {
+        "word": "calculate",
+        "meaning": "[他] ～を計算する"
+    },
+    {
+        "word": "measure",
+        "meaning": "[他] ①～を測る [自] ②～の寸法がある [名] ③（－s）手段"
+    },
+    {
+        "word": "split",
+        "meaning": "[他] ①～を割る ②～を分裂させる [自] ③分裂する [名] ④分裂，裂け目，割れ目"
+    },
+    {
+        "word": "volume",
+        "meaning": "[名] ①容積，体積 ②ボリューム，音量 ③（全集などの）1巻"
+    },
+    {
+        "word": "proportion",
+        "meaning": "[名] ①比率 ②部分 ③（－s）規模，大きさ"
+    },
+    {
+        "word": "dozen",
+        "meaning": "[名] ①ダース ②（－s of ～）数十の～"
+    },
+    {
+        "word": "amount",
+        "meaning": "[名] ①量 [自] （to ～）②（合計が）～に達する ③結局～になる"
+    },
+    {
+        "word": "mass",
+        "meaning": "[名] ①大量 ②（the －es）大衆 ③かたまり ④質量 ⑤（M－）ミサ"
+    },
+    {
+        "word": "shortage",
+        "meaning": "[名] 不足〈可算〉"
+    },
+    {
+        "word": "enormous",
+        "meaning": "[形] 莫大な，巨大な"
+    },
+    {
+        "word": "spare",
+        "meaning": "[形] ①余分な，予備の [他] ②（時間やお金，労力）を割く ③～を惜しむ"
+    },
+    {
+        "word": "arrange",
+        "meaning": "[他] ①～を手配する ②～を整理する"
+    },
+    {
+        "word": "adapt",
+        "meaning": "[自] ①適応する [他] ②～を適応させる"
+    },
+    {
+        "word": "match",
+        "meaning": "[他] ①～と調和する ②～に匹敵する [名] ③釣り合う人［物］，好敵手"
+    },
+    {
+        "word": "fit",
+        "meaning": "[他] ①（サイズが人）に合う [形] ②健康な ③（to do）（～するのに）適した"
+    },
+    {
+        "word": "emergency",
+        "meaning": "[名] ①緊急事態 ②（形容詞的に）緊急の"
+    },
+    {
+        "word": "occasion",
+        "meaning": "[名] ①場合 ②行事，祝い事"
+    },
+    {
+        "word": "circumstance",
+        "meaning": "[名] （通例 －s）状況，事情"
+    },
+    {
+        "word": "incident",
+        "meaning": "[名] （主に不快な）出来事"
+    },
+    {
+        "word": "current",
+        "meaning": "[形] ①最新の，今の ②流通して [名] ③流れ，風潮"
+    },
+    {
+        "word": "temporary",
+        "meaning": "[形] 一時的な"
+    },
+    {
+        "word": "permanent",
+        "meaning": "[形] 永久的な"
+    },
+    {
+        "word": "previous",
+        "meaning": "[形] （時間，順序で）前の，以前の"
+    },
+    {
+        "word": "former",
+        "meaning": "[名] ①（the －）前者 [形] ②前任の"
+    },
+    {
+        "word": "annual",
+        "meaning": "[形] ①年に1度の ②1年間の"
+    },
+    {
+        "word": "contemporary",
+        "meaning": "[形] ①現代の ②同時代の [名] ③同時代の人"
+    },
+    {
+        "word": "lately",
+        "meaning": "[副] 最近"
+    },
+    {
+        "word": "immediately",
+        "meaning": "[副] すぐに"
+    },
+    {
+        "word": "supply",
+        "meaning": "[他] ①～を供給する [名] ②供給"
+    },
+    {
+        "word": "replace",
+        "meaning": "[他] ①～に取って代わる ②（A with B）（A）を（B に）取り替える"
+    },
+    {
+        "word": "exchange",
+        "meaning": "[他] ①～を交換する [名] ②交換"
+    },
+    {
+        "word": "substitute",
+        "meaning": "[他] ①（A for B） （B の）代わりに（A）を用いる [自] ②（for ～）（～の）代わりになる，代わりをする [形] ③代わりの [名] ④（for ～）（～の）代用品，代理人"
+    },
+    {
+        "word": "submit",
+        "meaning": "[他] ①（願書，辞表など）を提出する [自] ②（to ～）（～に）服従する"
+    },
+    {
+        "word": "alternative",
+        "meaning": "[名] ①（to ～）（～の）代わりのもの ②選択肢 [形] ③代わりの"
+    },
+    {
+        "word": "deliver",
+        "meaning": "[他] ①～を配達する ②（演説など）をする"
+    },
+    {
+        "word": "enclose",
+        "meaning": "[他] ①～を同封する ②～を囲む，閉じ込める"
+    },
+    {
+        "word": "envelope",
+        "meaning": "[名] 封筒"
+    },
+    {
+        "word": "trick",
+        "meaning": "[名] ①（悪意のない）いたずら ②（巧妙な）手口，策略 ③芸，手品 ④（of ～）秘けつ [他] ⑤～をだます"
+    },
+    {
+        "word": "load",
+        "meaning": "[名] ①荷（物）〈可算〉 [他] ②（A with B）（A）に（B を）積む"
+    },
+    {
+        "word": "content",
+        "meaning": "[名] ①中身，内容 [形] ②（with ～）（～に）満足して"
+    },
+    {
+        "word": "routine",
+        "meaning": "[名] ①日課，決まり切った仕事 [形] ②日課の"
+    },
+    {
+        "word": "household",
+        "meaning": "[名] ①（集合的に）所帯，家庭〈可算〉 [形] ②家庭の"
+    },
+    {
+        "word": "good",
+        "meaning": "[名] ①（－s）商品 ②利益 [形] ③（a － many ～）かなりの"
+    },
+    {
+        "word": "luxury",
+        "meaning": "[名] ①高級（品），ぜいたく品 ②（形容詞的に）豪華な，ぜいたくな"
+    },
+    {
+        "word": "credit",
+        "meaning": "[名] ①（－ card）クレジットカード ②功績，手柄 ③（大学の）単位 [他] ④～の功績を認める"
+    },
+    {
+        "word": "questionnaire",
+        "meaning": "[名] アンケート"
+    },
+    {
+        "word": "reservation",
+        "meaning": "[名] ①予約 ②慎重な姿勢"
+    },
+    {
+        "word": "applause",
+        "meaning": "[名] 拍手〈不可算〉"
+    },
+    {
+        "word": "fuss",
+        "meaning": "[名] 大騒ぎ"
+    },
+    {
+        "word": "reward",
+        "meaning": "[名] ①報酬，褒美 ，懸賞金 [他] ②～に褒美を与える，報いる"
+    },
+    {
+        "word": "farewell",
+        "meaning": "[名] 別れ（のあいさつ）"
+    },
+    {
+        "word": "reception",
+        "meaning": "[名] ①もてなし，歓迎会 ②（ホテルの）フロント ③受信状況"
+    },
+    {
+        "word": "hospitality",
+        "meaning": "[名] もてなし，歓迎"
+    },
+    {
+        "word": "portion",
+        "meaning": "[名] ①（食事の）1盛り ②（食堂などでの）1人前 ③一部"
+    },
+    {
+        "word": "laundry",
+        "meaning": "[名] ①〈米〉洗濯 ②〈米〉洗濯物 ③クリーニング店（＝a cleaner's）"
+    },
+    {
+        "word": "stain",
+        "meaning": "[名] ①シミ，汚れ [他] ②～にシミをつける，～を汚す"
+    },
+    {
+        "word": "dye",
+        "meaning": "[他] ①～を染める [名] ②染料"
+    },
+    {
+        "word": "outlet",
+        "meaning": "[名] ①（電気の）コンセント ②（販売）店 ③（感情などの）はけ口"
+    },
+    {
+        "word": "nap",
+        "meaning": "[名] ①昼寝，仮眠 [自] ②昼寝をする，仮眠をとる"
+    },
+    {
+        "word": "wake",
+        "meaning": "[自] ①目が覚める [他] ②（眠っている人）を起こす"
+    },
+    {
+        "word": "vending machine",
+        "meaning": "[名] 自動販売機"
+    },
+    {
+        "word": "grocery",
+        "meaning": "[名] ①食料雑貨店 ②（-ies）食料雑貨類"
+    },
+    {
+        "word": "appointment",
+        "meaning": "[名] ①（病院などの）予約，（面会の）約束 ②（役職などの）任命，指名"
+    },
+    {
+        "word": "consult",
+        "meaning": "[他] ①～に相談する ②（辞書）を引く [自] ③（with ～）（～に）相談する"
+    },
+    {
+        "word": "register",
+        "meaning": "[他] ①～を登録する，記録する [自] ②（for ～）（授業などに）登録する ③（ホテルなどで）記帳する [名] ④登録（票），登録簿"
+    },
+    {
+        "word": "subscribe",
+        "meaning": "[自] ①（to ～）（～を）定期購読する，加入している ②（主に否定文で）（to ～）（考えなどを）支持する"
+    },
+    {
+        "word": "guarantee",
+        "meaning": "[他] ①～を保証する [名] ②保証（期間）"
+    },
+    {
+        "word": "wipe",
+        "meaning": "[他] ①～を拭く ②～を一掃する，壊滅させる"
+    },
+    {
+        "word": "sweep",
+        "meaning": "[他] ①（床，地面）を掃く ②（風，波などが）～を押し流す"
+    },
+    {
+        "word": "transfer",
+        "meaning": "[自] ①（電車などを）乗り換える ②転勤［転校，移籍］する [他] ③（物，活動拠点など）を移す，～を転勤［転属］させる ④（銀行で）～を振り込む"
+    },
+    {
+        "word": "divorce",
+        "meaning": "[自] ①離婚する [他] ②～と離婚する [名] ③離婚"
+    },
+    {
+        "word": "fate",
+        "meaning": "[名] 運命，宿命"
+    },
+    {
+        "word": "destiny",
+        "meaning": "[名] 運命"
+    },
+    {
+        "word": "flavor",
+        "meaning": "[名] 風味，味〈可算〉"
+    },
+    {
+        "word": "perfume",
+        "meaning": "[名] ①香り ②香水"
+    },
+    {
+        "word": "ingredient",
+        "meaning": "[名] ①（料理などの）材料 ②（何かを達成するための）要因 ③成分"
+    },
+    {
+        "word": "tender",
+        "meaning": "[形] ①（肉などが）柔らかい ②（愛情があり）優しい ③（皮膚などが）弱い"
+    },
+    {
+        "word": "bitter",
+        "meaning": "[形] ①苦い，つらい ②憤慨して"
+    },
+    {
+        "word": "aisle",
+        "meaning": "[名] 通路"
+    },
+    {
+        "word": "track",
+        "meaning": "[名] ①足跡，小道 ②（鉄道の）線路，プラットホーム [他] ③～を追跡する"
+    },
+    {
+        "word": "district",
+        "meaning": "[名] 地区"
+    },
+    {
+        "word": "facility",
+        "meaning": "[名] ①施設，設備 ②能力，器用さ"
+    },
+    {
+        "word": "basement",
+        "meaning": "[名] 地下（室）"
+    },
+    {
+        "word": "height",
+        "meaning": "[名] ①高さ ②高い所 ③最盛期"
+    },
+    {
+        "word": "distant",
+        "meaning": "[形] 遠い"
+    },
+    {
+        "word": "remote",
+        "meaning": "[形] ①（地理的に）へんぴな ②（時間，関係などが）遠い"
+    },
+    {
+        "word": "locate",
+        "meaning": "[他] ①（be －d）～に位置している，ある ②～の場所を見つける"
+    },
+    {
+        "word": "occupy",
+        "meaning": "[他] ～を占める"
+    },
+    {
+        "word": "surround",
+        "meaning": "[他] ～を取り囲む，包囲する"
+    },
+    {
+        "word": "classical",
+        "meaning": "[形] ①（音楽，バレエ，ダンスなどで）クラシックの ②古典的な"
+    },
+    {
+        "word": "civilization",
+        "meaning": "[名] 文明"
+    },
+    {
+        "word": "heritage",
+        "meaning": "[名] 遺産〈不可算〉"
+    },
+    {
+        "word": "script",
+        "meaning": "[名] ①台本，脚本 ②（ある言語の）文字 ③（手書きの）文字"
+    },
+    {
+        "word": "tale",
+        "meaning": "[名] 話"
+    },
+    {
+        "word": "literature",
+        "meaning": "[名] ①文学 ②文献 （①②ともに〈不可算〉）"
+    },
+    {
+        "word": "tragedy",
+        "meaning": "[名] 悲劇〈可算〉"
+    },
+    {
+        "word": "poetry",
+        "meaning": "[名] 詩〈不可算〉"
+    },
+    {
+        "word": "biography",
+        "meaning": "[名] 伝記"
+    },
+    {
+        "word": "term",
+        "meaning": "[名] ①用語，言葉 ②（long［short］などを伴い）期間，学期，任期 ③（be on ～ －s）（～の）間柄（である） ④（－s）（契約などの）条件"
+    },
+    {
+        "word": "proverb",
+        "meaning": "[名] ことわざ"
+    },
+    {
+        "word": "fluent",
+        "meaning": "[形] 流暢な"
+    },
+    {
+        "word": "translate",
+        "meaning": "[他] ①～を翻訳する [自] ②（into ～）（結果として）～に変わる"
+    },
+    {
+        "word": "define",
+        "meaning": "[他] ①～を定義する ②～を規定する"
+    },
+    {
+        "word": "interpret",
+        "meaning": "[他] ①～を解釈する ②～を通訳する [自] ③通訳する"
+    },
+    {
+        "word": "quote",
+        "meaning": "[他] ①～を引用する ② ～に価格を提示する"
+    },
+    {
+        "word": "literally",
+        "meaning": "[副] 文字どおりに"
+    },
+    {
+        "word": "indicate",
+        "meaning": "[他] ①（データなどが）～を示す ②～を指し示す"
+    },
+    {
+        "word": "reveal",
+        "meaning": "[他] ～を明らかにする，暴露する"
+    },
+    {
+        "word": "announce",
+        "meaning": "[他] ～を発表する"
+    },
+    {
+        "word": "broadcast",
+        "meaning": "[他] ①～を放送する [名] ②（ 1 回の）放送"
+    },
+    {
+        "word": "prove",
+        "meaning": "[他] ①～を証明する ②（to be ～）～だとわかる"
+    },
+    {
+        "word": "advertise",
+        "meaning": "[他] ～を宣伝する"
+    },
+    {
+        "word": "seek",
+        "meaning": "[他] ①～を求める ②（to do）～しようと努める"
+    },
+    {
+        "word": "entertain",
+        "meaning": "[他] ①～を楽しませる ② ～をもてなす"
+    },
+    {
+        "word": "amuse",
+        "meaning": "[他] ～を楽しませる"
+    },
+    {
+        "word": "attract",
+        "meaning": "[他] ～を引きつける，魅了する"
+    },
+    {
+        "word": "fascinate",
+        "meaning": "[他] ～を魅了する，～にとても興味をもたせる"
+    },
+    {
+        "word": "absorb",
+        "meaning": "[他] ①（be －ed in ～）～に没頭する ②～を吸収する"
+    },
+    {
+        "word": "fond",
+        "meaning": "[形] ①好きで ② 懐かしい"
+    },
+    {
+        "word": "scare",
+        "meaning": "[他] ～をおびえさせる"
+    },
+    {
+        "word": "alarm",
+        "meaning": "[他] ①～をぎょっとさせる [名] ② 恐怖，不安"
+    },
+    {
+        "word": "amaze",
+        "meaning": "[他] ～を驚かせる"
+    },
+    {
+        "word": "irritate",
+        "meaning": "[他] （長期にわたって）～をいらいらさせる"
+    },
+    {
+        "word": "puzzle",
+        "meaning": "[他] ①～を当惑させる [名] ②難問，パズル"
+    },
+    {
+        "word": "confuse",
+        "meaning": "[他] ① ～を混乱させる，困惑させる ②（A with［and］ B） （A）を（Bと）混同する"
+    },
+    {
+        "word": "bore",
+        "meaning": "[他] ～をうんざりさせる，退屈させる"
+    },
+    {
+        "word": "frustrate",
+        "meaning": "[他] ① ～を欲求不満にさせる ②（計画など）を挫折させる"
+    },
+    {
+        "word": "disappoint",
+        "meaning": "[他] ～を失望させる"
+    },
+    {
+        "word": "embarrass",
+        "meaning": "[他] ～に恥ずかしい思いをさせる，困惑させる"
+    },
+    {
+        "word": "ashamed",
+        "meaning": "[形] 恥ずかしい"
+    },
+    {
+        "word": "uneasy",
+        "meaning": "[形] 不安な，胸騒ぎがする"
+    },
+    {
+        "word": "hesitate",
+        "meaning": "[自] ためらう"
+    },
+    {
+        "word": "reluctant",
+        "meaning": "[形] （to do）（～するのは）気が進まない"
+    },
+    {
+        "word": "tremble",
+        "meaning": "[自] 震える"
+    },
+    {
+        "word": "boast",
+        "meaning": "[自] ①自慢する [他] ②（場所や組織が）～を誇りにしている"
+    },
+    {
+        "word": "jealous",
+        "meaning": "[形] （of ～）（～に）嫉妬した"
+    },
+    {
+        "word": "envy",
+        "meaning": "[他] ①～を羨ましく思う [名] ② 羨望"
+    },
+    {
+        "word": "yell",
+        "meaning": "[自] ①叫ぶ，大声をあげる [名] ②叫び，わめき声"
+    },
+    {
+        "word": "respect",
+        "meaning": "[他] ①（人）を尊敬する ②（物）を尊重する [名] ③（for ～）（～に対する）尊敬，尊重 ④（in －）点"
+    },
+    {
+        "word": "despair",
+        "meaning": "[名] 絶望"
+    },
+    {
+        "word": "emotion",
+        "meaning": "[名] （特に強い）感情〈可算〉"
+    },
+    {
+        "word": "sympathy",
+        "meaning": "[名] ①同情 ② 共感"
+    },
+    {
+        "word": "shame",
+        "meaning": "[名] ①残念なこと ②恥"
+    },
+    {
+        "word": "ambition",
+        "meaning": "[名] （強い）願望，野望"
+    },
+    {
+        "word": "confidence",
+        "meaning": "[名] ①自信 ②（in ～）（～に対する）信頼"
+    },
+    {
+        "word": "courage",
+        "meaning": "[名] 勇気"
+    },
+    {
+        "word": "ignore",
+        "meaning": "[他] （人，物）を無視する"
+    },
+    {
+        "word": "owe",
+        "meaning": "[他] （A to B） ①（A）は（B の）おかげだ ②（A）を（B に）借りている"
+    },
+    {
+        "word": "fear",
+        "meaning": "[名] ①恐怖 [他] ② ～を恐れる ③ ～を心配する"
+    },
+    {
+        "word": "method",
+        "meaning": "[名] 方法"
+    },
+    {
+        "word": "medium",
+        "meaning": "[名] ①（情報伝達）手段，媒体，メディア [形] ② 中間の"
+    },
+    {
+        "word": "means",
+        "meaning": "[名] ①手段〈単複同形〉 ②（特定な表現で）財産，収入"
+    },
+    {
+        "word": "extent",
+        "meaning": "[名] 程度"
+    },
+    {
+        "word": "extremely",
+        "meaning": "[副] 極度に，非常に"
+    },
+    {
+        "word": "total",
+        "meaning": "[形] ①全体の ②（a －）まったくの [名] ③合計"
+    },
+    {
+        "word": "largely",
+        "meaning": "[副] ①大部分は ②主に"
+    },
+    {
+        "word": "moderate",
+        "meaning": "[形] 適度な，節度のある"
+    },
+    {
+        "word": "somewhat",
+        "meaning": "[副] いくぶん"
+    },
+    {
+        "word": "subtle",
+        "meaning": "[形] かすかな"
+    },
+    {
+        "word": "possibly",
+        "meaning": "[副] ①ひょっとすると ②（cannot －）どうしても（～できない）"
+    },
+    {
+        "word": "eventually",
+        "meaning": "[副] 最終的に，ついに"
+    },
+    {
+        "word": "necessarily",
+        "meaning": "[副] （not －）必ずしも（～ない）"
+    },
+    {
+        "word": "frankly",
+        "meaning": "[副] 率直に"
+    },
+    {
+        "word": "ironically",
+        "meaning": "[副] 皮肉なことに"
+    },
+    {
+        "word": "moreover",
+        "meaning": "[副] その上"
+    },
+    {
+        "word": "otherwise",
+        "meaning": "[副] ①さもなければ ② ほかの点では ③ ほかの方法で"
+    },
+    {
+        "word": "regardless",
+        "meaning": "[副] （of ～）（～とは）無関係に"
+    },
+    {
+        "word": "worth",
+        "meaning": "[前] ①～の価値がある ②（－ doing）（～する）価値がある [名] ③ 価値，（～）相当"
+    },
+    {
+        "word": "according to",
+        "meaning": "[前] ①（調査，人の話など）によれば ②（能力など）に応じて"
+    },
+    {
+        "word": "propose",
+        "meaning": "[他] ①～を提案する [自] ②（to ～）（～に）結婚を申し込む"
+    },
+    {
+        "word": "demand",
+        "meaning": "[他] ①～を（強く）要求する [名] ②（for ～）（～への）要求，需要"
+    },
+    {
+        "word": "desire",
+        "meaning": "[名] ①願望 [他] ②～を強く望む"
+    },
+    {
+        "word": "dismiss",
+        "meaning": "[他] ①（意見や考えなど）を退ける ②～を解雇する"
+    },
+    {
+        "word": "bless",
+        "meaning": "[他] ～を祝福する"
+    },
+    {
+        "word": "glory",
+        "meaning": "[名] 栄光"
+    },
+    {
+        "word": "compliment",
+        "meaning": "[名] ①褒め言葉，賛辞 [他] ②～を褒める"
+    },
+    {
+        "word": "feast",
+        "meaning": "[名] ①宴会，祝宴 ②とても楽しいこと，喜ばせるもの"
+    },
+    {
+        "word": "declare",
+        "meaning": "[他] ①～を宣言する ②（税関や税務署で）～を申告する"
+    },
+    {
+        "word": "demonstrate",
+        "meaning": "[他] ～を（はっきり）示す，実演する"
+    },
+    {
+        "word": "highlight",
+        "meaning": "[他] ①～を強調する [名] ②呼び物，目玉商品，ハイライト"
+    },
+    {
+        "word": "imply",
+        "meaning": "[他] （暗に）～を意味する，ほのめかす"
+    },
+    {
+        "word": "recite",
+        "meaning": "[他] ～を暗唱する"
+    },
+    {
+        "word": "ray",
+        "meaning": "[名] ①光線 ②放射線 ③（a － of）一縷の，わずかな"
+    },
+    {
+        "word": "radiation",
+        "meaning": "[名] 放射線"
+    },
+    {
+        "word": "laboratory",
+        "meaning": "[名] 研究室，研究所"
+    },
+    {
+        "word": "oxygen",
+        "meaning": "[名] 酸素"
+    },
+    {
+        "word": "molecule",
+        "meaning": "[名] 分子"
+    },
+    {
+        "word": "compound",
+        "meaning": "[名] ①化合物 [形] ②複合的な"
+    },
+    {
+        "word": "tissue",
+        "meaning": "[名] ①組織 ②ティッシュペーパー"
+    },
+    {
+        "word": "cell",
+        "meaning": "[名] ①細胞 ②電池 ③独房 （①②③いずれも〈可算〉)"
+    },
+    {
+        "word": "gene",
+        "meaning": "[名] 遺伝子〈可算〉"
+    },
+    {
+        "word": "solid",
+        "meaning": "[形] ①固体の ②ぎっしり詰まった [名] ③固体"
+    },
+    {
+        "word": "satellite",
+        "meaning": "[名] ①（月などの）衛星 ②人工衛星"
+    },
+    {
+        "word": "orbit",
+        "meaning": "[名] ①軌道 [他] ②（惑星などが）～を周回する"
+    },
+    {
+        "word": "launch",
+        "meaning": "[他] ①（ロケットなど）を打ち上げる ②（運動，事業など）を始める [名] ③打ち上げ，開始，発売"
+    },
+    {
+        "word": "attempt",
+        "meaning": "[名] ①試み [他] ②（to do）（～しようと）試みる"
+    },
+    {
+        "word": "capacity",
+        "meaning": "[名] ①能力 ②容量，収容力"
+    },
+    {
+        "word": "capable",
+        "meaning": "[形] ①（of ～）（～する）力がある ②有能な"
+    },
+    {
+        "word": "attain",
+        "meaning": "[他] ①（人が主語）～を達成する ②（物，人が主語）～に到達する"
+    },
+    {
+        "word": "desperate",
+        "meaning": "[形] ①必死の ②（状況が）絶望的な"
+    },
+    {
+        "word": "struggle",
+        "meaning": "[自] ①苦闘する，もがく [名] ②苦闘，もがくこと〈可算〉"
+    },
+    {
+        "word": "dedicate",
+        "meaning": "[他] （A to B）（A）を（B に）ささげる"
+    },
+    {
+        "word": "pain",
+        "meaning": "[名] ①苦痛 ②（－s）苦労"
+    },
+    {
+        "word": "strain",
+        "meaning": "[名] ①（心身の）負担，無理 [他] ②（目や筋肉など）を痛める"
+    },
+    {
+        "word": "remedy",
+        "meaning": "[名] ①治療法，治療薬 ②改善策，対策（① ② いずれも〈可算〉）"
+    },
+    {
+        "word": "fatigue",
+        "meaning": "[名] （ひどい）疲労〈不可算〉"
+    },
+    {
+        "word": "obesity",
+        "meaning": "[名] （病的な）肥満"
+    },
+    {
+        "word": "nursing",
+        "meaning": "[名] 看護"
+    },
+    {
+        "word": "terminal",
+        "meaning": "[形] ①（病気が）末期の [名] ②終着［始発］駅（の建物），ターミナルビル"
+    },
+    {
+        "word": "pregnant",
+        "meaning": "[形] 妊娠した"
+    },
+    {
+        "word": "heal",
+        "meaning": "[他] ①～を治す [自] ②治る"
+    },
+    {
+        "word": "ankle",
+        "meaning": "[名] 足首"
+    },
+    {
+        "word": "thumb",
+        "meaning": "[名] 親指"
+    },
+    {
+        "word": "forehead",
+        "meaning": "[名] 額，おでこ"
+    },
+    {
+        "word": "chin",
+        "meaning": "[名] 下あご，あごの先端"
+    },
+    {
+        "word": "chest",
+        "meaning": "[名] ①胸（部） ②（大きな木の）箱，密閉容器"
+    },
+    {
+        "word": "breast",
+        "meaning": "[名] （主に女性の）胸，乳房"
+    },
+    {
+        "word": "lung",
+        "meaning": "[名] 肺〈可算〉"
+    },
+    {
+        "word": "organ",
+        "meaning": "[名] ①臓器，（動植物の）器官 ②（楽器）オルガン"
+    },
+    {
+        "word": "vision",
+        "meaning": "[名] ①視力，視野 ②未来像 ③未来を見通す力，先見の明"
+    },
+    {
+        "word": "skeleton",
+        "meaning": "[名] がい骨，骨格"
+    },
+    {
+        "word": "sensation",
+        "meaning": "[名] ①感覚 ②（説明し難い）感情"
+    },
+    {
+        "word": "code",
+        "meaning": "[名] ①（服装などの）規定 ②暗号"
+    },
+    {
+        "word": "agenda",
+        "meaning": "[名] 議題，協議事項"
+    },
+    {
+        "word": "gender",
+        "meaning": "[名] 性，性別"
+    },
+    {
+        "word": "liberty",
+        "meaning": "[名] 自由"
+    },
+    {
+        "word": "humanity",
+        "meaning": "[名] ①（集合的に）人類 ②（the －ies）人文科学 ③人間性"
+    },
+    {
+        "word": "mankind",
+        "meaning": "[名] （集合的に）人類"
+    },
+    {
+        "word": "authority",
+        "meaning": "[名] ①権威 ②権力 ③（－ies）当局"
+    },
+    {
+        "word": "justice",
+        "meaning": "[名] 正義"
+    },
+    {
+        "word": "insurance",
+        "meaning": "[名] 保険〈不可算〉"
+    },
+    {
+        "word": "hardship",
+        "meaning": "[名] （主に経済的）苦難"
+    },
+    {
+        "word": "poverty",
+        "meaning": "[名] 貧困〈不可算〉"
+    },
+    {
+        "word": "chaos",
+        "meaning": "[名] 大混乱，混沌〈不可算〉"
+    },
+    {
+        "word": "isolation",
+        "meaning": "[名] 孤立，分離，孤独感"
+    },
+    {
+        "word": "interaction",
+        "meaning": "[名] ① 交流，やりとり ②相互作用"
+    },
+    {
+        "word": "region",
+        "meaning": "[名] 地域"
+    },
+    {
+        "word": "proof",
+        "meaning": "[名] ①証拠，証明〈不可算〉 [形] ②（複合語で）～を防ぐ，～に耐える"
+    },
+    {
+        "word": "principle",
+        "meaning": "[名] ①原理，原則 ②主義，信念"
+    },
+    {
+        "word": "origin",
+        "meaning": "[名] 起源"
+    },
+    {
+        "word": "setting",
+        "meaning": "[名] ①環境，状況 ②（小説，劇，機械などの）設定，舞台"
+    },
+    {
+        "word": "monument",
+        "meaning": "[名] 記念碑，遺跡，史跡"
+    },
+    {
+        "word": "mission",
+        "meaning": "[名] ①任務，使命 ②使節団 ③（主にキリスト教の）布教（団）"
+    },
+    {
+        "word": "project",
+        "meaning": "[名] ①計画，企画 [他] ②（予算など）を見積もる ③～を投影する"
+    },
+    {
+        "word": "revolution",
+        "meaning": "[名] 革命"
+    },
+    {
+        "word": "pension",
+        "meaning": "[名] 年金〈可算〉"
+    },
+    {
+        "word": "found",
+        "meaning": "[他] ～を創立する"
+    },
+    {
+        "word": "contract",
+        "meaning": "[名] ①契約 [他] ②～を契約する ③（病気）に感染する"
+    },
+    {
+        "word": "negotiate",
+        "meaning": "[自] ①（with ～）（～と）交渉する [他] ②（交渉の上で，条件など）を取り決める"
+    },
+    {
+        "word": "cooperate",
+        "meaning": "[自] （with ～）（～と）協力する，（in ～）（～を）協力する"
+    },
+    {
+        "word": "restore",
+        "meaning": "[他] ①（治安など）を回復する ②（古い建物，絵など）を修復する"
+    },
+    {
+        "word": "conservative",
+        "meaning": "[形] 保守的な"
+    },
+    {
+        "word": "affair",
+        "meaning": "[名] ①（－s）情勢 ②（スキャンダラスな）事件 ③ 情事，浮気"
+    },
+    {
+        "word": "agency",
+        "meaning": "[名] ①（政府）機関 ②代理店"
+    },
+    {
+        "word": "council",
+        "meaning": "[名] 議会"
+    },
+    {
+        "word": "kingdom",
+        "meaning": "[名] ①王国 ②（the ～ kingdom）～界，社会"
+    },
+    {
+        "word": "republic",
+        "meaning": "[名] 共和国"
+    },
+    {
+        "word": "empire",
+        "meaning": "[名] 帝国"
+    },
+    {
+        "word": "security",
+        "meaning": "[名] ①（国家などの）安全 ②防犯，防衛"
+    },
+    {
+        "word": "aid",
+        "meaning": "[名] 援助，救援物資〈不可算〉"
+    },
+    {
+        "word": "reform",
+        "meaning": "[名] 改革"
+    },
+    {
+        "word": "mayor",
+        "meaning": "[名] 市長"
+    },
+    {
+        "word": "minister",
+        "meaning": "[名] ①大臣 ②牧師"
+    },
+    {
+        "word": "poll",
+        "meaning": "[名] ①（政治関連の）世論調査 ②投票 [他] ③（得票）を得る"
+    },
+    {
+        "word": "fortune",
+        "meaning": "[名] ①財産 ②運"
+    },
+    {
+        "word": "property",
+        "meaning": "[名] ①（主に集合的）財産，資産 ②（建物を含む）所有地 ③（物質の）特性"
+    },
+    {
+        "word": "fund",
+        "meaning": "[名] ①（－s）資金 ②基金 [他] ③～に資金を出す"
+    },
+    {
+        "word": "stock",
+        "meaning": "[名] ①株（式） ②在庫品，蓄え"
+    },
+    {
+        "word": "bankrupt",
+        "meaning": "[形] 倒産した，破産した"
+    },
+    {
+        "word": "labor",
+        "meaning": "[名] ①労働 ②（集合的に）労働者 ③努力，陣痛"
+    },
+    {
+        "word": "overwork",
+        "meaning": "[自] ①働きすぎる [他] ②～を働かせすぎる，酷使する [名] ③過労"
+    },
+    {
+        "word": "firm",
+        "meaning": "[名] ①会社 [形] ②（土台，信念などが）固い ③（体が）引き締まった"
+    },
+    {
+        "word": "union",
+        "meaning": "[名] ①労働組合 ②合併 ③連邦"
+    },
+    {
+        "word": "administration",
+        "meaning": "[名] ①経営，運営 ②行政 ③政権 （①②は〈不可算〉）"
+    },
+    {
+        "word": "secretary",
+        "meaning": "[名] ①秘書 ②（米国の各省の）長官，事務局長"
+    },
+    {
+        "word": "editor",
+        "meaning": "[名] （新聞，雑誌などの）編集長，（書籍の）編集者"
+    },
+    {
+        "word": "client",
+        "meaning": "[名] ①依頼人 ②（サービス業の）取引先"
+    },
+    {
+        "word": "colleague",
+        "meaning": "[名] （from ～）（～の）同僚"
+    },
+    {
+        "word": "basis",
+        "meaning": "[名] ①基礎，根拠 ②（on a ～ basis）（～を）基準（として）"
+    },
+    {
+        "word": "element",
+        "meaning": "[名] ①（最も重要な）要素，（化学の）元素 ②（the －s）自然の力，悪天候 ③（an － of ～）少しの～"
+    },
+    {
+        "word": "constitute",
+        "meaning": "[他] ①（主語が複数）～を構成する ②（主語が単数）～である"
+    },
+    {
+        "word": "unify",
+        "meaning": "[他] ～を統一する"
+    },
+    {
+        "word": "unite",
+        "meaning": "[自] ①団結する [他] ②～を団結させる"
+    },
+    {
+        "word": "combine",
+        "meaning": "[他] ①（A with B） （A）を（B と）結びつける，同時に行う [自] ②結びつく"
+    },
+    {
+        "word": "murder",
+        "meaning": "[名] ①殺人 ②（形容詞的に）殺人の [他] ③（計画的に）～を殺す"
+    },
+    {
+        "word": "arrest",
+        "meaning": "[他] ①～を逮捕する [名] ②逮捕"
+    },
+    {
+        "word": "prison",
+        "meaning": "[名] 刑務所"
+    },
+    {
+        "word": "vice",
+        "meaning": "[名] ①（売春，麻薬などの）犯罪〈不可算〉 ②悪徳 [形] ③ 副～"
+    },
+    {
+        "word": "witness",
+        "meaning": "[名] ①目撃者，証人 ② 証言 [他] ③～を目撃する"
+    },
+    {
+        "word": "conflict",
+        "meaning": "[名] ①対立，紛争 ②葛藤 [自] ③（with ～）（～と）矛盾する"
+    },
+    {
+        "word": "bullet",
+        "meaning": "[名] 弾丸"
+    },
+    {
+        "word": "wound",
+        "meaning": "[名] ①傷 [他] ②～を傷つける"
+    },
+    {
+        "word": "triumph",
+        "meaning": "[名] ①勝利 [自] ②勝利する"
+    },
+    {
+        "word": "military",
+        "meaning": "[形] 軍事的な"
+    },
+    {
+        "word": "strategy",
+        "meaning": "[名] 戦略"
+    },
+    {
+        "word": "conquer",
+        "meaning": "[他] ①（国や地域）を征服する ②（病気や恐怖など）を克服する"
+    },
+    {
+        "word": "defend",
+        "meaning": "[他] （A from B）（B からA）を守る"
+    },
+    {
+        "word": "quarrel",
+        "meaning": "[自] ①（with ～）（～と）口論する [名] ②口論"
+    },
+    {
+        "word": "rob",
+        "meaning": "[他] ①（銀行など）を襲う ②（A of B）（A）から（B を）奪う"
+    },
+    {
+        "word": "deprive",
+        "meaning": "[他] （A of B） （A）から（B を）奪う"
+    },
+    {
+        "word": "devastate",
+        "meaning": "[他] ①（町など）を壊滅させる ②（人）を打ちのめす"
+    },
+    {
+        "word": "hazard",
+        "meaning": "[名] 危険（になり得るもの）"
+    },
+    {
+        "word": "orphan",
+        "meaning": "[名] 孤児"
+    },
+    {
+        "word": "infant",
+        "meaning": "[名] （主に歩く前の）幼児"
+    },
+    {
+        "word": "slave",
+        "meaning": "[名] ①奴隷 ②（to ～）（比喩的に）（～の）奴隷"
+    },
+    {
+        "word": "acquaintance",
+        "meaning": "[名] ①知人 ②面識，（ちょっとした）知識"
+    },
+    {
+        "word": "merchant",
+        "meaning": "[名] 商人"
+    },
+    {
+        "word": "resident",
+        "meaning": "[名] ①住人，居住者 ②滞在者 [形] ③住んでいる"
+    },
+    {
+        "word": "crew",
+        "meaning": "[名] ①（集合的に）乗組員 ②（取材などの）チーム"
+    },
+    {
+        "word": "commute",
+        "meaning": "[自] ①通勤する [名] ②通勤"
+    },
+    {
+        "word": "chase",
+        "meaning": "[他] ①～を追いかける [名] ②追跡"
+    },
+    {
+        "word": "overtake",
+        "meaning": "[他] ～を追い越す"
+    },
+    {
+        "word": "fade",
+        "meaning": "[自] （色，記憶などが）薄れる"
+    },
+    {
+        "word": "dissolve",
+        "meaning": "[自] ①溶ける [他] ②～を溶かす ③（議会など）を解散する"
+    },
+    {
+        "word": "float",
+        "meaning": "[自] ①浮かぶ [他] ②～を浮かべる"
+    },
+    {
+        "word": "sink",
+        "meaning": "[自] ①沈む [他] ②～を沈める [名] ③（台所の）流し"
+    },
+    {
+        "word": "fluctuate",
+        "meaning": "[自] （数値，物価が）変動する"
+    },
+    {
+        "word": "circulate",
+        "meaning": "[自] ①循環する，流布する [他] ②～を循環させる"
+    },
+    {
+        "word": "transform",
+        "meaning": "[他] ①～を（大幅に）変える [自] ②（大幅に）変形する，変身する"
+    },
+    {
+        "word": "shift",
+        "meaning": "[名] ①（考え方の）転換 ②（勤務の）交替"
+    },
+    {
+        "word": "modify",
+        "meaning": "[他] ～を修正する"
+    },
+    {
+        "word": "revise",
+        "meaning": "[他] （制度，予測，論文など）を修正する，改正する"
+    },
+    {
+        "word": "vehicle",
+        "meaning": "[名] ①（エンジンの付いた）車両 ②（思想，意見の）伝達手段"
+    },
+    {
+        "word": "voyage",
+        "meaning": "[名] 航海，船旅"
+    },
+    {
+        "word": "confirm",
+        "meaning": "[他] ①～を確認する ②～を裏付ける"
+    },
+    {
+        "word": "ensure",
+        "meaning": "[他] ～を確実にする"
+    },
+    {
+        "word": "address",
+        "meaning": "[他] ①～に取り組む ②～に呼びかける [名] ③演説 ④住所"
+    },
+    {
+        "word": "approach",
+        "meaning": "[名] ①（to ～）（～への）取り組み方，接近 [他] ②～に取り組む，接近する"
+    },
+    {
+        "word": "resolve",
+        "meaning": "[他] ①～を解決する ②（to do）（～する）決心をする"
+    },
+    {
+        "word": "settle",
+        "meaning": "[他] ①（紛争など）を解決する ②～を置く，据える [自] ③定住する ④（on ～）（～を）決める"
+    },
+    {
+        "word": "warn",
+        "meaning": "[他] ～に警告する"
+    },
+    {
+        "word": "force",
+        "meaning": "[他] ①～に強いる [名] ②力，武力"
+    },
+    {
+        "word": "boost",
+        "meaning": "[他] ～を促進させる，増大させる"
+    },
+    {
+        "word": "appeal",
+        "meaning": "[自] ①（to ～）（～に）訴える [名] ②魅力，人気 ③（for ～）（～に対する）訴え"
+    },
+    {
+        "word": "leap",
+        "meaning": "[自] ①跳ぶ [名] ②躍進，急増"
+    },
+    {
+        "word": "grab",
+        "meaning": "[他] ①（ぐいっと）～をつかむ ②（急いで食事，睡眠）をとる"
+    },
+    {
+        "word": "seize",
+        "meaning": "[他] ①～をつかむ ②（麻薬など）を押収する，（犯人）を捕らえる"
+    },
+    {
+        "word": "cast",
+        "meaning": "[他] ①～を投げる ②（光など）を投げかける ③～に役を与える"
+    },
+    {
+        "word": "slap",
+        "meaning": "[他] ～を平手打ちする"
+    },
+    {
+        "word": "stun",
+        "meaning": "[他] ①～を気絶させる ②～をぼう然とさせる"
+    },
+    {
+        "word": "illuminate",
+        "meaning": "[他] ①～を照らす ②（問題など）を解明する"
+    },
+    {
+        "word": "mend",
+        "meaning": "[他] ～を修繕する"
+    },
+    {
+        "word": "react",
+        "meaning": "[自] （to ～）（～に）反応する"
+    },
+    {
+        "word": "endure",
+        "meaning": "[他] （長期にわたり）～に耐える"
+    },
+    {
+        "word": "encounter",
+        "meaning": "[他] ①～に偶然出会う ②（問題，反対など）に遭う [名] ③出会い"
+    },
+    {
+        "word": "neglect",
+        "meaning": "[他] ①～を怠る，放置する ②（子ども）の世話をしない [名] ③放置"
+    },
+    {
+        "word": "undergo",
+        "meaning": "[他] ～を経験する"
+    },
+    {
+        "word": "trace",
+        "meaning": "[他] ①～を捜し出す ②～の追跡調査をする [名] ③（微妙な）跡"
+    },
+    {
+        "word": "conduct",
+        "meaning": "[他] ①～を行う ②（電気，熱）を伝える [名] ③行為"
+    },
+    {
+        "word": "emerge",
+        "meaning": "[自] ①（隠れていたものが）現れる ②（国家などが）台頭する"
+    },
+    {
+        "word": "unfold",
+        "meaning": "[自] ①展開する，はっきりしてくる [他] ②～を広げる"
+    },
+    {
+        "word": "derive",
+        "meaning": "[自] ①（from ～）（～に）由来する [他] ②～を引き出す，得る"
+    },
+    {
+        "word": "possess",
+        "meaning": "[他] ～を所有している"
+    },
+    {
+        "word": "retain",
+        "meaning": "[他] ～を保持する"
+    },
+    {
+        "word": "secure",
+        "meaning": "[他] ①（場所，地位，契約など）を確保する [形] ②安全で，守られて"
+    },
+    {
+        "word": "capture",
+        "meaning": "[他] ①～を捕らえる [名] ②捕獲，（敵地の）攻略"
+    },
+    {
+        "word": "inquiry",
+        "meaning": "[名] ①（into ～）（～の）調査 ②質問，問い合わせ"
+    },
+    {
+        "word": "specialize",
+        "meaning": "[自] （in ～） ①〈英〉（～を）専攻する ②（～を）専門にする"
+    },
+    {
+        "word": "semester",
+        "meaning": "[名] （米，日本などの2 学期制の）学期"
+    },
+    {
+        "word": "biology",
+        "meaning": "[名] 生物学"
+    },
+    {
+        "word": "ecology",
+        "meaning": "[名] 生態（学）"
+    },
+    {
+        "word": "philosophy",
+        "meaning": "[名] ①（学問としての）哲学〈不可算〉 ②人生哲学，考え方〈可算〉"
+    },
+    {
+        "word": "geography",
+        "meaning": "[名] 地理（学）"
+    },
+    {
+        "word": "psychology",
+        "meaning": "[名] ①心理学 ②心理"
+    },
+    {
+        "word": "institution",
+        "meaning": "[名] ①（大学，病院などの）機関 ②（結婚などの）制度"
+    },
+    {
+        "word": "dormitory",
+        "meaning": "[名] 寮"
+    },
+    {
+        "word": "notion",
+        "meaning": "[名] 考え"
+    },
+    {
+        "word": "concept",
+        "meaning": "[名] 概念，考え"
+    },
+    {
+        "word": "meditation",
+        "meaning": "[名] ①瞑想 ②熟考"
+    },
+    {
+        "word": "insight",
+        "meaning": "[名] ①（into ～）（～に対する）洞察（力） ②見識"
+    },
+    {
+        "word": "outlook",
+        "meaning": "[名] ①（人生，世界などに対する）考え方 ②（経済，天候などの）見通し"
+    },
+    {
+        "word": "caution",
+        "meaning": "[名] ①用心 ②警告 [他] ③～に注意［警告］を与える"
+    },
+    {
+        "word": "will",
+        "meaning": "[名] ①意志 ②遺書"
+    },
+    {
+        "word": "option",
+        "meaning": "[名] 選択肢，選択（の自由）"
+    },
+    {
+        "word": "nightmare",
+        "meaning": "[名] ①悪夢 ②悪夢のようなこと"
+    },
+    {
+        "word": "keen",
+        "meaning": "[形] ①（頭脳，感性などが）鋭い ②（be － on ～）（～に）熱中して，好きで"
+    },
+    {
+        "word": "cherish",
+        "meaning": "[他] ～を大切にする，胸に抱く"
+    },
+    {
+        "word": "intend",
+        "meaning": "[他] （to do）～するつもりだ"
+    },
+    {
+        "word": "suspect",
+        "meaning": "[他] ①（that S V）～ではないかと思う ②～に嫌疑をかける [名] ③容疑者"
+    },
+    {
+        "word": "comprehend",
+        "meaning": "[他] ～を（十分に）理解する"
+    },
+    {
+        "word": "misunderstand",
+        "meaning": "[他] （人，人の言うこと）を誤解している"
+    },
+    {
+        "word": "identify",
+        "meaning": "[他] ①～を（何なのか）特定する ②（A with B）（A）を（B と）同一視する ③（with ～）（～に）なりきる"
+    },
+    {
+        "word": "permit",
+        "meaning": "[他] ①～を許可する [名] ②許可証"
+    },
+    {
+        "word": "acknowledge",
+        "meaning": "[他] ～を認める"
+    },
+    {
+        "word": "trim",
+        "meaning": "[他]①～を刈り込む，切り取る [形] ②こぎれいな"
+    },
+    {
+        "word": "omit",
+        "meaning": "[他] ～を省く"
+    },
+    {
+        "word": "cultivate",
+        "meaning": "[他] ①～を耕す ②～を育む ③～を磨く"
+    },
+    {
+        "word": "shade",
+        "meaning": "[名] ①日陰，（絵画，写真の）陰の部分，ブラインド ②（意味などの）わずかな違い"
+    },
+    {
+        "word": "breeze",
+        "meaning": "[名] そよ風"
+    },
+    {
+        "word": "desert",
+        "meaning": "[名] ①砂漠 [他] ②～を見捨てる"
+    },
+    {
+        "word": "fog",
+        "meaning": "[名] 霧"
+    },
+    {
+        "word": "moisture",
+        "meaning": "[名] 湿気，水分"
+    },
+    {
+        "word": "damp",
+        "meaning": "[形] 湿った，じめじめした"
+    },
+    {
+        "word": "path",
+        "meaning": "[名] （小）道"
+    },
+    {
+        "word": "trail",
+        "meaning": "[名] ①山道 ②跡 ③（a － of destruction）爪跡"
+    },
+    {
+        "word": "stream",
+        "meaning": "[名] ①小川 ②（a － of ～）（～の）流れ"
+    },
+    {
+        "word": "tide",
+        "meaning": "[名] ①潮（の干満），潮流 ②時流"
+    },
+    {
+        "word": "habitat",
+        "meaning": "[名] 生息地"
+    },
+    {
+        "word": "layer",
+        "meaning": "[名] （大気や地面などの）層"
+    },
+    {
+        "word": "volcano",
+        "meaning": "[名] 火山"
+    },
+    {
+        "word": "mine",
+        "meaning": "[名] ①鉱山 ②地雷（＝landmine）"
+    },
+    {
+        "word": "scent",
+        "meaning": "[名] ①（花，果物の良い）香り ②（動物が残したそれ自身の）臭い"
+    },
+    {
+        "word": "wheat",
+        "meaning": "[名] 小麦"
+    },
+    {
+        "word": "swallow",
+        "meaning": "[名] ①ツバメ [他] ②～を飲み込む"
+    },
+    {
+        "word": "web",
+        "meaning": "[名] ①（クモの）巣 ②インターネット（www＝the World Wide Web）"
+    },
+    {
+        "word": "cattle",
+        "meaning": "[名] ウシ"
+    },
+    {
+        "word": "kitten",
+        "meaning": "[名] 子ネコ"
+    },
+    {
+        "word": "organism",
+        "meaning": "[名] 生物"
+    },
+    {
+        "word": "wildlife",
+        "meaning": "[名] 野生生物"
+    },
+    {
+        "word": "beast",
+        "meaning": "[名] 野獣"
+    },
+    {
+        "word": "ape",
+        "meaning": "[名] 類人猿"
+    },
+    {
+        "word": "mammal",
+        "meaning": "[名] 哺乳動物，哺乳類"
+    },
+    {
+        "word": "flock",
+        "meaning": "[名] ①（鳥，羊の）群れ [自] ②群れる"
+    },
+    {
+        "word": "breed",
+        "meaning": "[自] ①繁殖する [他] ②～を繁殖させる ③～を引き起こす [名] ④品種，血統"
+    },
+    {
+        "word": "reproduce",
+        "meaning": "[自] ①繁殖する [他] ②～を繁殖させる ③（音，絵など）を再現する"
+    },
+    {
+        "word": "hatch",
+        "meaning": "[自] ①（卵から）かえる，孵化する [他] ②（卵から）～をかえす"
+    },
+    {
+        "word": "diligent",
+        "meaning": "[形] 勤勉な"
+    },
+    {
+        "word": "noble",
+        "meaning": "[形] ①高潔な ②貴族の [名] ③貴族〈可算〉"
+    },
+    {
+        "word": "arrogant",
+        "meaning": "[形] 傲慢な"
+    },
+    {
+        "word": "timid",
+        "meaning": "[形] 臆病な"
+    },
+    {
+        "word": "humble",
+        "meaning": "[形] ①控えめな ②卑しい，貧しい"
+    },
+    {
+        "word": "inclined",
+        "meaning": "[形] ①（be ～ to do）～する傾向がある ②～したい気持ちだ"
+    },
+    {
+        "word": "principal",
+        "meaning": "[形] ①主要な [名] ②〈米〉校長"
+    },
+    {
+        "word": "prime",
+        "meaning": "[形] ①（目標，容疑者などが）最重要な [名] ②素数"
+    },
+    {
+        "word": "indispensable",
+        "meaning": "[形] 不可欠な"
+    },
+    {
+        "word": "grave",
+        "meaning": "[形] ①重大な [名] ②墓（穴）"
+    },
+    {
+        "word": "definite",
+        "meaning": "[形] 明確な"
+    },
+    {
+        "word": "evident",
+        "meaning": "[形] 明らかな"
+    },
+    {
+        "word": "prominent",
+        "meaning": "[形] ①（物が）目立った ②（人が）著名な，重要な"
+    },
+    {
+        "word": "marked",
+        "meaning": "[形] （名詞の前で）際立った，著しい"
+    },
+    {
+        "word": "grace",
+        "meaning": "[名] ①優美さ ②（say －）（食事の前後の）感謝の祈り（をささげる）"
+    },
+    {
+        "word": "charm",
+        "meaning": "[名] ①魅力 ②（a good-luck －）お守り，まじない"
+    },
+    {
+        "word": "rational",
+        "meaning": "[形] 理性的な"
+    },
+    {
+        "word": "magnificent",
+        "meaning": "[形] 壮大な，素晴らしい"
+    },
+    {
+        "word": "superior",
+        "meaning": "[形] ①（be － to ～）（～）より優れている [名] ②上役，上司"
+    },
+    {
+        "word": "loyal",
+        "meaning": "[形] （to ～）（～に）忠実な"
+    },
+    {
+        "word": "horrible",
+        "meaning": "[形] （物，天気などが）とてもひどい，ぞっとする"
+    },
+    {
+        "word": "miserable",
+        "meaning": "[形] 悲惨な，とても不幸な"
+    },
+    {
+        "word": "dull",
+        "meaning": "[形] ①退屈な ②切れ味が悪い ③鈍い"
+    },
+    {
+        "word": "nasty",
+        "meaning": "[形] （人，物，発言などが）不快な"
+    },
+    {
+        "word": "insane",
+        "meaning": "[形] 正気でない"
+    },
+    {
+        "word": "ridiculous",
+        "meaning": "[形] ばかげた"
+    },
+    {
+        "word": "notorious",
+        "meaning": "[形] （for ～）（～で）悪名高い"
+    },
+    {
+        "word": "evil",
+        "meaning": "[形] ①（道徳的に）悪い [名] ②悪"
+    },
+    {
+        "word": "mess",
+        "meaning": "[名] ①乱雑 [自] ②（with ～）（～を）からかう，ちょっかいを出す"
+    },
+    {
+        "word": "vast",
+        "meaning": "[形] ①（地域，土地が）広大な ②（数量が）莫大な"
+    },
+    {
+        "word": "huge",
+        "meaning": "[形] 巨大な"
+    },
+    {
+        "word": "tiny",
+        "meaning": "[形] とても小さな"
+    },
+    {
+        "word": "sphere",
+        "meaning": "[名] ①球体 ②範囲，領域"
+    },
+    {
+        "word": "strip",
+        "meaning": "[名] ①細長い一片 [他] ②（罰として）～から奪う [自] ③裸になる"
+    },
+    {
+        "word": "internal",
+        "meaning": "[形] ①内部の ②国内の"
+    },
+    {
+        "word": "mobile",
+        "meaning": "[形] ①流動的な [名] ②携帯電話"
+    },
+    {
+        "word": "steep",
+        "meaning": "[形] ①（坂などが）険しい ②（増減が）急な，（価格などが）異常に高い"
+    },
+    {
+        "word": "intense",
+        "meaning": "[形] （感情，競争などが）強烈な"
+    },
+    {
+        "word": "abstract",
+        "meaning": "[形] ①抽象的な [名] ②（論文などの）要旨"
+    },
+    {
+        "word": "inevitable",
+        "meaning": "[形] 避けられない，必然的な"
+    },
+    {
+        "word": "neutral",
+        "meaning": "[形] ①中立の [名] ②中立"
+    },
+    {
+        "word": "brief",
+        "meaning": "[形] ①手短な，簡潔な [名] ②要約"
+    },
+    {
+        "word": "potential",
+        "meaning": "[形] ①潜在的な [名] ②潜在能力，可能性〈不可算〉"
+    },
+    {
+        "word": "tough",
+        "meaning": "[形] ①たくましい，頑強な ②骨の折れる，厳しい"
+    },
+    {
+        "word": "secondhand",
+        "meaning": "[形] ①中古の ②間接的な"
+    },
+    {
+        "word": "resemble",
+        "meaning": "[他] ～に似ている"
+    },
+    {
+        "word": "contrary",
+        "meaning": "[名] ①（on the －）それどころか [副] ②（－ to A）（A とは）反対に [形] ③（（名詞） to the －）それとは反対の～"
+    },
+    {
+        "word": "category",
+        "meaning": "[名] 範疇"
+    },
+    {
+        "word": "scope",
+        "meaning": "[名] 範囲"
+    },
+    {
+        "word": "respective",
+        "meaning": "[形] それぞれの"
+    },
+    {
+        "word": "given",
+        "meaning": "[形] ①（時間，量などが）定められた [前] ②～を考慮すると"
+    },
+    {
+        "word": "peculiar",
+        "meaning": "[形] ①（to ～）（～に）固有の ②独特な，変な"
+    },
+    {
+        "word": "plenty",
+        "meaning": "[名] （of ～）十分な～，たくさんの～"
+    },
+    {
+        "word": "sufficient",
+        "meaning": "[形] 十分な"
+    },
+    {
+        "word": "numerous",
+        "meaning": "[形] 多くの"
+    },
+    {
+        "word": "substantial",
+        "meaning": "[形] ①かなりの，たくさんの ②内容のある，重要な"
+    },
+    {
+        "word": "unit",
+        "meaning": "[名] 単位"
+    },
+    {
+        "word": "diameter",
+        "meaning": "[名] 直径"
+    },
+    {
+        "word": "quantity",
+        "meaning": "[名] 量"
+    },
+    {
+        "word": "deficiency",
+        "meaning": "[名] 欠乏，不足"
+    },
+    {
+        "word": "lessen",
+        "meaning": "[他] ～を減らす"
+    },
+    {
+        "word": "era",
+        "meaning": "[名] 時代"
+    },
+    {
+        "word": "session",
+        "meaning": "[名] ①（活動の）期間 ②（議会などの）会期 ③（ある活動の）集まり"
+    },
+    {
+        "word": "pause",
+        "meaning": "[名] ①休止 [自] ②休止する"
+    },
+    {
+        "word": "meanwhile",
+        "meaning": "[副] ①その間 ②（対比を示して）その一方で"
+    },
+    {
+        "word": "souvenir",
+        "meaning": "[名] 土産，記念品"
+    },
+    {
+        "word": "brick",
+        "meaning": "[名] ①れんが ②〈英〉（おもちゃの）積み木"
+    },
+    {
+        "word": "pole",
+        "meaning": "[名] ①棒，さお，柱 ②（天体，地球の）極"
+    },
+    {
+        "word": "thread",
+        "meaning": "[名] ①糸 [他] ②～に糸を通す"
+    },
+    {
+        "word": "mischief",
+        "meaning": "[名] いたずら〈不可算〉"
+    },
+    {
+        "word": "superstition",
+        "meaning": "[名] 迷信"
+    },
+    {
+        "word": "storage",
+        "meaning": "[名] 貯蔵，保管〈不可算〉"
+    },
+    {
+        "word": "shelter",
+        "meaning": "[名] ①避難（所） ②住居"
+    },
+    {
+        "word": "garment",
+        "meaning": "[名] 衣類"
+    },
+    {
+        "word": "cabinet",
+        "meaning": "[名] ①戸棚 ②（the C－）内閣"
+    },
+    {
+        "word": "recipe",
+        "meaning": "[名] ①レシピ，調理法 ②秘訣，原因"
+    },
+    {
+        "word": "brochure",
+        "meaning": "[名] パンフレット"
+    },
+    {
+        "word": "shipping",
+        "meaning": "[名] （商品の）発送"
+    },
+    {
+        "word": "fetch",
+        "meaning": "[他] （主に〈英〉）～を取って来る"
+    },
+    {
+        "word": "distribute",
+        "meaning": "[他] ①～を分配する，配る ②（be －d）分布している"
+    },
+    {
+        "word": "statue",
+        "meaning": "[名] 像"
+    },
+    {
+        "word": "sculpture",
+        "meaning": "[名] 彫刻"
+    },
+    {
+        "word": "carve",
+        "meaning": "[他] ～を彫る，刻む"
+    },
+    {
+        "word": "myth",
+        "meaning": "[名] ①（俗説という意味での）神話 ②（古代の）神話"
+    },
+    {
+        "word": "craft",
+        "meaning": "[名] ①工芸（品） ②（職人の）技術 ③船，乗り物"
+    },
+    {
+        "word": "journal",
+        "meaning": "[名] ①雑誌，専門誌 ②（公的な）日誌，日記"
+    },
+    {
+        "word": "heaven",
+        "meaning": "[名] ①天国 ②（the －s）空"
+    },
+    {
+        "word": "funeral",
+        "meaning": "[名] 葬式"
+    },
+    {
+        "word": "soul",
+        "meaning": "[名] ①魂 ②（慣用句あるいは否定文で）人"
+    },
+    {
+        "word": "priest",
+        "meaning": "[名] 神父，僧侶，牧師，聖職者"
+    },
+    {
+        "word": "faith",
+        "meaning": "[名] ①（主に宗教上の）信仰 ②信頼"
+    },
+    {
+        "word": "sacred",
+        "meaning": "[形] 神聖な"
+    },
+    {
+        "word": "divine",
+        "meaning": "[形] 神の"
+    },
+    {
+        "word": "context",
+        "meaning": "[名] ①文脈 ②状況"
+    },
+    {
+        "word": "singular",
+        "meaning": "[形] ①単数の ②（褒めて）比類なき ③奇妙な"
+    },
+    {
+        "word": "command",
+        "meaning": "[名] ①言語を操る力 ②命令 [他] ③～を集める ④～を見渡せる"
+    },
+    {
+        "word": "instance",
+        "meaning": "[名] 例"
+    },
+    {
+        "word": "narrative",
+        "meaning": "[名] 語り，物語"
+    },
+    {
+        "word": "dialogue",
+        "meaning": "[名] ①（本，劇，映画の中の）会話 ②対談，対話"
+    },
+    {
+        "word": "usage",
+        "meaning": "[名] 語法"
+    },
+    {
+        "word": "accent",
+        "meaning": "[名] ①訛 ②アクセント"
+    },
+    {
+        "word": "temper",
+        "meaning": "[名] ①気性 ②平静（な気分）"
+    },
+    {
+        "word": "affection",
+        "meaning": "[名] 愛情"
+    },
+    {
+        "word": "enthusiasm",
+        "meaning": "[名] 情熱，熱意"
+    },
+    {
+        "word": "passion",
+        "meaning": "[名] 情熱"
+    },
+    {
+        "word": "rage",
+        "meaning": "[名] ①激怒 [自] ②（戦争，病気が）激しく続く，猛威をふるう"
+    },
+    {
+        "word": "sorrow",
+        "meaning": "[名] 悲しみ"
+    },
+    {
+        "word": "incredible",
+        "meaning": "[形] 信じられない"
+    },
+    {
+        "word": "chuckle",
+        "meaning": "[自] ①くすくす笑う [名] ②くすくす笑うこと"
+    },
+    {
+        "word": "tease",
+        "meaning": "[他] ～をからかう，冷やかす"
+    },
+    {
+        "word": "dare",
+        "meaning": "[他] ①（to do）思い切って～する [助] ②（do）思い切って～する"
+    },
+    {
+        "word": "willing",
+        "meaning": "[形] （be － to do）嫌がらずに～する"
+    },
+    {
+        "word": "scream",
+        "meaning": "[自] ①悲鳴を上げる [名] ②悲鳴"
+    },
+    {
+        "word": "soothe",
+        "meaning": "[他] ①（人）をなだめる ②（痛みなど）をやわらげる"
+    },
+    {
+        "word": "tempt",
+        "meaning": "[他] ～を誘惑する"
+    },
+    {
+        "word": "scold",
+        "meaning": "[他] ～を叱る"
+    },
+    {
+        "word": "oppress",
+        "meaning": "[他] ～を圧迫する，虐げる"
+    },
+    {
+        "word": "threaten",
+        "meaning": "[他] ①（to do）～すると脅す ②～を脅かす ③～のおそれがある"
+    },
+    {
+        "word": "delight",
+        "meaning": "[他] ①～を喜ばせる [名] ②（大）喜び"
+    },
+    {
+        "word": "astonish",
+        "meaning": "[他] ～を（とても）驚かせる"
+    },
+    {
+        "word": "mourn",
+        "meaning": "[他] ～を嘆く，悼む"
+    },
+    {
+        "word": "offend",
+        "meaning": "[他] （人，物が）～を怒らせる，～の気分を害する"
+    },
+    {
+        "word": "depress",
+        "meaning": "[他] ～を憂うつにさせる，落ち込ませる"
+    },
+    {
+        "word": "sacrifice",
+        "meaning": "[他] ①～を犠牲にする [名] ②犠牲"
+    },
+    {
+        "word": "impulse",
+        "meaning": "[名] 衝動"
+    },
+    {
+        "word": "curse",
+        "meaning": "[名] ①災いの元 ②呪い [他] ③～を呪う，ののしる"
+    },
+    {
+        "word": "factor",
+        "meaning": "[名] 要因"
+    },
+    {
+        "word": "stem",
+        "meaning": "[自] ①（from ～）（～が）原因である [名] ②茎，幹，ワイングラスの脚"
+    },
+    {
+        "word": "trigger",
+        "meaning": "[他] ①～のきっかけになる，～を誘発する [名] ②（銃の）引き金"
+    },
+    {
+        "word": "consequence",
+        "meaning": "[名] ①結果 ②（of －） 重要性"
+    },
+    {
+        "word": "process",
+        "meaning": "[名] ①過程 [他] ②～を加工する，処理する"
+    },
+    {
+        "word": "resort",
+        "meaning": "[自] ①（to ～）（～に）訴える [名] ②行楽地 ③手段"
+    },
+    {
+        "word": "formula",
+        "meaning": "[名] ①方法 ②秘けつ ③（数学，化学などの）式，公式"
+    },
+    {
+        "word": "procedure",
+        "meaning": "[名] 手続き，手順"
+    },
+    {
+        "word": "extraordinary",
+        "meaning": "[形] ①並外れた ②臨時の（会議など） ③特命の（大使など）"
+    },
+    {
+        "word": "absolute",
+        "meaning": "[形] 絶対的な"
+    },
+    {
+        "word": "overwhelming",
+        "meaning": "[形] 圧倒的な"
+    },
+    {
+        "word": "altogether",
+        "meaning": "[副] ①完全に ②全部で"
+    },
+    {
+        "word": "entire",
+        "meaning": "[形] すべての"
+    },
+    {
+        "word": "tremendous",
+        "meaning": "[形] すさまじい"
+    },
+    {
+        "word": "sheer",
+        "meaning": "[形] ①（数量やサイズを強調して）とてつもない～の ②まったくの"
+    },
+    {
+        "word": "partial",
+        "meaning": "[形] ①部分的な ②不公平な ③（to ～）（～が）大好きで"
+    },
+    {
+        "word": "barely",
+        "meaning": "[副] ①かろうじて ②ほとんど～ない"
+    },
+    {
+        "word": "slight",
+        "meaning": "[形] わずかな"
+    },
+    {
+        "word": "approximately",
+        "meaning": "[副] （数量が）おおよそ，約"
+    },
+    {
+        "word": "frequently",
+        "meaning": "[副] 頻繁に"
+    },
+    {
+        "word": "apparently",
+        "meaning": "[副] ①どうやら～らしい ②見たところでは"
+    },
+    {
+        "word": "merely",
+        "meaning": "[副] ①（主に名詞の前で）～にすぎない ②（動詞などの前で）単に"
+    },
+    {
+        "word": "nevertheless",
+        "meaning": "[副] それにもかかわらず"
+    },
+    {
+        "word": "somehow",
+        "meaning": "[副] ①何らかの方法で ②何らかの理由で，どういうわけか"
+    },
+    {
+        "word": "thus",
+        "meaning": "[副] ①それゆえ（に） ②このように"
+    },
+    {
+        "word": "pretty",
+        "meaning": "[副] ①まあまあ [形] ②かわいい"
+    },
+    {
+        "word": "despite",
+        "meaning": "[前] ～にもかかわらず"
+    },
+    {
+        "word": "assert",
+        "meaning": "[他] ～と断定する，～を主張する"
+    },
+    {
+        "word": "defy",
+        "meaning": "[他] ①～に逆らう ②～を拒む"
+    },
+    {
+        "word": "condemn",
+        "meaning": "[他] ①～を非難する ②～に（刑の）宣告をする ③ ～を強いる"
+    },
+    {
+        "word": "contradict",
+        "meaning": "[他] ①～と矛盾する ②～に反論する"
+    },
+    {
+        "word": "cite",
+        "meaning": "[他] ～を引き合いに出す，引用する"
+    },
+    {
+        "word": "illustrate",
+        "meaning": "[他] ①（例で）～を説明する，例証する ②～に挿絵を入れる，～を図解する"
+    },
+    {
+        "word": "articulate",
+        "meaning": "[他] ①（考えなど）をはっきり述べる [形] ②考えを明確に表現できる"
+    },
+    {
+        "word": "advocate",
+        "meaning": "[名] ①提唱者，支持者 [他] ②～を主張する，支持する"
+    },
+    {
+        "word": "breakthrough",
+        "meaning": "[名] 飛躍的進歩，大発見"
+    },
+    {
+        "word": "evolution",
+        "meaning": "[名] 進化"
+    },
+    {
+        "word": "innovation",
+        "meaning": "[名] 革新"
+    },
+    {
+        "word": "probe",
+        "meaning": "[名] ①探査機 [他] ②～を調査する"
+    },
+    {
+        "word": "fluid",
+        "meaning": "[名] ①流体 [形] ②流動的な，なめらかな"
+    },
+    {
+        "word": "particle",
+        "meaning": "[名] ①粒子 ②（not a － of A）（A の）かけら（もない）"
+    },
+    {
+        "word": "gravity",
+        "meaning": "[名] ①重力 ②重大さ"
+    },
+    {
+        "word": "friction",
+        "meaning": "[名] 摩擦"
+    },
+    {
+        "word": "mutation",
+        "meaning": "[名] 突然変異"
+    },
+    {
+        "word": "heredity",
+        "meaning": "[名] 遺伝"
+    },
+    {
+        "word": "hypothesis",
+        "meaning": "[名] 仮説"
+    },
+    {
+        "word": "specimen",
+        "meaning": "[名] ①標本 ②サンプル"
+    },
+    {
+        "word": "microscope",
+        "meaning": "[名] 顕微鏡"
+    },
+    {
+        "word": "realm",
+        "meaning": "[名] 領域，領土"
+    },
+    {
+        "word": "acid",
+        "meaning": "[形] ①酸性の ②辛辣な"
+    },
+    {
+        "word": "toxic",
+        "meaning": "[形] 有害な，有毒な"
+    },
+    {
+        "word": "poison",
+        "meaning": "[名] 毒"
+    },
+    {
+        "word": "strive",
+        "meaning": "[自] 努力する"
+    },
+    {
+        "word": "endeavor",
+        "meaning": "[名] ①努力，試み [他] ②～を（懸命に）努力する，試みる"
+    },
+    {
+        "word": "manufacture",
+        "meaning": "[他] ①～を製造する [名] ②製造，製品"
+    },
+    {
+        "word": "yield",
+        "meaning": "[他] ①～を産出する [自] ②（to ～）（～に）屈する [名] ③産出量"
+    },
+    {
+        "word": "duplicate",
+        "meaning": "[他] ①～を複製する [名] ②複製品 [形] ③複製の"
+    },
+    {
+        "word": "assemble",
+        "meaning": "[他] ①～を組み立てる [自] ②集まる"
+    },
+    {
+        "word": "mold",
+        "meaning": "[他] ①～を（型に入れて）作る ②（人格，意見など）を形成する"
+    },
+    {
+        "word": "coin",
+        "meaning": "[他] ①～を作り出す [名] ②硬貨"
+    },
+    {
+        "word": "physician",
+        "meaning": "[名] ①〈米〉医師 ②〈英〉内科医"
+    },
+    {
+        "word": "veterinarian",
+        "meaning": "[名] 獣医"
+    },
+    {
+        "word": "therapy",
+        "meaning": "[名] 治療（法）"
+    },
+    {
+        "word": "injection",
+        "meaning": "[名] 注射"
+    },
+    {
+        "word": "dose",
+        "meaning": "[名] （1回分の）服用量"
+    },
+    {
+        "word": "sanitation",
+        "meaning": "[名] 衛生"
+    },
+    {
+        "word": "germ",
+        "meaning": "[名] 細菌，ばい菌〈可算〉"
+    },
+    {
+        "word": "tumor",
+        "meaning": "[名] 腫瘍〈可算〉"
+    },
+    {
+        "word": "agony",
+        "meaning": "[名] 苦痛"
+    },
+    {
+        "word": "disorder",
+        "meaning": "[名] （心身の）不調"
+    },
+    {
+        "word": "plague",
+        "meaning": "[名] ①（大規模な）疫病，伝染病，災害 [他] ②～を苦しめる"
+    },
+    {
+        "word": "epidemic",
+        "meaning": "[名] （大）流行"
+    },
+    {
+        "word": "diagnosis",
+        "meaning": "[名] 診断"
+    },
+    {
+        "word": "mortality",
+        "meaning": "[名] ①（－ rate）死亡率 ②死すべき運命"
+    },
+    {
+        "word": "chronic",
+        "meaning": "[形] 慢性の"
+    },
+    {
+        "word": "immune",
+        "meaning": "[形] 免疫の（ある）"
+    },
+    {
+        "word": "choke",
+        "meaning": "[自] ①（on ～）（～で）息が詰まる，窒息する [他] ②～を窒息させる"
+    },
+    {
+        "word": "paralyze",
+        "meaning": "[他] ～を麻痺させる"
+    },
+    {
+        "word": "infect",
+        "meaning": "[他] （人，動物，地域）に感染させる，伝染する"
+    },
+    {
+        "word": "prescribe",
+        "meaning": "[他] ①（薬など）を処方する ②（行為など）を指示する"
+    },
+    {
+        "word": "digest",
+        "meaning": "[他] ①～を消化する ②～を理解する [名] ③要約"
+    },
+    {
+        "word": "weary",
+        "meaning": "[形] ①（極度に）疲れている ②うんざり［飽き飽き］している"
+    },
+    {
+        "word": "nourish",
+        "meaning": "[他] ①～に栄養を与える ②（考えなど）を抱く"
+    },
+    {
+        "word": "flesh",
+        "meaning": "[名] （人，動物の皮，骨に対する）肉"
+    },
+    {
+        "word": "kidney",
+        "meaning": "[名] 腎臓"
+    },
+    {
+        "word": "posture",
+        "meaning": "[名] 姿勢"
+    },
+    {
+        "word": "limb",
+        "meaning": "[名] 手足（の1 本）"
+    },
+    {
+        "word": "erect",
+        "meaning": "[形] ①直立した [他] ②～を建てる"
+    },
+    {
+        "word": "compensate",
+        "meaning": "[他] （A for B） （A）に（B を）補償する"
+    },
+    {
+        "word": "flourish",
+        "meaning": "[自] 栄える"
+    },
+    {
+        "word": "abuse",
+        "meaning": "[名] ①虐待 ②乱用 [他] ③～を悪用する"
+    },
+    {
+        "word": "bias",
+        "meaning": "[名] 偏見"
+    },
+    {
+        "word": "prestige",
+        "meaning": "[名] 名声，威信"
+    },
+    {
+        "word": "privilege",
+        "meaning": "[名] 特権"
+    },
+    {
+        "word": "feat",
+        "meaning": "[名] 偉業"
+    },
+    {
+        "word": "dignity",
+        "meaning": "[名] 威厳"
+    },
+    {
+        "word": "virtue",
+        "meaning": "[名] ①美徳 ②（人，物の個々の）長所 ③（by － of ～）～のために"
+    },
+    {
+        "word": "aristocracy",
+        "meaning": "[名] 貴族（階級，社会）"
+    },
+    {
+        "word": "rebel",
+        "meaning": "[名] ①反逆者 [自] ②（against ～）（～に）反逆する，反抗する"
+    },
+    {
+        "word": "scheme",
+        "meaning": "[名] ①〈英〉計画 ②陰謀"
+    },
+    {
+        "word": "convention",
+        "meaning": "[名] ①会議，大会 ②慣習 ③条約"
+    },
+    {
+        "word": "conference",
+        "meaning": "[名] （on ～）（～に関する）会議"
+    },
+    {
+        "word": "consent",
+        "meaning": "[名] ①合意 [自] ②（to ～）（～に）合意する"
+    },
+    {
+        "word": "initiative",
+        "meaning": "[名] ①新構想，新計画 ②主導権"
+    },
+    {
+        "word": "province",
+        "meaning": "[名] ①（カナダなどの）州，（中国の）省 ②（the －s）地方"
+    },
+    {
+        "word": "colony",
+        "meaning": "[名] ①植民地 ②（アリなどの）群落"
+    },
+    {
+        "word": "frontier",
+        "meaning": "[名] ①辺境，（主に〈英〉）国境 ②（the －s）最前線"
+    },
+    {
+        "word": "tribe",
+        "meaning": "[名] 部族，種族"
+    },
+    {
+        "word": "primitive",
+        "meaning": "[形] 原始的な，未開の"
+    },
+    {
+        "word": "ethnic",
+        "meaning": "[形] 民族の，民族的な"
+    },
+    {
+        "word": "anonymous",
+        "meaning": "[形] 匿名の"
+    },
+    {
+        "word": "coverage",
+        "meaning": "[名] ①報道 ②（保険の）補償（範囲）"
+    },
+    {
+        "word": "obligation",
+        "meaning": "[名] ①（社会に対する）責務 ②（個人に対する）恩義"
+    },
+    {
+        "word": "norm",
+        "meaning": "[名] ①ふつうのこと ②（－s）規範"
+    },
+    {
+        "word": "patent",
+        "meaning": "[名] ①特許（権） [他] ②～の特許をとる [形] ③明白な，見えすいた"
+    },
+    {
+        "word": "entitled",
+        "meaning": "[形] ①（to ～）（～の）権利がある ②～と題された"
+    },
+    {
+        "word": "donate",
+        "meaning": "[他] ①～を寄付する ②（臓器など）を提供する"
+    },
+    {
+        "word": "conform",
+        "meaning": "[自] （to ～）（～に）合わせる"
+    },
+    {
+        "word": "comply",
+        "meaning": "[自] （with ～）（～に）従う， 遵守する"
+    },
+    {
+        "word": "legislation",
+        "meaning": "[名] （集合的に）法律〈不可算〉"
+    },
+    {
+        "word": "testimony",
+        "meaning": "[名] （法廷などでの）証言"
+    },
+    {
+        "word": "jury",
+        "meaning": "[名] 陪審（員団）"
+    },
+    {
+        "word": "legitimate",
+        "meaning": "[形] ①正当な ②合法の"
+    },
+    {
+        "word": "enforce",
+        "meaning": "[他] ①～を施行する ②～を強制する"
+    },
+    {
+        "word": "regime",
+        "meaning": "[名] 政権，政治体制"
+    },
+    {
+        "word": "bureaucracy",
+        "meaning": "[名] ①官僚制度，官僚主義 ②（集合的に）官僚"
+    },
+    {
+        "word": "corruption",
+        "meaning": "[名] 腐敗，汚職"
+    },
+    {
+        "word": "tyranny",
+        "meaning": "[名] ①圧政，専制政治 ②暴虐（な行為）"
+    },
+    {
+        "word": "sanction",
+        "meaning": "[名] ①（－s）制裁 ②（公的な）認可"
+    },
+    {
+        "word": "census",
+        "meaning": "[名] 国勢調査"
+    },
+    {
+        "word": "candidate",
+        "meaning": "[名] （for ～）（～の）候補（者），（～に）なりそうな人［物］"
+    },
+    {
+        "word": "senator",
+        "meaning": "[名] 〈米〉（しばしばS－）上院議員"
+    },
+    {
+        "word": "ambassador",
+        "meaning": "[名] 大使"
+    },
+    {
+        "word": "diplomat",
+        "meaning": "[名] 外交官"
+    },
+    {
+        "word": "refugee",
+        "meaning": "[名] 難民"
+    },
+    {
+        "word": "territory",
+        "meaning": "[名] ①領土 ②（動物などの）縄張り，（学問などの）領域"
+    },
+    {
+        "word": "ally",
+        "meaning": "[名] ①同盟国，協力者 [自] ②（with ～）（～と）提携する"
+    },
+    {
+        "word": "federal",
+        "meaning": "[形] 連邦の"
+    },
+    {
+        "word": "feudal",
+        "meaning": "[形] （主に欧州の）封建制の"
+    },
+    {
+        "word": "communist",
+        "meaning": "[形] ①共産主義（者）の [名] ②共産主義者"
+    },
+    {
+        "word": "estate",
+        "meaning": "[名] ①（全）財産 ②地所"
+    },
+    {
+        "word": "asset",
+        "meaning": "[名] 財産，資産"
+    },
+    {
+        "word": "revenue",
+        "meaning": "[名] （国などの）歳入，（事業などの）収益"
+    },
+    {
+        "word": "deficit",
+        "meaning": "[名] （会社，国の）赤字"
+    },
+    {
+        "word": "commerce",
+        "meaning": "[名] 商業"
+    },
+    {
+        "word": "output",
+        "meaning": "[名] ①生産高 ②（エンジン，発電機などの）出力"
+    },
+    {
+        "word": "subsidy",
+        "meaning": "[名] 補助金"
+    },
+    {
+        "word": "monopoly",
+        "meaning": "[名] 独占（権，品），独占企業"
+    },
+    {
+        "word": "transaction",
+        "meaning": "[名] 取り引き"
+    },
+    {
+        "word": "corporation",
+        "meaning": "[名] 企業，法人"
+    },
+    {
+        "word": "enterprise",
+        "meaning": "[名] ①企業 ②（冒険的な）事業"
+    },
+    {
+        "word": "venture",
+        "meaning": "[名] ①（ベンチャー）事業 [自] ②危険を冒して行く"
+    },
+    {
+        "word": "headquarters",
+        "meaning": "[名] 本社，本部"
+    },
+    {
+        "word": "personnel",
+        "meaning": "[名] ①（官庁，会社などの）全職員〈複数扱い〉 ②人事"
+    },
+    {
+        "word": "expertise",
+        "meaning": "[名] 専門的知識，専門的技術〈不可算〉"
+    },
+    {
+        "word": "quota",
+        "meaning": "[名] ノルマ，割り当て"
+    },
+    {
+        "word": "warehouse",
+        "meaning": "[名] 倉庫，〈英〉問屋"
+    },
+    {
+        "word": "toil",
+        "meaning": "[自] ①（長時間）骨折って働く [名] ②骨の折れる仕事"
+    },
+    {
+        "word": "undertake",
+        "meaning": "[他] （仕事など）を引き受ける，始める"
+    },
+    {
+        "word": "merge",
+        "meaning": "[自] ①合併する [他] ②～を合併させる"
+    },
+    {
+        "word": "comprise",
+        "meaning": "[他] ①～から成る ②（割合）を占める"
+    },
+    {
+        "word": "component",
+        "meaning": "[名] 構成要素，（車などの）部品"
+    },
+    {
+        "word": "framework",
+        "meaning": "[名] ①枠組 ②骨組み"
+    },
+    {
+        "word": "prototype",
+        "meaning": "[名] ①（of［for］～）（～の）原型 ②試作品 ③典型"
+    },
+    {
+        "word": "dimension",
+        "meaning": "[名] ①（問題などの）側面，要因，次元 ②（－s）寸法，大きさ"
+    },
+    {
+        "word": "margin",
+        "meaning": "[名] ①余白，欄外 ②（票などの）差 ③端"
+    },
+    {
+        "word": "relevant",
+        "meaning": "[形] 関連のある"
+    },
+    {
+        "word": "compatible",
+        "meaning": "[形] （with ～）（～と）適合する，互換性がある"
+    },
+    {
+        "word": "correspond",
+        "meaning": "[自] ①（to［with］～）（～と）一致する ②（with ～）（～と）（メールや手紙で）やりとりをする"
+    },
+    {
+        "word": "identical",
+        "meaning": "[形] 同一の，うり二つの"
+    },
+    {
+        "word": "equivalent",
+        "meaning": "[形] ①等しい [名] ②同等のもの"
+    },
+    {
+        "word": "random",
+        "meaning": "[形] 無作為の，でたらめの"
+    },
+    {
+        "word": "warrior",
+        "meaning": "[名] 戦士"
+    },
+    {
+        "word": "assault",
+        "meaning": "[名] 襲撃，暴行"
+    },
+    {
+        "word": "troop",
+        "meaning": "[名] （－s）軍隊"
+    },
+    {
+        "word": "torture",
+        "meaning": "[名] ①拷問 ②辛いこと [他] ③～を拷問にかける"
+    },
+    {
+        "word": "dispute",
+        "meaning": "[名] ①論争，紛争 [他] ②～に異議を唱える"
+    },
+    {
+        "word": "riot",
+        "meaning": "[名] 暴動"
+    },
+    {
+        "word": "persecution",
+        "meaning": "[名] 迫害"
+    },
+    {
+        "word": "dominate",
+        "meaning": "[他] ～を支配する"
+    },
+    {
+        "word": "slaughter",
+        "meaning": "[他] ～を虐殺する，（食肉用に）殺す"
+    },
+    {
+        "word": "suppress",
+        "meaning": "[他] ①（反乱，暴動）を鎮圧する ②（笑い，怒り）を抑える"
+    },
+    {
+        "word": "surrender",
+        "meaning": "[自] ①（to ～）（～に）降伏する [他] ②～を引き渡す"
+    },
+    {
+        "word": "contend",
+        "meaning": "[自] ①（with ～）（～と）戦う [他] ②（that S V）（～と）（強く）主張する"
+    },
+    {
+        "word": "hostile",
+        "meaning": "[形] ①敵意のある ②敵の ③（環境などが）厳しい"
+    },
+    {
+        "word": "wreck",
+        "meaning": "[名] ①（乗り物，家の）残骸 ②（健康を損ね）ボロボロの人"
+    },
+    {
+        "word": "toll",
+        "meaning": "[名] ①犠牲［死傷］者（数），被害 ②（高速道路などの）通行料 ③通話料"
+    },
+    {
+        "word": "disrupt",
+        "meaning": "[他] （活動の進行など）をかき乱す"
+    },
+    {
+        "word": "interfere",
+        "meaning": "[自] （with ～）（～を）邪魔する，干渉する"
+    },
+    {
+        "word": "confront",
+        "meaning": "[他] ①（困難などが人）に立ちふさがる ②（人が困難など）に直面する，"
+    },
+    {
+        "word": "hinder",
+        "meaning": "[他] ～を妨げる"
+    },
+    {
+        "word": "explode",
+        "meaning": "[自] ①爆発する ②爆発的に増加する"
+    },
+    {
+        "word": "collide",
+        "meaning": "[自] （with ～）（～と）衝突する"
+    },
+    {
+        "word": "nephew",
+        "meaning": "[名] 甥"
+    },
+    {
+        "word": "spouse",
+        "meaning": "[名] 配偶者"
+    },
+    {
+        "word": "heir",
+        "meaning": "[名] 相続人，後継者"
+    },
+    {
+        "word": "folk",
+        "meaning": "[名] ①民族 ②人々"
+    },
+    {
+        "word": "peer",
+        "meaning": "[名] ①（－s）同等の人，同輩 [自] ②（よく見えなくて）じっと見る"
+    },
+    {
+        "word": "proceed",
+        "meaning": "[自] ①（順を追って）進む ②（to do）（さらに続けて）～する"
+    },
+    {
+        "word": "navigate",
+        "meaning": "[自] ①（旅などで）進路を決める [他] ②～を航行する，誘導する"
+    },
+    {
+        "word": "roam",
+        "meaning": "[自] 歩き回る"
+    },
+    {
+        "word": "flee",
+        "meaning": "[自] 逃亡する"
+    },
+    {
+        "word": "retreat",
+        "meaning": "[自] ①退く [名] ②撤退，退却"
+    },
+    {
+        "word": "crawl",
+        "meaning": "[自] 這って進む，這うように進む"
+    },
+    {
+        "word": "drift",
+        "meaning": "[自] 漂う"
+    },
+    {
+        "word": "alter",
+        "meaning": "[他] ～を変える"
+    },
+    {
+        "word": "convert",
+        "meaning": "[他] ①（A into B）（A）を（B に）転換する ②～を改宗させる"
+    },
+    {
+        "word": "shrink",
+        "meaning": "[自] ①縮む ②（数量が）減る [他] ③～を縮ませる，減らす"
+    },
+    {
+        "word": "wither",
+        "meaning": "[自] しおれる，しぼむ"
+    },
+    {
+        "word": "transition",
+        "meaning": "[名] 移り変わり，推移"
+    },
+    {
+        "word": "distortion",
+        "meaning": "[名] 歪めること"
+    },
+    {
+        "word": "enhance",
+        "meaning": "[他] ～を向上させる"
+    },
+    {
+        "word": "reinforce",
+        "meaning": "[他] ～を補強する"
+    },
+    {
+        "word": "foster",
+        "meaning": "[他] ①（才能など）を育成する ②～の里親になる [形] ③里親の"
+    },
+    {
+        "word": "breakdown",
+        "meaning": "[名] ①崩壊 ②故障 ③衰弱"
+    },
+    {
+        "word": "collapse",
+        "meaning": "[自] ①崩壊する，倒れる [名] ②崩壊，倒れること"
+    },
+    {
+        "word": "render",
+        "meaning": "[他] ①（SVOC）（O）を（C）にする ②（援助など）を与える"
+    },
+    {
+        "word": "impair",
+        "meaning": "[他] （人間の機能など）を低下させる，損なう"
+    },
+    {
+        "word": "deteriorate",
+        "meaning": "[自] 悪化する"
+    },
+    {
+        "word": "undermine",
+        "meaning": "[他] ～を弱める，揺るがす"
+    },
+    {
+        "word": "tackle",
+        "meaning": "[他] ～に取り組む"
+    },
+    {
+        "word": "disposal",
+        "meaning": "[名] ①（at one's －）～を自由にする ②処分，廃棄"
+    },
+    {
+        "word": "confine",
+        "meaning": "[他] ①～を閉じ込める ②（活動など）を制限する"
+    },
+    {
+        "word": "designate",
+        "meaning": "[他] （通例，受け身で）～を指定する"
+    },
+    {
+        "word": "regulate",
+        "meaning": "[他] ①（主に規則によって）～を規制する ②（機器など）を調整する"
+    },
+    {
+        "word": "prohibit",
+        "meaning": "[他] ～を禁じる"
+    },
+    {
+        "word": "refrain",
+        "meaning": "[自] （from ～）（～を）控える"
+    },
+    {
+        "word": "curb",
+        "meaning": "[他] ①～を抑制する [名] ②縁石"
+    },
+    {
+        "word": "restrain",
+        "meaning": "[他] ～を抑制する"
+    },
+    {
+        "word": "halt",
+        "meaning": "[他] ①～を止める [自] ②止まる [名] ③停止"
+    },
+    {
+        "word": "animate",
+        "meaning": "[他] ①～を活気づける ②～をアニメ化する"
+    },
+    {
+        "word": "spur",
+        "meaning": "[他] ①～を駆り立てる，促す [名] ②拍車，刺激，動機"
+    },
+    {
+        "word": "urge",
+        "meaning": "[他] ①～をせき立てる，～に強く勧める [名] ②（何かがしたい）衝動"
+    },
+    {
+        "word": "lure",
+        "meaning": "[他] ①～を誘い込む [名] ②魅力，誘惑"
+    },
+    {
+        "word": "stimulate",
+        "meaning": "[他] ～を刺激する"
+    },
+    {
+        "word": "compel",
+        "meaning": "[他] （A to do）（A）に（～することを）強制する"
+    },
+    {
+        "word": "dictate",
+        "meaning": "[他] ①～を書き取らせる ②～を命令する，規定する"
+    },
+    {
+        "word": "blur",
+        "meaning": "[他] ①～をぼやかす [自] ②ぼやける"
+    },
+    {
+        "word": "divert",
+        "meaning": "[他] ①（川など）の方向を変える ②（注意など）をそらす"
+    },
+    {
+        "word": "reverse",
+        "meaning": "[他] ①～を逆転する，覆す [名] ②逆 [形] ③逆の"
+    },
+    {
+        "word": "supplement",
+        "meaning": "[他] ①（栄養，収入など）を補う [名] ②補充，栄養補助食品 ③付録"
+    },
+    {
+        "word": "pose",
+        "meaning": "[他] ～をもたらす"
+    },
+    {
+        "word": "stroll",
+        "meaning": "[自] 散策する"
+    },
+    {
+        "word": "shrug",
+        "meaning": "[他] ①（肩）をすくめる [自] ②肩をすくめる"
+    },
+    {
+        "word": "sniff",
+        "meaning": "[自] ①（くんくん）臭いをかぐ ②（かぜや泣いて）鼻をすする"
+    },
+    {
+        "word": "embrace",
+        "meaning": "[他] ①～を抱擁する ②（思想など）を受け入れる"
+    },
+    {
+        "word": "betray",
+        "meaning": "[他] ①～を裏切る ②～を漏らす，（うっかり）さらけ出す"
+    },
+    {
+        "word": "deceive",
+        "meaning": "[他] ～をだます"
+    },
+    {
+        "word": "bully",
+        "meaning": "[他] ①～をいじめる [名] ②いじめっ子"
+    },
+    {
+        "word": "squeeze",
+        "meaning": "[他] ①（果汁など）を搾る ②（手，指で）～を強く押す"
+    },
+    {
+        "word": "insert",
+        "meaning": "[他] ①～を差し込む ②（語句など）を書き込む"
+    },
+    {
+        "word": "detach",
+        "meaning": "[他] （A from B） （A）を（B から）切り離す"
+    },
+    {
+        "word": "withdraw",
+        "meaning": "[他] ①～を引っ込める ②（預金など）を引き出す [自] ③退く"
+    },
+    {
+        "word": "withstand",
+        "meaning": "[他] ～に耐える"
+    },
+    {
+        "word": "exert",
+        "meaning": "[他] （力，影響力など）を働かせる"
+    },
+    {
+        "word": "compile",
+        "meaning": "[他] ～をまとめる，編集する"
+    },
+    {
+        "word": "browse",
+        "meaning": "[自] ①拾い読みする [他] ②～を拾い読みする"
+    },
+    {
+        "word": "manipulate",
+        "meaning": "[他] ～を操作する"
+    },
+    {
+        "word": "implement",
+        "meaning": "[他] ①（契約，計画など）を実行する [名] ②（単純な）道具"
+    },
+    {
+        "word": "execute",
+        "meaning": "[他] ①～を遂行する，実行する ②～を処刑する"
+    },
+    {
+        "word": "host",
+        "meaning": "[他] ①（大会など）を主催する [名] ②（a － of）多くの ③（客を接待する）主人（＊女性も含む），主催者，開催地"
+    },
+    {
+        "word": "mount",
+        "meaning": "[他] ①～を据え付ける ②（馬，自転車）に乗る [自] ③増加する"
+    },
+    {
+        "word": "discharge",
+        "meaning": "[他] ①～を排出する ②（職務，任地などから）～を解放する"
+    },
+    {
+        "word": "drain",
+        "meaning": "[他] ①～の水を抜く ②～の水分を切る [自] ③（液体が）流出する，乾く"
+    },
+    {
+        "word": "soak",
+        "meaning": "[他] ①～を浸す ②（up）（日光，考えなど）を吸収する"
+    },
+    {
+        "word": "suspend",
+        "meaning": "[他] ①～をつるす ②～を中断する ③～を停職［停学］にする"
+    },
+    {
+        "word": "extract",
+        "meaning": "[他] ①～を取り出す，抽出する [名] ②抽出したもの，抜粋"
+    },
+    {
+        "word": "summon",
+        "meaning": "[他] ①～を呼ぶ，召喚する，喚問する ②（勇気など）を奮い立たせる"
+    },
+    {
+        "word": "embark",
+        "meaning": "[自] （on ～）（～に）着手する，乗り込む"
+    },
+    {
+        "word": "thrust",
+        "meaning": "[他] ①～を強く押しつける ②（刃物で）～を突き刺す"
+    },
+    {
+        "word": "penetrate",
+        "meaning": "[他] ①～に入り込む ②～を貫通する [自] ③貫通する，入る"
+    },
+    {
+        "word": "intrude",
+        "meaning": "[自] （on～）（～に）立ち入る"
+    },
+    {
+        "word": "evade",
+        "meaning": "[他] ～を逃れる"
+    },
+    {
+        "word": "utilize",
+        "meaning": "[他] ～を利用する"
+    },
+    {
+        "word": "spin",
+        "meaning": "[自] ①ぐるぐる回る [他] ②～を回す ③～を紡ぐ"
+    },
+    {
+        "word": "plunge",
+        "meaning": "[自] ①（into ～）（～に）突っ込む [他] ②（A into B）（A）を（B に）突っ込む"
+    },
+    {
+        "word": "rattle",
+        "meaning": "[自] ①ガタガタ鳴る [他] ②～を鳴らす [名] ③ガラガラ"
+    },
+    {
+        "word": "vanish",
+        "meaning": "[自] 消える"
+    },
+    {
+        "word": "cease",
+        "meaning": "[他] （to do［doing］）～しなくなる"
+    },
+    {
+        "word": "haste",
+        "meaning": "[名] 急ぐこと〈不可算〉"
+    },
+    {
+        "word": "conceal",
+        "meaning": "[他] ～を隠す"
+    },
+    {
+        "word": "disguise",
+        "meaning": "[他] ①～を（偽装して）隠す ②（oneself as ～）～に変装する [名] ③変装"
+    },
+    {
+        "word": "coincide",
+        "meaning": "[自] ①（with ～）（～と）同時に起きる ②（with ～）（～と）一致する"
+    },
+    {
+        "word": "prevail",
+        "meaning": "[自] ①（考え，習慣などが）普及している ②（最後に人，考えが）優勢となる"
+    },
+    {
+        "word": "sustain",
+        "meaning": "[他] （生命など）を維持する，支える"
+    },
+    {
+        "word": "linger",
+        "meaning": "[自] ①（いつまでも）残る ②（on）長居する"
+    },
+    {
+        "word": "revive",
+        "meaning": "[自] ①生き返る，よみがえる [他] ②～を生き返らせる"
+    },
+    {
+        "word": "resume",
+        "meaning": "[他] ①～を再開する [自] ②再開する [名] ③〈米〉履歴書 ④概要，レジュメ"
+    },
+    {
+        "word": "inspect",
+        "meaning": "[他] ～を検査する"
+    },
+    {
+        "word": "investigate",
+        "meaning": "[他] ①（研究班などが）～を調査する ②（警察が）～を捜査する"
+    },
+    {
+        "word": "detect",
+        "meaning": "[他] ～を探知する，（病気など）を発見する，（うそなど）を見抜く"
+    },
+    {
+        "word": "discern",
+        "meaning": "[他] ～を見分ける"
+    },
+    {
+        "word": "expedition",
+        "meaning": "[名] ①（研究・探求・戦争目的の）探検，遠征 ②探検隊"
+    },
+    {
+        "word": "enroll",
+        "meaning": "[自] ①（in ～）（～に）入学する [他] ②（be －ed）在籍している"
+    },
+    {
+        "word": "discipline",
+        "meaning": "[他] ①～をしつける [名] ②しつけ，規律 ③（学問）分野"
+    },
+    {
+        "word": "cram",
+        "meaning": "[自] ①詰め込み勉強をする [他] ②～を詰め込む [名] ③詰め込み"
+    },
+    {
+        "word": "faculty",
+        "meaning": "[名] ①（生まれ持った）能力 ②（大学の）学部 ③（大学の）全教員"
+    },
+    {
+        "word": "tuition",
+        "meaning": "[名] ①〈米〉授業料 ②（少人数での）授業"
+    },
+    {
+        "word": "diploma",
+        "meaning": "[名] 〈米〉卒業証書"
+    },
+    {
+        "word": "mentor",
+        "meaning": "[他] ①～を指導する [名] ②（会社，大学などでの）指導者"
+    },
+    {
+        "word": "ethic",
+        "meaning": "[名] ①（－s）（社会や職業上の）倫理（観） ②（伝統的に守られた）倫理"
+    },
+    {
+        "word": "astronomy",
+        "meaning": "[名] 天文学"
+    },
+    {
+        "word": "archaeologist",
+        "meaning": "[名] 考古学者"
+    },
+    {
+        "word": "anthropologist",
+        "meaning": "[名] （文化）人類学者"
+    },
+    {
+        "word": "perceive",
+        "meaning": "[他] ①（A as B）（A）を（B だと）認識する ②～を知覚する"
+    },
+    {
+        "word": "grasp",
+        "meaning": "[他] ①～を理解する ②～をつかむ [名] ③理解，つかむこと"
+    },
+    {
+        "word": "conceive",
+        "meaning": "[他] ①～を思い浮かべる ②～を妊娠する [自] ③（of ～）（～を）想像する"
+    },
+    {
+        "word": "anticipate",
+        "meaning": "[他] ①～を予想する ②～を期待する"
+    },
+    {
+        "word": "foresee",
+        "meaning": "[他] ～を予知する"
+    },
+    {
+        "word": "speculate",
+        "meaning": "[自] ①推測する ②（株，土地などに）投機をする"
+    },
+    {
+        "word": "infer",
+        "meaning": "[他] （A from B） （B からA）を推測する"
+    },
+    {
+        "word": "deduce",
+        "meaning": "[他] （A from B） （B からA）を推定する"
+    },
+    {
+        "word": "ponder",
+        "meaning": "[他] ～を熟考する"
+    },
+    {
+        "word": "contemplate",
+        "meaning": "[他] ～を熟考する"
+    },
+    {
+        "word": "assure",
+        "meaning": "[他] ～に保証する，確信させる"
+    },
+    {
+        "word": "assess",
+        "meaning": "[他] ～を評価する，査定する"
+    },
+    {
+        "word": "evaluate",
+        "meaning": "[他] ～を（正しく）評価する"
+    },
+    {
+        "word": "verify",
+        "meaning": "[他] （事実かどうか）を確かめる，検証する"
+    },
+    {
+        "word": "compromise",
+        "meaning": "[自] ①（with ～）（～と）妥協する [他] ②（主義など）を曲げる [名] ③妥協"
+    },
+    {
+        "word": "reconcile",
+        "meaning": "[他] ①（A with B）（A）を（B と）調和させる，和解させる ②（oneself to ～）（～を）仕方なく受け入れる"
+    },
+    {
+        "word": "alert",
+        "meaning": "[形] ①油断のない，用心深い [名] ②（公的な）警告"
+    },
+    {
+        "word": "stereotype",
+        "meaning": "[名] 固定観念"
+    },
+    {
+        "word": "perspective",
+        "meaning": "[名] ①（経験などで得られる）視点〈可算〉 ②（大局的な）見方，遠近法〈不可算〉"
+    },
+    {
+        "word": "prospect",
+        "meaning": "[名] 見通し"
+    },
+    {
+        "word": "vow",
+        "meaning": "[名] ①誓い [他] ②～を誓う"
+    },
+    {
+        "word": "intuition",
+        "meaning": "[名] 直観"
+    },
+    {
+        "word": "illusion",
+        "meaning": "[名] 幻想"
+    },
+    {
+        "word": "criterion",
+        "meaning": "[名] 基準"
+    },
+    {
+        "word": "tolerate",
+        "meaning": "[他] ～を大目に見る，我慢する"
+    },
+    {
+        "word": "overlook",
+        "meaning": "[他] ①～を（うっかり）見落とす ②（人の欠点やミスなど）を見逃す，大目に見る ③（場所が）～を見渡す"
+    },
+    {
+        "word": "grain",
+        "meaning": "[名] ①穀物 ②粒，少量"
+    },
+    {
+        "word": "drought",
+        "meaning": "[名] 干ばつ"
+    },
+    {
+        "word": "irrigation",
+        "meaning": "[名] 灌漑"
+    },
+    {
+        "word": "spectacle",
+        "meaning": "[名] ①（きわめて印象的な）光景 ②（大がかりな）見せ物"
+    },
+    {
+        "word": "altitude",
+        "meaning": "[名] 標高，高度"
+    },
+    {
+        "word": "catastrophe",
+        "meaning": "[名] 大災害，災難"
+    },
+    {
+        "word": "decay",
+        "meaning": "[名] ①腐敗 [自] ②腐敗する，衰える"
+    },
+    {
+        "word": "erosion",
+        "meaning": "[名] 侵食"
+    },
+    {
+        "word": "flame",
+        "meaning": "[名] 炎"
+    },
+    {
+        "word": "galaxy",
+        "meaning": "[名] 銀河"
+    },
+    {
+        "word": "meteor",
+        "meaning": "[名] 流星，隕石"
+    },
+    {
+        "word": "chill",
+        "meaning": "[名] ①寒気 [他] ②～を冷やす"
+    },
+    {
+        "word": "meadow",
+        "meaning": "[名] 草地，牧草地"
+    },
+    {
+        "word": "exploit",
+        "meaning": "[他] ①（自然の力など）を利用する ②～を搾取する"
+    },
+    {
+        "word": "contaminate",
+        "meaning": "[他] ～を汚染する"
+    },
+    {
+        "word": "erupt",
+        "meaning": "[自] （火山が）噴火する"
+    },
+    {
+        "word": "evaporate",
+        "meaning": "[自] 蒸発する"
+    },
+    {
+        "word": "fertile",
+        "meaning": "[形] 肥沃な，肥えた"
+    },
+    {
+        "word": "roar",
+        "meaning": "[自] ①ほえる [名] ②うなり声，怒号，轟音"
+    },
+    {
+        "word": "inhabit",
+        "meaning": "[他] ～に生息している，ある"
+    },
+    {
+        "word": "nurture",
+        "meaning": "[他] ①～を育てる [名] ②養育，教育"
+    },
+    {
+        "word": "owl",
+        "meaning": "[名] フクロウ"
+    },
+    {
+        "word": "instinct",
+        "meaning": "[名] 本能"
+    },
+    {
+        "word": "prey",
+        "meaning": "[名] ①餌食 [自] ②（on ～）餌食にする"
+    },
+    {
+        "word": "timber",
+        "meaning": "[名] （主に〈英〉）材木"
+    },
+    {
+        "word": "fabric",
+        "meaning": "[名] ①布地，織物 ②組織，構造"
+    },
+    {
+        "word": "textile",
+        "meaning": "[名] ①織物 [形] ②織物の"
+    },
+    {
+        "word": "weave",
+        "meaning": "[他] ①～を織る ②～を編む"
+    },
+    {
+        "word": "competent",
+        "meaning": "[形] 有能な"
+    },
+    {
+        "word": "optimistic",
+        "meaning": "[形] 楽観的な"
+    },
+    {
+        "word": "patriotic",
+        "meaning": "[形] 愛国的な"
+    },
+    {
+        "word": "naughty",
+        "meaning": "[形] いたずらな"
+    },
+    {
+        "word": "vigorous",
+        "meaning": "[形] ①（人，活動が）精力的な ②活発な"
+    },
+    {
+        "word": "solitary",
+        "meaning": "[形] ①（人が）孤高の ②ただひとつの"
+    },
+    {
+        "word": "vulgar",
+        "meaning": "[形] ①（人，行動が）品がない ②（冗談などが）卑わいな"
+    },
+    {
+        "word": "skeptical",
+        "meaning": "[形] 懐疑的な"
+    },
+    {
+        "word": "haunt",
+        "meaning": "[他] ①（亡霊，考えなどが）～につきまとう，出没する [名] ②好んで行く場所，たまり場"
+    },
+    {
+        "word": "obsessed",
+        "meaning": "[形] （with［by］ ～）（～に）取りつかれて，頭が一杯で"
+    },
+    {
+        "word": "intent",
+        "meaning": "[形] ①（on ～）（～に）没頭した，決心した [名] ② 意図"
+    },
+    {
+        "word": "indulge",
+        "meaning": "[自] ①（in ～）（～に）ふける [他] ② ～を思いのままにさせる"
+    },
+    {
+        "word": "cling",
+        "meaning": "[自] （to ～）（～に）固執する，しがみつく"
+    },
+    {
+        "word": "flaw",
+        "meaning": "[名] 欠陥"
+    },
+    {
+        "word": "defect",
+        "meaning": "[名] 欠陥"
+    },
+    {
+        "word": "trait",
+        "meaning": "[名] 特性"
+    },
+    {
+        "word": "analogy",
+        "meaning": "[名] 類似点，例え"
+    },
+    {
+        "word": "parallel",
+        "meaning": "[名] ①類似（物） [形] ②（to ～）（～と）平行の，類似した"
+    },
+    {
+        "word": "crucial",
+        "meaning": "[形] 重大な"
+    },
+    {
+        "word": "primary",
+        "meaning": "[形] ①主な，第1 の ②初期の，原始の"
+    },
+    {
+        "word": "integral",
+        "meaning": "[形] ①不可欠な ②完全な"
+    },
+    {
+        "word": "vital",
+        "meaning": "[形] 不可欠な，きわめて重要な"
+    },
+    {
+        "word": "profound",
+        "meaning": "[形] 深い"
+    },
+    {
+        "word": "grim",
+        "meaning": "[形] （状況などが）厳しい"
+    },
+    {
+        "word": "fierce",
+        "meaning": "[形] ①（競争，嵐などが）激しい ② どう猛な"
+    },
+    {
+        "word": "harsh",
+        "meaning": "[形] 厳しい"
+    },
+    {
+        "word": "savage",
+        "meaning": "[形] （とても）容赦ない，どう猛な"
+    },
+    {
+        "word": "acute",
+        "meaning": "[形] ①深刻な ②鋭い ③急性の"
+    },
+    {
+        "word": "ambiguous",
+        "meaning": "[形] 曖昧な"
+    },
+    {
+        "word": "obscure",
+        "meaning": "[形] ①ぼやけた，わかりにくい ②無名の"
+    },
+    {
+        "word": "misleading",
+        "meaning": "[形] 誤解を招く，紛らわしい"
+    },
+    {
+        "word": "straightforward",
+        "meaning": "[形] ①（方法などが）わかりやすい ②（人や行動が）率直な"
+    },
+    {
+        "word": "explicit",
+        "meaning": "[形] （発言や文章などが）明確な"
+    },
+    {
+        "word": "sophisticated",
+        "meaning": "[形] ①（機械，システムが）高度な ② 洗練された，教養のある"
+    },
+    {
+        "word": "ingenious",
+        "meaning": "[形] 独創的な"
+    },
+    {
+        "word": "decent",
+        "meaning": "[形] まともな，きちんとした"
+    },
+    {
+        "word": "thrive",
+        "meaning": "[自] ①（会社などが）好調である，繁栄する ②（動［植］物などが）健康に育つ"
+    },
+    {
+        "word": "wit",
+        "meaning": "[名] 機知，機知に富んだ人"
+    },
+    {
+        "word": "affluent",
+        "meaning": "[形] 裕福な"
+    },
+    {
+        "word": "elaborate",
+        "meaning": "[形] ①手の込んだ，凝った [他] ②～を苦労して作り上げる [自] ③（on ～）（～を）詳しく話す"
+    },
+    {
+        "word": "prompt",
+        "meaning": "[形] ①迅速な [他] ②～に促す"
+    },
+    {
+        "word": "swift",
+        "meaning": "[形] 素早い"
+    },
+    {
+        "word": "mighty",
+        "meaning": "[形] 強力な"
+    },
+    {
+        "word": "renowned",
+        "meaning": "[形] 有名な"
+    },
+    {
+        "word": "dim",
+        "meaning": "[形] ①薄暗い ②（記憶などが）ぼんやりした [他] ③ ～を暗くする"
+    },
+    {
+        "word": "gloomy",
+        "meaning": "[形] ①薄暗い ②陰気な，悲観的な"
+    },
+    {
+        "word": "barren",
+        "meaning": "[形] 不毛な"
+    },
+    {
+        "word": "idle",
+        "meaning": "[形] ①（仕事がなく）何もしていない ② 怠惰な [他] ③（away）（～を）何もしないでいる"
+    },
+    {
+        "word": "tiresome",
+        "meaning": "[形] 退屈な，うんざりする"
+    },
+    {
+        "word": "static",
+        "meaning": "[形] 静的な，（経済などで）変化のない，活気のない"
+    },
+    {
+        "word": "clumsy",
+        "meaning": "[形] 無器用な"
+    },
+    {
+        "word": "ignorant",
+        "meaning": "[形] 無知の"
+    },
+    {
+        "word": "reckless",
+        "meaning": "[形] 無謀な"
+    },
+    {
+        "word": "arbitrary",
+        "meaning": "[形] 独断的な，勝手な"
+    },
+    {
+        "word": "foul",
+        "meaning": "[形] ①（味，臭いなどが）不快な [名] ②（スポーツなどの）違反，ファウル"
+    },
+    {
+        "word": "shabby",
+        "meaning": "[形] みすぼらしい，おんぼろの"
+    },
+    {
+        "word": "monotonous",
+        "meaning": "[形] 単調な"
+    },
+    {
+        "word": "crude",
+        "meaning": "[形] ①粗末な，粗野な ②加工されていない"
+    },
+    {
+        "word": "fragile",
+        "meaning": "[形] 壊れやすい，もろい"
+    },
+    {
+        "word": "vulnerable",
+        "meaning": "[形] ①傷つきやすい，弱い ②（非難，攻撃を）受けやすい，（病気に）かかりやすい"
+    },
+    {
+        "word": "rust",
+        "meaning": "[名] ①さび [自] ②さびる"
+    },
+    {
+        "word": "plight",
+        "meaning": "[名] 窮状，苦境"
+    },
+    {
+        "word": "conventional",
+        "meaning": "[形] 従来の，慣習的な"
+    },
+    {
+        "word": "innate",
+        "meaning": "[形] （才能などが）先天的な，生まれつきの"
+    },
+    {
+        "word": "exotic",
+        "meaning": "[形] ①（動［植］物が）外来の ②異国情緒のある"
+    },
+    {
+        "word": "tame",
+        "meaning": "[形] ①飼い慣らされた，従順な [他] ②～を飼い慣らす"
+    },
+    {
+        "word": "solemn",
+        "meaning": "[形] ①（場所，祝祭が）厳粛な，（音楽が）荘厳な ②（態度が）真面目な"
+    },
+    {
+        "word": "manifest",
+        "meaning": "[形] ①明らかな [他] ②（姿勢，感情など）を明らかにする"
+    },
+    {
+        "word": "dense",
+        "meaning": "[形] 密集した，（霧などが）濃い"
+    },
+    {
+        "word": "superficial",
+        "meaning": "[形] 表面的な"
+    },
+    {
+        "word": "transparent",
+        "meaning": "[形] 透明な"
+    },
+    {
+        "word": "consistent",
+        "meaning": "[形] ①（with ～）矛盾のない，一致している ②安定した，不変の"
+    },
+    {
+        "word": "coherent",
+        "meaning": "[形] 一貫している"
+    },
+    {
+        "word": "universal",
+        "meaning": "[形] 普遍的な"
+    },
+    {
+        "word": "upright",
+        "meaning": "[副] ①直立して [形] ②直立した"
+    },
+    {
+        "word": "underlying",
+        "meaning": "[形] 根底にある"
+    },
+    {
+        "word": "spontaneous",
+        "meaning": "[形] 自然発生的な"
+    },
+    {
+        "word": "mock",
+        "meaning": "[形] ①模擬の，見せかけの [他] ②（からかって）～をまねる ③～をあざける"
+    },
+    {
+        "word": "liable",
+        "meaning": "[形] ①（to do）～しがちだ ②（to ～）（病気などに）かかりやすい ③（for ～）（～に対して）（法的に）責任がある"
+    },
+    {
+        "word": "converse",
+        "meaning": "[名] ①正反対 [形] ②正反対の [自] ③（with ～）（～と）会話する"
+    },
+    {
+        "word": "preliminary",
+        "meaning": "[形] ①予備的な，事前の ②予選の [名] ③予選"
+    },
+    {
+        "word": "version",
+        "meaning": "[名] ①（個人的な）解釈，意見 ②（製品などの）～版"
+    },
+    {
+        "word": "indigenous",
+        "meaning": "[形] （動［植］物，民族が）固有の"
+    },
+    {
+        "word": "decline",
+        "meaning": "[自] ①減る，衰退する [他] ②～を断る [名] ③ 衰退，減少"
+    },
+    {
+        "word": "multiply",
+        "meaning": "[他] ①～を増やす ②（A by B）（A）に（B を）掛ける [自] ③増える"
+    },
+    {
+        "word": "soar",
+        "meaning": "[自] ①（価格，温度が）急上昇する ②（鳥が）舞い上がる"
+    },
+    {
+        "word": "accumulate",
+        "meaning": "[他] ①～を蓄積する [自] ② 蓄積する"
+    },
+    {
+        "word": "exceed",
+        "meaning": "[他] ～を越える"
+    },
+    {
+        "word": "abundant",
+        "meaning": "[形] 豊富な"
+    },
+    {
+        "word": "ample",
+        "meaning": "[形] 豊富な"
+    },
+    {
+        "word": "gross",
+        "meaning": "[形] ①総計の ②（食べ物，行動などが）ひどい"
+    },
+    {
+        "word": "infinite",
+        "meaning": "[形] 無限の"
+    },
+    {
+        "word": "sole",
+        "meaning": "[形] ①唯一の [名] ②足の裏，靴底"
+    },
+    {
+        "word": "heap",
+        "meaning": "[名] ①山 ②（a － of ～）たくさんの～"
+    },
+    {
+        "word": "fraction",
+        "meaning": "[名] ①少量 ②分数，端数"
+    },
+    {
+        "word": "simultaneous",
+        "meaning": "[形] 同時の"
+    },
+    {
+        "word": "medieval",
+        "meaning": "[形] 中世の"
+    },
+    {
+        "word": "decade",
+        "meaning": "[名] 10年"
+    },
+    {
+        "word": "dawn",
+        "meaning": "[名] ①夜明け [自] ②夜が明ける ③（on ～）（～に）わかり始める"
+    },
+    {
+        "word": "span",
+        "meaning": "[名] ①（継続した）期間 ②（集中力，注意力，機械の持続）期間"
+    },
+    {
+        "word": "expire",
+        "meaning": "[自] 期限が切れる"
+    },
+    {
+        "word": "postpone",
+        "meaning": "[他] ～を延期する"
+    },
+    {
+        "word": "equip",
+        "meaning": "[他] ①～を装備させる，備え付ける ②（人）に（知識や能力などを）身につけさせる"
+    },
+    {
+        "word": "transmit",
+        "meaning": "[他] ①～を送る，伝える ②（病気など）をうつす"
+    },
+    {
+        "word": "endow",
+        "meaning": "[他] ～を授ける"
+    },
+    {
+        "word": "inherit",
+        "meaning": "[他] ～を受け継ぐ"
+    },
+    {
+        "word": "retrieve",
+        "meaning": "[他] ①～を回収する，取り戻す ②（ファイルなど）を検索する"
+    },
+    {
+        "word": "displace",
+        "meaning": "[他] ① ～に取って代わる ②（戦争，災害などで）～を（故郷などから）追い出す"
+    },
+    {
+        "word": "bond",
+        "meaning": "[名] ①きずな ②公債，社債"
+    },
+    {
+        "word": "ornament",
+        "meaning": "[名] （小さな）飾り，置物"
+    },
+    {
+        "word": "certificate",
+        "meaning": "[名] 証明書，免許状，鑑定書"
+    },
+    {
+        "word": "accommodation",
+        "meaning": "[名] （〈米〉－s）宿泊施設"
+    },
+    {
+        "word": "intersection",
+        "meaning": "[名] 交差点"
+    },
+    {
+        "word": "pavement",
+        "meaning": "[名] （主に〈英〉）歩道"
+    },
+    {
+        "word": "pedestrian",
+        "meaning": "[名] 歩行者"
+    },
+    {
+        "word": "excursion",
+        "meaning": "[名] 小旅行，遠足"
+    },
+    {
+        "word": "itinerary",
+        "meaning": "[名] 旅程（表）"
+    },
+    {
+        "word": "token",
+        "meaning": "[名] ①（as a － of）（～の）しるし（として） ②（バスなどで使われる）代用硬貨，トークン ③〈英〉商品引換券"
+    },
+    {
+        "word": "detergent",
+        "meaning": "[名] 洗剤"
+    },
+    {
+        "word": "purchase",
+        "meaning": "[他] ①～を購入する [名] ②購入（品）"
+    },
+    {
+        "word": "dwell",
+        "meaning": "[自] ①住む ②（on ～）（～をくどくど）考える"
+    },
+    {
+        "word": "juvenile",
+        "meaning": "[形] 青少年の"
+    },
+    {
+        "word": "adolescent",
+        "meaning": "[名] ①思春期の若者 [形] ②思春期の"
+    },
+    {
+        "word": "initial",
+        "meaning": "[形] ①最初の [名] ②頭文字，イニシャル"
+    },
+    {
+        "word": "precede",
+        "meaning": "[他] ～に先行する"
+    },
+    {
+        "word": "phase",
+        "meaning": "[名] 段階"
+    },
+    {
+        "word": "priority",
+        "meaning": "[名] 優先（事項）"
+    },
+    {
+        "word": "premise",
+        "meaning": "[名] ①前提 ②（－s）（建物を含めた）敷地"
+    },
+    {
+        "word": "legend",
+        "meaning": "[名] ①伝説，言い伝え ②伝説的人物"
+    },
+    {
+        "word": "masterpiece",
+        "meaning": "[名] 傑作"
+    },
+    {
+        "word": "ritual",
+        "meaning": "[名] ①（宗教的）儀式 [形] ②儀式の"
+    },
+    {
+        "word": "worship",
+        "meaning": "[名] ①崇拝，礼拝 [他] ②～を崇拝する [自] ③（神社などに）お参りする"
+    },
+    {
+        "word": "advent",
+        "meaning": "[名] ①到来 ②（the A－）キリストの降臨"
+    },
+    {
+        "word": "swear",
+        "meaning": "[自] ①誓う ②罵る"
+    },
+    {
+        "word": "confess",
+        "meaning": "[自] ①（to ～）（～を）白状する [他] ②～を認める"
+    },
+    {
+        "word": "verbal",
+        "meaning": "[形] 言葉による"
+    },
+    {
+        "word": "oral",
+        "meaning": "[形] ①口述の ②口の"
+    },
+    {
+        "word": "eloquent",
+        "meaning": "[形] 雄弁な"
+    },
+    {
+        "word": "linguistic",
+        "meaning": "[形] 言語の，言語学の"
+    },
+    {
+        "word": "plot",
+        "meaning": "[名] ①（小説，演劇などの）筋 ②悪だくみ，陰謀"
+    },
+    {
+        "word": "draft",
+        "meaning": "[名] ①下書き，草稿 [他] ②～を徴兵する [形] ③（－ beer）生の（ビール）"
+    },
+    {
+        "word": "statement",
+        "meaning": "[名] ①述べたこと，声明 ②（給与などの）明細書"
+    },
+    {
+        "word": "paradox",
+        "meaning": "[名] 逆説"
+    },
+    {
+        "word": "slang",
+        "meaning": "[名] （集合的に）俗語"
+    },
+    {
+        "word": "riddle",
+        "meaning": "[名] なぞなぞ，謎"
+    },
+    {
+        "word": "clarify",
+        "meaning": "[他] ～を明らかにする"
+    },
+    {
+        "word": "exhibit",
+        "meaning": "[他] ①～を展示する ②～を示す [名] ③展示物，展覧会"
+    },
+    {
+        "word": "portray",
+        "meaning": "[他] ～を描く"
+    },
+    {
+        "word": "attribute",
+        "meaning": "[他] ①（A to B） （A）を（B）のせいだとする [名] ②特性，属性"
+    },
+    {
+        "word": "console",
+        "meaning": "[他] ～を慰める"
+    },
+    {
+        "word": "arouse",
+        "meaning": "[他] ～を呼び起こす"
+    },
+    {
+        "word": "distract",
+        "meaning": "[他] ①（注意，意識など）をそらす ②～の気を紛らす"
+    },
+    {
+        "word": "plead",
+        "meaning": "[自] ①（with ～）（～に）懇願する [他] ②～を申し立てる"
+    },
+    {
+        "word": "yearn",
+        "meaning": "[自] ①切望する [他] ②～を切望する"
+    },
+    {
+        "word": "long",
+        "meaning": "[自] （for ～）（～を）切望する"
+    },
+    {
+        "word": "adore",
+        "meaning": "[他] ～を熱愛している"
+    },
+    {
+        "word": "utter",
+        "meaning": "[他] ①（叫び声など）を発する [形] ②まったくの"
+    },
+    {
+        "word": "exclaim",
+        "meaning": "[自] （驚き，怒りなどで）叫ぶ"
+    },
+    {
+        "word": "lament",
+        "meaning": "[他] ～を深く悲しむ，嘆く"
+    },
+    {
+        "word": "shed",
+        "meaning": "[他] ①（涙など）を流す ②（光）を当てる ③～を取り除く ④（ヘビなどが）（皮）を脱ぐ，（木が葉っぱ）を落とす"
+    },
+    {
+        "word": "resent",
+        "meaning": "[他] ～に憤慨する"
+    },
+    {
+        "word": "dread",
+        "meaning": "[他] ①～を恐れる [名] ②恐怖"
+    },
+    {
+        "word": "startle",
+        "meaning": "[他] ～を驚かせる"
+    },
+    {
+        "word": "thrill",
+        "meaning": "[他] ①～をぞくぞく［わくわく］させる [名] ②スリル"
+    },
+    {
+        "word": "humiliate",
+        "meaning": "[他] ～に恥をかかせる"
+    },
+    {
+        "word": "blush",
+        "meaning": "[自] ①赤面する [名] ②赤面"
+    },
+    {
+        "word": "frown",
+        "meaning": "[自] ①（on ～）（～に）眉をひそめる [名] ②しかめっ面"
+    },
+    {
+        "word": "dismay",
+        "meaning": "[他] ①～を狼狽させる [名] ②狼狽"
+    },
+    {
+        "word": "bewilder",
+        "meaning": "[他] （通例，受け身）～を当惑させる"
+    },
+    {
+        "word": "perplex",
+        "meaning": "[他] ～を困惑させる"
+    },
+    {
+        "word": "disgust",
+        "meaning": "[他] ①～に嫌悪を抱かせる [名] ②嫌悪"
+    },
+    {
+        "word": "despise",
+        "meaning": "[他] ～を軽蔑する"
+    },
+    {
+        "word": "furious",
+        "meaning": "[形] 激怒した"
+    },
+    {
+        "word": "intimate",
+        "meaning": "[形] ①親密な ②（知識などが）深い"
+    },
+    {
+        "word": "intriguing",
+        "meaning": "[形] 興味深い"
+    },
+    {
+        "word": "conscience",
+        "meaning": "[名] 良心"
+    },
+    {
+        "word": "self-esteem",
+        "meaning": "[名] 自尊心"
+    },
+    {
+        "word": "mercy",
+        "meaning": "[名] ①慈悲，情け ② 幸運"
+    },
+    {
+        "word": "aspiration",
+        "meaning": "[名] 熱望"
+    },
+    {
+        "word": "grief",
+        "meaning": "[名] （人の死などに対する）深い悲しみ"
+    },
+    {
+        "word": "distress",
+        "meaning": "[名] ①苦しみ，苦難 [他] ②～を苦しめる"
+    },
+    {
+        "word": "apprehension",
+        "meaning": "[名] ①不安 ②逮捕"
+    },
+    {
+        "word": "melancholy",
+        "meaning": "[名] 憂うつ，ふさぎ込み"
+    },
+    {
+        "word": "contempt",
+        "meaning": "[名] 軽蔑"
+    },
+    {
+        "word": "insult",
+        "meaning": "[名] ①侮辱 [他] ②～を侮辱する"
+    },
+    {
+        "word": "nuisance",
+        "meaning": "[名] 迷惑（になるもの）"
+    },
+    {
+        "word": "menace",
+        "meaning": "[名] （to ～）（～にとっての）厄介なもの［人］，脅威"
+    },
+    {
+        "word": "verge",
+        "meaning": "[名] ①瀬戸際，寸前 ② 道路べり，（場所の）縁"
+    },
+    {
+        "word": "incentive",
+        "meaning": "[名] 励み"
+    },
+    {
+        "word": "outcome",
+        "meaning": "[名] 結果"
+    },
+    {
+        "word": "thorough",
+        "meaning": "[形] 完全な，徹底的な"
+    },
+    {
+        "word": "adequate",
+        "meaning": "[形] 十分な，適切な"
+    },
+    {
+        "word": "overall",
+        "meaning": "[形] ①全体的な，全面的な [副] ②全体的に，全面的に"
+    },
+    {
+        "word": "ultimate",
+        "meaning": "[形] 究極の，最終の"
+    },
+    {
+        "word": "genuine",
+        "meaning": "[形] ①（感情が）心からの ②（絵画などが）本物の"
+    },
+    {
+        "word": "radical",
+        "meaning": "[形] ①根本的な，抜本的な ②過激な"
+    },
+    {
+        "word": "drastic",
+        "meaning": "[形] 抜本的な，思い切った"
+    },
+    {
+        "word": "trivial",
+        "meaning": "[形] ささいな"
+    },
+    {
+        "word": "virtually",
+        "meaning": "[副] 事実上"
+    },
+    {
+        "word": "abruptly",
+        "meaning": "[副] 不意に，突然"
+    },
+    {
+        "word": "deliberately",
+        "meaning": "[副] ①故意に ②慎重に"
+    },
+    {
+        "word": "hence",
+        "meaning": "[副] だから，それゆえに"
+    },
+    {
+        "word": "namely",
+        "meaning": "[副] すなわち"
+    },
+    {
+        "word": "whereas",
+        "meaning": "[接] ～だが一方"
+    }
+]
