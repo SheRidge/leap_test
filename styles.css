@@ -8,6 +8,32 @@ body {
   background-color: #f4f4f9;
 }
 
+/* ナビゲーションバーのスタイル例 */
+.navbar {
+  background-color: #333;      /* 背景色 */
+  padding: 0.5rem 1rem;       /* 余白 */
+}
+
+.navbar ul {
+  list-style: none;           /* ●などのリストマーカーを非表示 */
+  margin: 0;
+  padding: 0;
+  display: flex;              /* 横並びにする */
+}
+
+.navbar li {
+  margin-right: 1rem;
+}
+
+.navbar a {
+  color: #fff;                /* 文字色を白に */
+  text-decoration: none;      /* 下線を消す */
+}
+
+.navbar a:hover {
+  text-decoration: underline; /* ホバー時に下線を表示 */
+}
+
 .container {
   text-align: center;
   background-color: white;
