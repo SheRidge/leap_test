@@ -113,3 +113,78 @@ a.btn:hover:after {
   border-left-color: #27acd9;
   transition: border-color 0s ease-out 0.2s, width 0.15s ease-out 0.2s, height 0.15s ease-out 0.3s;
 }
+
+@import "https://use.fontawesome.com/releases/v5.13.0/css/all.css";
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+.btn,
+a.btn,
+button.btn {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  position: relative;
+  display: inline-block;
+  padding: 1rem 4rem;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  color: #212529;
+  border-radius: 0.5rem;
+}
+
+a.btn-c {
+  font-size: 1.8rem;
+
+  position: relative;
+
+  padding: 1.5rem 2rem 1.5rem 2rem;
+
+  color: #fff;
+  border-radius: 100vh;
+  background: #eb6877;
+  -webkit-box-shadow: 0 5px 0 #e85163;
+  box-shadow: 0 5px 0 #e85163;
+}
+
+a.btn-c span {
+  color: #fff100;
+}
+
+a.btn-c small {
+  font-weight: bold;
+}
+
+a.btn-c i {
+  margin-right: 1rem;
+}
+
+a.btn-c:hover {
+  -webkit-transform: translate(0, 3px);
+  transform: translate(0, 3px);
+
+  color: #fff;
+  background: #ee7f8b;
+  -webkit-box-shadow: 0 2px 0 #e85163;
+  box-shadow: 0 2px 0 #e85163;
+}
