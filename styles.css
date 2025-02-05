@@ -25,7 +25,7 @@ body {
   margin-right: 1rem;
 }
 
-.navbar a {
+.navbar{
   color: #fff;                /* 文字色を白に */
   text-decoration: none;      /* 下線を消す */
 }
