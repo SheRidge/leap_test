@@ -26,8 +26,12 @@ body {
 }
 
 .navbar{
-  color: #fff;                /* 文字色を白に */
+  color: #fff; /* 文字色を白に */
   text-decoration: none;      /* 下線を消す */
+}
+
+.navbar a{
+  color:#fff
 }
 
 .navbar a:hover {
