@@ -44,6 +44,7 @@ function showAnswer() {
 
 function showHint() {
   const correctAnswer = currentWord.word.toLowerCase();
-  const Hint = correctAnswer.charAt[0];
+  const hint = correctAnswer.charAt(0);     // 1文字目を取得
 
-  document.getElementById('hint').textContent = '「${Hint.word}...?」
+  document.getElementById('hint').textContent = `「${hint}...?」`;
+}
