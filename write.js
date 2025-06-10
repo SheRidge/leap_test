@@ -41,3 +41,9 @@ function showAnswer() {
     document.getElementById('result').style.color = 'red';
   }
 }
+
+function showHint() {
+  const correctAnswer = currentWord.word.toLowerCase();
+  const Hint = correctAnswer.charAt[0];
+
+  document.getElementById('hint').textContent = '「${Hint.word}...?」
