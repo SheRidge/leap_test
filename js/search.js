@@ -35,25 +35,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // Allow searching by pressing Enter key
+    // Allow searching by pressing Enter key
   input.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
       searchBtn.click();
     }
-  // Search button handler
-  const searchBtn = document.getElementById('search');
-  searchBtn.addEventListener('click', () => {
-    const input = document.getElementById('rangeStart');
-    const index = parseInt(input.value, 10);
-    const result = document.getElementById('meaning');
-
-    if (isNaN(index) || index < 1 || index > words.length) {
-      result.textContent = 'その番号の単語は見つかりません。';
-      return;
-    }
-
-    const wordData = words[index - 1];
-    result.textContent = `${wordData.word}: ${wordData.meaning}`;
   });
 });
-
